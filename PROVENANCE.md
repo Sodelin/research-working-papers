@@ -72,6 +72,14 @@ hash remains in the manifest; the adapted hash reflects this omission. Earlier
 public Git versions still contain the inherited link. This correction does not
 determine whether its target was accessible or whether any disclosure occurred.
 
+The public version `a07c18e13800968ca7c788257a8725d0a7fac433` was separately
+archived as a source snapshot with Software Heritage on 3 November 2026:
+[`swh:1:dir:53126b1dc8e1e3ffeb6f6268ae42bf78a5b61a5a`](https://archive.softwareheritage.org/swh:1:dir:53126b1dc8e1e3ffeb6f6268ae42bf78a5b61a5a/).
+The archive's directory identifier matches the Git tree of that commit, and
+the archived chapter 8 bytes match the manifest SHA-256. The archive request
+used the selected source tarball rather than the repository's older Git history.
+An archive identifier is not a DOI, a journal submission or a proof review.
+
 The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
 the research-connections owner's local commit
 `6bda163527d08c1fe8f623c03657f7d1a50aaa83`, `research/quantum-connections.md`
