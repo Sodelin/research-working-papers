@@ -319,3 +319,16 @@ and explicitly preserve the coefficient correction and the acceptance's
 attributed AI-review involvement. No method outcome was promoted from UNKNOWN.
 The original termination and natural-BOTH acceptance bodies returned HTTP 200;
 the latter matched the source selection. No new proof or compiler run occurred.
+
+
+The [G6 robust-certification guide](guide/G6-ROBUST-CERTIFICATION-CONNECTIONS.md)
+adapts research-connections source
+`495d2be726b8cc4f43c98bb2fabaebea717a57cb:research/g6-robust-certification-connections.md`
+(SHA-256 `31aee5f5e37ab7c54a6b6d6ce18a15b2b52e4e82a8d422858722dd429cdac541`),
+and its six contract records adapt the same-commit JSON source
+(SHA-256 `023120200f31ca6199db221af4b844185ba9a38b101c158a23b65a73ae284ba2`).
+The adaptation adds a pinned review link and its original AI attribution,
+replaces internal operational wording, and uses the chosen public identifier
+in the JSON schema name. The six contract records remain unchanged. The
+review body matched its retained source SHA-256 on 3 November 2026. No new
+model, compiler, solver or human review was performed.

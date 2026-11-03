@@ -35,6 +35,10 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[G6 robust certification](guide/G6-ROBUST-CERTIFICATION-CONNECTIONS.md)
+explains honest finite conclusions, abstention and the observation and
+implementation requirements that remain.
+
 [G3 recognition methods](guide/G3-RECOGNITION-CONNECTIONS.md) and
 [G4 finite observations](guide/G4-FINITE-OBSERVATION-CONNECTIONS.md) set out
 usable scoped results and the total-decision and finite-observation bridges

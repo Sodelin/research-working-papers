@@ -1,0 +1,42 @@
+{
+  "schema": "sodelin.g6-certification-contracts.v1",
+  "scope": "Source-level contracts, not runtime authorization or new theorem.",
+  "contracts": [
+    {
+      "id": "ROBUST-FIBRE-ANSWER",
+      "input_contract": "Declared effective experiment and closure clouds, finite target alphabet, fresh row streams.",
+      "result": "H constant on robust fibre permits high-probability honest finite certification; conflicting H gives the stated necessity bound.",
+      "limit": "Not universal exact-target termination or arbitrary real-oracle access."
+    },
+    {
+      "id": "TWO-SIDED-CLOUD",
+      "input_contract": "Source-preserving finite representative, full joint feasibility and witness/proxy error bounds.",
+      "result": "Certified finite approximation to target-law closure in both Hausdorff directions.",
+      "limit": "Timeout/missing witness is not empty image; proxies need not be physical sources."
+    },
+    {
+      "id": "JOINT-HISTORY-BUDGET",
+      "input_contract": "One common initialization, source kernels and joint history; occurrence-level common mass.",
+      "result": "Product retained mass bounds one joint readout TV error.",
+      "limit": "Does not multiply marginal laws or grant shared error across separately executed programs."
+    },
+    {
+      "id": "NATURAL-PAST-SUFFIX",
+      "input_contract": "Actual correlated endpoint/bin law, legal cuts, offsets and same completion kernel.",
+      "result": "Keep exact past; charge finite-prefix approximation only to suffix.",
+      "limit": "Does not compute unknown past or prove empirical genealogy admission."
+    },
+    {
+      "id": "CORRUPTION-SEPARATION",
+      "input_contract": "Finite observed alphabet, calibrated full TV balls and wrong-property closed image.",
+      "result": "Every-corruption certification requires strict distance greater than twice common radius.",
+      "limit": "Equality obstructed; different contamination neighborhoods and sample complexity require separate analysis."
+    },
+    {
+      "id": "EXTERNAL-COST-QUESTION",
+      "input_contract": "Primary robust binary-testing model and contamination-dependent sample cost.",
+      "result": "Relevant unresolved instability-scale and asymmetric-contamination questions in cited preprint.",
+      "limit": "Unequal-radius overlap geometry and G6 honesty do not solve those cost questions."
+    }
+  ]
+}
