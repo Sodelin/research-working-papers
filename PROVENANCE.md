@@ -376,6 +376,8 @@ The [finite-sampling guide](guide/FINITE-SAMPLING.md) adapts research-connection
 
 The v0.25.0 `calibration-working-source.pdf` is a portable source reading copy, not typeset mathematics. It was generated from `4a790cc4fe8e1efa4dd95f2ab4bce33591bc9664:manuscripts/calibration/MANUSCRIPT.md`, SHA-256 `fb4e44f614f7a449dddae51a206092ecf6e656d012bb72b896e1cc2a604628a1`. Markdown and TeX remain literal; the few non-ASCII symbols are spelled out as indicated in the PDF. The three-page artifact is 5,766 bytes, SHA-256 `bbd1ab5c1b76c3a034732d535160c33d74826637b299b7120af0151299262f68`. Independent text extraction recovered the entire transformed source after whitespace normalization. This is a format and completeness check, not a new mathematical verification. See [build notes](tools/README-PDF.md).
 
+The seven v0.28.0 portable source PDFs use the exact public manuscript bodies at `efff63beebe800802ee98a59e4dd7ef8850e0020`. Each PDF embeds its original Markdown and the two applicable font-license notices as attachments. The [manifest](docs/portable-pdf-manifest.json) binds each source and PDF SHA-256, size and page count. Font glyph coverage, attachment bytes and full Unicode text extraction after whitespace normalization were checked; this was not a complete visual-layout review or mathematical verification. The MSci PDF uses the public 76,244-byte portable manuscript, not the distinct 75,969-byte original source edition. Markdown, TeX and image references remain literal; figures are not embedded in the page view. [Bundle and build notes](tools/README-PORTABLE-BUNDLE.md).
+
 
 ### Observation transfers, demographic laws and cellular measurements
 

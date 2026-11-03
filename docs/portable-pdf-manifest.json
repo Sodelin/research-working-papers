@@ -1,0 +1,68 @@
+{
+  "source_commit": "efff63beebe800802ee98a59e4dd7ef8850e0020",
+  "files": [
+    {
+      "slug": "msci",
+      "source": "manuscripts/msci/MANUSCRIPT.md",
+      "source_sha256": "10f67326d0bae07147f9a84a4bc508dd6332cc6a18661d55f989b902172cd9a0",
+      "pdf": "msci-working-source.pdf",
+      "pdf_sha256": "d42fa6aa50d9af1910d028527a4f2fc12c0db174f51fa2e3c1d8b2adfb7177ef",
+      "bytes": 162132,
+      "pages": 17
+    },
+    {
+      "slug": "calibration",
+      "source": "manuscripts/calibration/MANUSCRIPT.md",
+      "source_sha256": "fb4e44f614f7a449dddae51a206092ecf6e656d012bb72b896e1cc2a604628a1",
+      "pdf": "calibration-working-source.pdf",
+      "pdf_sha256": "7a9ffc487265dde7b9b1331dccab7d5a58b9a4bdffc998df898bc6fc69c965d4",
+      "bytes": 41079,
+      "pages": 3
+    },
+    {
+      "slug": "product-coin",
+      "source": "manuscripts/product-coin/MANUSCRIPT.md",
+      "source_sha256": "f58dc86fadf367b6ce757a31451a81012b2a9aa3282350fa92b532dd91b50a8f",
+      "pdf": "product-coin-working-source.pdf",
+      "pdf_sha256": "075856c4b26b3e4b702300423984b0c1cd8e9c12bd16ffd4f66a8cceeead41e9",
+      "bytes": 43047,
+      "pages": 3
+    },
+    {
+      "slug": "cap-three",
+      "source": "manuscripts/cap-three/MANUSCRIPT.md",
+      "source_sha256": "b8cca87290bdbc3bea4dd0b27dba9ba8f5d04b1ac6caaf872f06a52ef0beeda1",
+      "pdf": "cap-three-working-source.pdf",
+      "pdf_sha256": "72f1733daf0e281a44555b98f2ab600a963295e57a42245ef71ad9648c6740df",
+      "bytes": 44862,
+      "pages": 3
+    },
+    {
+      "slug": "g6-fixed-cell",
+      "source": "manuscripts/g6-fixed-cell/MANUSCRIPT.md",
+      "source_sha256": "5e088abe6b1db09e0c571b98062298f663f7ae0b15ab65ecd74d8b186a56fb3a",
+      "pdf": "g6-fixed-cell-working-source.pdf",
+      "pdf_sha256": "0fcffe13dde5f527faa09aeb956d85e37a12eabccc4fa16c45250eb64c890841",
+      "bytes": 42468,
+      "pages": 3
+    },
+    {
+      "slug": "thue-morse",
+      "source": "manuscripts/sequence/Thue-Morse-Hand-Proofs.md",
+      "source_sha256": "e81fc46687a4de968f67242421daeb3d9761960b1363dedc55abe4a357bd8e35",
+      "pdf": "thue-morse-working-source.pdf",
+      "pdf_sha256": "fcf9af0b06032fb6c3b6db5a2fd7eea5d48530e89e51598a29133813b5dc3064",
+      "bytes": 81785,
+      "pages": 8
+    },
+    {
+      "slug": "pattern-hierarchies",
+      "source": "manuscripts/sequence/Pattern-Hierarchies-and-Selected-Digit-Proofs.md",
+      "source_sha256": "f9c3201ca6cbc8cb2ea50b39b509a49e66acdec1b7dbf8793f945a7731cf779e",
+      "pdf": "pattern-hierarchies-working-source.pdf",
+      "pdf_sha256": "89fee378cd63903292f05681321e0cab9f5112ea90602c401c622f1aaf950b42",
+      "bytes": 132350,
+      "pages": 16
+    }
+  ]
+}

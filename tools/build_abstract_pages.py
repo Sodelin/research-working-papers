@@ -57,9 +57,8 @@ for slug in args.only or SLUGS:
     description = escape(paragraphs[0][:220], quote=True)
     digest = sha256(raw).hexdigest()
     pdf_link = (
-        f'<p><a href="{REPO}/releases/download/v0.25.0/calibration-working-source.pdf">'
-        'Download the portable source PDF</a> (literal Markdown and TeX).</p>'
-        if slug == 'calibration' else ''
+        f'<p><a href="{REPO}/releases/download/v0.28.0/{slug}-working-source.pdf">'
+        'Download the portable source PDF</a> (literal Markdown and TeX; original source attached).</p>'
     )
     page = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">

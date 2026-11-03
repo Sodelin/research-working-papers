@@ -4,8 +4,7 @@
 
 [Subscribe to collection updates](https://sodelin.github.io/research-working-papers/feed.xml) with an Atom feed reader.
 
-The rare-event calibration paper is also available as a [portable source PDF](https://github.com/Sodelin/research-working-papers/releases/download/v0.25.0/calibration-working-source.pdf). It preserves literal Markdown and TeX rather than typeset mathematics; the original linked source remains authoritative.
-for a concise introduction to the papers and guides.
+All seven selected manuscripts are also available in a [portable source PDF bundle](https://github.com/Sodelin/research-working-papers/releases/download/v0.28.0/working-manuscripts-source-pdfs.zip). Each PDF attaches its exact original Markdown and preserves its characters; Markdown, TeX and image references remain literal rather than typeset. The original linked sources and supporting files remain authoritative.
 
 This collection makes a selection of AI-assisted mathematical research available for discussion, correction and collaboration. Each reading edition states its model, sources and current checking status. **Sodelin organizes and shares the project**; the underlying proof sources and AI contributions are credited in the individual papers. A final scientific author list has not been established.
 
