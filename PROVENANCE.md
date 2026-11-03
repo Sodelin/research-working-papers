@@ -66,6 +66,12 @@ at Research Commons commit `27b143c73a4ac272b560b2974d83ff96df738531` and
 restored those six citations. Seventeen local-source references remain marked
 unavailable in this edition.
 
+The current chapter 8 adaptation omits one inherited external link whose
+target visibility and sharing status were not established. Its original source
+hash remains in the manifest; the adapted hash reflects this omission. Earlier
+public Git versions still contain the inherited link. This correction does not
+determine whether its target was accessible or whether any disclosure occurred.
+
 The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
 the research-connections owner's local commit
 `6bda163527d08c1fe8f623c03657f7d1a50aaa83`, `research/quantum-connections.md`

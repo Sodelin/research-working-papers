@@ -61,10 +61,11 @@
     {
       "path": "08-SOURCE-AND-OBSERVATION-ADAPTERS.md",
       "source_sha256": "5b44cdc51f09f7c8e5f32525dfcdd8a2f407b85709c6c246f966972922db5a83",
-      "published_sha256": "0e8ee325a0bb5c055bc5f11e64ec05c9c47090f3fd1b45b1d570d8dbb0617fb8",
+      "published_sha256": "16eb44bd4526dd456e8d213c5667ee1fff2e7eae5f8fd75a42b7e70f5d3040c4",
       "unavailable_links": 0,
       "public_source_links": 0,
-      "identity_substitutions": 0
+      "identity_substitutions": 0,
+      "omitted_unverified_visibility_links": 1
     },
     {
       "path": "09-PHYSICS-MATERIALS-AND-CERTIFICATION.md",
