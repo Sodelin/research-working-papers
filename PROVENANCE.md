@@ -100,3 +100,14 @@ the unchanged authored source at research-connections commit
 `e4b3dbfadacd093a70c4aaf3f94b2edb2eb6c5b058256d3d985a18d4cb66490d`).
 Its separate AI-review, historical-priority and noncomputable-parameter
 boundaries are part of the reading selection, not new independent checks.
+
+The [G1](guide/G1-EVIDENCE.md) and [G2](guide/G2-EVIDENCE.md) evidence notes
+are public reading adaptations of manuscript owner Terra's dated portfolio rows
+`c4f81bb3713827169fac506aaf0a86fe49682a29:research/corpus-portfolio/G1-EVIDENCE-JOIN.md`
+(SHA-256 `f1bcd43dcafc19a374ea15b12f49aaee869565536f01b30c54d2a39584d039c7`)
+and `c36d2a5b617668d3e545f5c87ef95cd7d98bfd17:research/corpus-portfolio/G2-EVIDENCE-JOIN.md`
+(SHA-256 `96807cb6b297cf172a92d8f0b3a2d22be356902540715bf3914372d4d8789460`).
+The adaptation links two exact public Lean endpoint bodies, marks five local
+references unavailable, dates the old publication statements, and adds only
+anonymous byte-identity observations. It does not establish their imported
+proof closures or validate the biological source model.

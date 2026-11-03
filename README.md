@@ -41,6 +41,10 @@ together twelve existing research chapters and a dated source-linked catalogue.
 It distinguishes open questions, hand arguments, reported formal components
 and missing source references; its entries are not counts of new discoveries.
 
+The [G1 bounded-core evidence note](guide/G1-EVIDENCE.md) and [G2 sample-
+restriction evidence note](guide/G2-EVIDENCE.md) connect two selected claims
+to their source records and distinguish historical reports from fresh checks.
+
 [Selected-digit connections](guide/SELECTED-DIGIT-CONNECTIONS.md) links the
 working formulas to established special cases, later work and questions for
 specialist review.
