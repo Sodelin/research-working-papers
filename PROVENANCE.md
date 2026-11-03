@@ -69,6 +69,16 @@ The adaptation substitutes the project's chosen public name; the result and
 open-bridge descriptions are unchanged. It is a reading guide, not a new
 correctness, physical-admission or novelty review.
 
+The [quantum decoding and estimation map](guide/QUANTUM-LOSS-CONNECTIONS.md)
+was adapted from research-connections commit
+`141a14cd13e33601fdfccc70d7ae9b21394cac94`,
+`research/quantum-loss-connections.md` (SHA-256
+`cee28571c4119ec91bff1b2fd98b2d25f899e2909a8eee9c29a07812b0a9500f`).
+The adaptation uses the chosen public name and links the companion map; the
+scope and source-review boundaries are preserved. The counterexample, actual
+square-root application and AI review were separately read from their public
+source URLs and matched the hashes recorded in the map.
+
 The [binary morphism stability connection](guide/AVOIDANCE-CONNECTION.md)
 was adapted from research-connections commit
 `8a57cbeac0c15c8af7305fd06721f9a797686f78`,

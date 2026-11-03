@@ -1,5 +1,8 @@
 # Working research papers
 
+[Open the public reader page](https://sodelin.github.io/research-working-papers/)
+for a concise introduction to the papers and guides.
+
 This collection makes a selection of AI-assisted mathematical research available for discussion, correction and collaboration. Each reading edition states its model, sources and current checking status. **Sodelin organizes and shares the project**; the underlying proof sources and AI contributions are credited in the individual papers. A final scientific author list has not been established.
 
 These are working papers, not journal articles or claims of established priority. Some components have reported formal checks; those reports apply only to the declarations and assumptions identified in the papers. None of the papers claims independent human peer review or a validation on biological data. Corrections and relevant prior work are welcome through this repository's issue tracker.
@@ -41,6 +44,10 @@ and missing source references; its entries are not counts of new discoveries.
 [Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
 selected Gibbs-certification and coarse-graining results to the external
 questions and the mathematical or physical bridges still needed.
+
+[Quantum decoding and estimation](guide/QUANTUM-LOSS-CONNECTIONS.md) links
+three additional scoped measurement and loss comparisons to their original
+sources and the remaining uniform-risk question.
 
 The [binary morphism stability connection](guide/AVOIDANCE-CONNECTION.md)
 sets out a proposed answer to a specified length-set conjecture, its prior
