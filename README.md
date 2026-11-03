@@ -26,6 +26,9 @@ The [exact source-edition index](source-editions/README.md) identifies the origi
 
 The broader [Research Commons](https://github.com/Sodelin/Research-Commons) and [work relating to Samuel Alexander's research](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-) contain additional materials. This first selection is not the complete research corpus, and overlapping records are not counts of independent discoveries.
 
+The public reader also provides individual HTML abstracts for the five selected
+[working manuscripts](https://sodelin.github.io/research-working-papers/).
+
 ## Connections to research questions
 
 [What the work connects to](guide/CONNECTIONS.md) is a source-linked selection
