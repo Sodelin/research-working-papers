@@ -35,6 +35,15 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[Phylogenetic observation connections](guide/PHYLOGENETIC-OBSERVATION-CONNECTIONS.md)
+reconciles the selected core, sampling, fixed-family MSci and NANUQ results
+with the scope of their underlying sources and reported formal checks.
+
+[Sequence recovery and alignment](guide/SEQUENCE-ALIGNMENT-CONNECTIONS.md),
+[statistical decision contracts](guide/STATISTICAL-DECISION-CONTRACTS.md) and
+[physics task contracts](guide/PHYSICS-TASK-CONTRACTS.md) distinguish the
+existing results from missing proofs, model bridges and external prior work.
+
 [State, ancestry and memory](guide/STATE-REPRESENTATION-CONNECTIONS.md)
 explains three existing results on certificates, finite-state liveness and
 materials descriptors, with the separate scientific bridges still needed.

@@ -248,3 +248,44 @@ preamble; its mathematical body and original attribution remain. The independent
 bytes and SHA-256 `8b6601a760c45ccac2e9a104499a0e74464abeea26b99f339a3b8e902c972348`.
 These are identity observations, not a new proof audit or a statement about the
 visibility of the omitted link targets.
+
+
+The [sequence and alignment](guide/SEQUENCE-ALIGNMENT-CONNECTIONS.md) and
+[physics task](guide/PHYSICS-TASK-CONTRACTS.md) guides adapt research-connections
+commit `68efbc98905dabef02c36ce8c50af8ada423f79d`, respectively
+`research/sequence-alignment-connections.md` (SHA-256
+`dd4253dc80e94c786db42c4165256483a8be6b1e47bc098e82044a188ba542d8`) and
+`research/physics-task-contracts.md` (SHA-256
+`382653608438097cc7ad7296028ca3a473bf073ca99ef01a5fe2f88cbaf039fc`).
+The adaptation replaces local evidence references with public links and removes
+operational bookkeeping; existing mathematical scope and attribution remain.
+The primary Best–Peres question, Li–Ren–Wen record and Escudero Gutiérrez–Lee–Zur
+Corollary 4.4 were read in their linked versions; no full-proof audit is claimed.
+
+The [phase-control note](guide/NOISY-SEQUENCE-PHASE.md) adapts the theorem-guide
+source `17cb7c4577ab91f067babbe4335f3f349c3d1048:research/noisy-sequence-phase.md`
+(SHA-256 `495cfab4a3f1cdf60aacc9c80ff9a3747577e5589e83d515e54ace1f14f70831`).
+It retains the finite phase-control discussion and replaces local links with
+public sources; its unrelated bioinformatics comparison and local operational
+notes are omitted. The source's historical calculations and tests were not rerun.
+
+The [statistical decision guide](guide/STATISTICAL-DECISION-CONTRACTS.md)
+adapts research-connections source
+`6ca521c721febdf534f0060dbdc792e55abe61eb:research/statistical-decision-boundaries.md`
+(SHA-256 `4b7666bdcc5433dc0c6787284949a5839ee8f224a2aad8f2c248361301158f22`),
+replacing local evidence and operational notes with public references. The
+independent-seed and compact-certificate bodies linked in that guide returned
+HTTP 200 on 3 November 2026 and matched their reported hashes. Source identity
+is not independent proof review, a complete rights audit or biological validation.
+
+
+The [phylogenetic observation guide](guide/PHYLOGENETIC-OBSERVATION-CONNECTIONS.md)
+adapts research-connections source
+`242e01863de82b6275ce1ff5a9ca5b9b347d091d:research/phylogenetic-observation-connections.md`
+(SHA-256 `3bd596e24c858c93a9f1b511e2c01e0ed039da9e17ae6f494751e14860da2b43`).
+The adaptation replaces local ownership/operational notes with links to existing
+public sources. The public MSci qualification, pulse-obstruction and model-
+convention bodies matched the selected v0.17.0 Git bodies and the three hashes
+in the source assessment. The analytic injectivity receipt covers only the named
+formula result; the process/observation bridge, Jacobian and interval claims
+remain outside it. No Lean or biological execution was performed here.
