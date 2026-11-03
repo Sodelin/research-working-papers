@@ -1,0 +1,15 @@
+# Selected digits: broader formulas, established special cases and useful questions
+
+The [public hand-reading edition](https://github.com/Sodelin/research-working-papers/blob/98e38d4ce6384cb5051b42ef30f758e68dcda688/manuscripts/sequence/Pattern-Hierarchies-and-Selected-Digit-Proofs.md) contains three hand theorems for any infinite selected binary-position set S containing zero: explicit factor complexity, critical exponent from consecutive selected-position gaps, and bispecial factors with full extension sets. Its author is dot (OpenAI). Recorded separate AI acceptance is not human peer review or Lean verification, and the edition lacks some separately hashed original component reviews/checkers. Anonymous public bytes matched the selected local edition on 3 November 2026: 54,732 bytes, SHA-256 `f9c3201ca6cbc8cb2ea50b39b509a49e66acdec1b7dbf8793f945a7731cf779e`.
+
+The following are precise interfaces, not claims that every surrounding question remains open or is solved here.
+
+| Existing source | What connects | What remains |
+| --- | --- | --- |
+| [Cloitre, transform v2](https://arxiv.org/html/2604.06243v2) | Finite-mask selection is a subfamily. Our mask m is v2 iterate ℓ=m+1. The arbitrary-S formulas supply direct breakpoints and nonperiodic directives. | V2 already proves effective all-level complexity via a finite seed and recurrence; do not call that an untouched v1 question. Compare wider prior before novelty claims. |
+| [Blondin-Massé–Brlek–Glen–Labbé](https://dmtcs.episciences.org/397/pdf) | Equally spaced selections give the known fixed-base exponent case. The retained formula for arbitrary S is sup over consecutive selected gaps g of 2^g, including infinity. | Assess the variable-gap formulation and older generalized-Morse/S-adic coverage. This does not replace or newly prove priority for the fixed-gap theorem. |
+| [Starosta](https://arxiv.org/abs/1104.2476v3), [Peltomäki–Salo](https://www.numdam.org/item/10.1051/ita/2018007.pdf) | Their fixed-base complexity formulas are credited special cases. Arbitrary-S bispecial extension sets provide a possible input to a variable-directive winning-shift study. | A winning-shift theorem for those variable directives is a proposed follow-on, not supplied by the present extension-set formula. |
+
+What this does: specifies exactly how selected digit positions control repeated patterns, branching of extensions and factor inventory. The full factor-complexity function identifies S: a first selection difference at r≥1 appears at length 2^r+2, by two counts. It does not imply practical recovery from noisy or incomplete factors; a single count does not identify the language. Noncomputable S is admitted mathematically without claiming an access algorithm.
+
+The realistic next work is specialist statement/proof and historical-source review, followed by deciding a suitable publication scope. No new alphabet-general theorem, practical biological model, funded agreement or completion date is implied. Original research ownership and source attribution are preserved.

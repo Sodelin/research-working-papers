@@ -92,3 +92,11 @@ was adapted from research-connections commit
 The public adaptation removes outreach bookkeeping and leaves the stated
 result, attribution and review boundaries intact. The hand proof and its
 AI review are linked at immutable public source versions.
+
+The [selected-digit connection map](guide/SELECTED-DIGIT-CONNECTIONS.md) is
+the unchanged authored source at research-connections commit
+`1dc99837e863f5d8e5e4b3f2c7e29549b4ff1737`,
+`research/selected-digit-connections.md` (SHA-256
+`e4b3dbfadacd093a70c4aaf3f94b2edb2eb6c5b058256d3d985a18d4cb66490d`).
+Its separate AI-review, historical-priority and noncomputable-parameter
+boundaries are part of the reading selection, not new independent checks.
