@@ -46,26 +46,19 @@ The exact elementary statements are:
 
 These are standard factorization/observability ideas with their source roles explicit; they are not proof of universal self-similarity, model internals or a scientific mechanism. The proposed intervention examines decisive dependencies, generates a consequential stronger target/representation and seeks a discriminating test. Comparing it against ordinary execution and generic auditing under matched total budgets remains a proposed empirical evaluation; no such experiment occurred.
 
-The source's14-entry direction catalogue is not14adopted or solved projects. BIO-1's exact structural query gap has the later exact-query results in chapter 03, while noisy NMSC acquisition remains open. BIO-3has the selected one-adult finite/deterministic reversal in chapter 06, not a universal population-size conclusion. [Public attribution, exact conceptual sources and reading order](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/README.md), [source manifest](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/SOURCE-MANIFEST.json).
+The source's14-entry direction catalogue is not14adopted or solved projects. BIO-1's exact structural query gap has the later exact-query results in chapter 03, while noisy NMSC acquisition remains open. [Public attribution, exact conceptual sources and reading order](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/README.md), [source manifest](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/SOURCE-MANIFEST.json).
 
-For completeness, the 14 direction labels in the inherited [programme coverage map](https://github.com/Sodelin/Research-Commons/blob/27b143c73a4ac272b560b2974d83ff96df738531/research/2026-10-07-dot-frontier-source-index-and-obligation-map-0309z/ALL-PROGRAMME-COVERAGE.md) are retained below as **questions/proposals**, with later completions only where separately named:
+Selected direction labels from the inherited programme coverage map are retained below as **questions/proposals**, with later completions only where separately named:
 
 |Direction|Question or missing scientific interface|
 |---|---|
 |BIO-1|Sparse/averaged quartet acquisition and biological error; exact source-oracle query branch is now chapter 03, noisy acquisition separate|
 |BIO-2|Noisy level2network estimation: source-specific extraction, tie robustness and finite-sample guarantees|
-|BIO-3|Finite-population epigenetic isolation: chapter 06 proves the selected one-adult reversal, not a universal size law|
 |BIO-4|Cellular perturbation transport with actual invariance/selection/causal-admission assumptions|
 |BIO-5|Directed cell responses under intervention masks/aggregation, distinct from observational conditioning|
 |PSY-1|Causal symptom-intervention ranking with a scientifically admitted observation/intervention model|
-|PSY-2|Uncertainty-driven partial exposure: upstream learning dynamics and source-consistent extension|
 |PSY-3|Durable exposure/relapse probes: delayed target, realistic noise and model recovery|
 |PSY-4|Longitudinal metacognitive prediction: eligible cohort and prospective estimand|
-|SOC-01|Simple/complex contagion: source-specific infection-time and missing-observation channels|
-|SOC-02|Joint selection/misclassification/spillover identified regions with actual model and nonroutine sharpness|
-|SOC-03|Structural power versus balanced bargaining under the original index and all-outcome quantifiers|
-|SOC-04|Signed status paths versus posterior rankings with priors, shared causes and path dependence|
-|SOC-05|Organizational recognition versus congestion under an explicit organizational/queueing contract|
 
 No unrelated general theorem is silently adopted as a solution to these scientific questions. The map's other32 organizing families and proposed connections are navigation labels, not52 additional proved masters. Their historical full bodies and later source-specific supersessions retain their own status.
 

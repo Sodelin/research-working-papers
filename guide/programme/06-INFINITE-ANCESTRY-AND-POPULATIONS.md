@@ -62,15 +62,7 @@ $$
 $$
 Choose $r$ as the maximum initial ratio when both B background coordinates are positive. Arbitrary generation-dependent affinities in $[0,1]$ are allowed. This proves convergence from the actual recursion, not just absence of an interior equilibrium. [Coefficient proof and source model](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/FOGARTY-GLOBAL-RATE.md).
 
-**CB-FEEDBACK-004.** In the exact one-diploid-per-deme weighted-pool model, construct the finite genotype/marker transition by selection, recombinant gamete probabilities and independent offspring draws; pulse before selection and normalize by $B_0=1/8$. The retained exact absorbing-kernel calculation gives genetic RI $937945083/2233177303$, below pure-reset RI $3/7$ by $19130904/2233177303$, with pulse-start marginal error $\le(99/100)^n$. The matched deterministic recurrence has genetic RI at least $1027087570805/2255346713174>3/7$ from biological generation4 onward, and its proved limit keeps that ordering. These rational certificates are named finite-kernel/recurrence suppliers, not recomputed experiments here. The reversal compares those exact matched life cycles; weighted migration is not integer migrant exchange, and terminal marker classes need not be singleton genotype states.
-
-**CB-FEEDBACK-005.** Four independent uniform Fin14 draws per generation encode both the actual parent slots and marker homologues. Summing their fibres proves all 81 ordinary/nine pulse marginal identities and off-support closure of the finite count kernel. The **same raw draws** generate the parent process and the frozen-kernel marker path law. A specified resolving parent table has probability $36/2401$. Independent future generations, also conditional on any positive-mass past event, bound failure to resolve by $(2365/2401)^k$. For each organism born earlier, this tends to zero; countable union gives whole-history IAP almost surely. The marker RI remains $3/7$. Exact avoidance of a parent table and failure of ancestry resolution are not equated, nor are marker counts independent across generations.
-
-**CB-FEEDBACK-006.** In the separate N-diploid integer-exchange model, a positive two-generation accessibility probability gives geometric fixation/loss tails for a nonmutating allele. At fixed finite N, long genetic burn-in therefore removes the marker barrier uniformly over later horizons. Complete reset from the correctly prepared selected background instead gives
-$$
-R=s(1-m)/(1-ms)
-$$
-for every allowed horizon and terminal fixation. This is N-independence at fixed $m=k/N$, not fixed migrant count. Genetic diversity $H=2\bar p(1-\bar p)$ has iterated limits0 with finite-N long burn-in first and $1/2$ with the infinite-census limit first. This is not a proved RI limit-interchange theorem. The larger phase-aware kernel with $\binom{N+9}9^2$ states is specified, not reported executed.
+Three source entries are omitted from this reading selection under source-specific action boundaries.
 
 ## Genome information and ownership
 

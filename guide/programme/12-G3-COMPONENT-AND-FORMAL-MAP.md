@@ -117,7 +117,7 @@ New G3 receivers in the 58-note catalogue are uncompiled at that recovery. G4's 
 
 ## Coverage and reusable cross-work
 
-The 118-card starting catalogue has one reading entry per card after chapters09–10; proof-chain/evidence/open distinctions remain in COVERAGE.json. This chapter additionally supplies the 16-family map below and all 58 full mathematical source notes. Later CE, native general-J/consumers and finite-interface contributions are separate dated sources. The selected archive is not an exhaustive recovery of every historical branch; missing owner versions and nontrivial supplier joins remain visible.
+The original 118-card starting catalogue is represented by 115 entries in this reading selection; proof-chain/evidence/open distinctions remain in COVERAGE.json. This chapter additionally supplies the 16-family map below and all 58 full mathematical source notes. Later CE, native general-J/consumers and finite-interface contributions are separate dated sources. The selected archive is not an exhaustive recovery of every historical branch; missing owner versions and nontrivial supplier joins remain visible.
 
 The short reusable attacks are concrete: positive annihilators plus **physical** factorization; a certified finite response quotient plus a **source-complete** catalogue; actual register restoration before the same future; and one common source tuple in every cross-G join. None of the open masters needs every hidden parameter merely because such a stronger theorem would be useful. A candidate proof should name the smallest target-coordinate constancy or finite-witness implication it actually needs.
 

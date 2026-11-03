@@ -19,7 +19,7 @@ This is a **working reading guide**, not a collection of independently accepted 
 11. [Countable prefixes at a finite interface](11-COUNTABLE-PREFIXES-AT-A-FINITE-INTERFACE.md)
 12. [G3 components and formal boundaries](12-G3-COMPONENT-AND-FORMAL-MAP.md)
 
-The [dated starting catalogue](CANONICAL-CATALOGUE.md) contains 118 overlapping navigation cards with source links and recorded dispositions. Those cards are not 118 separate discoveries. The [G3 source catalogue](sources/g3-components/README-LIBRARY.md) links the public source bodies and preserves distinctions between hand arguments and formal-receiver gaps.
+The [dated starting catalogue](CANONICAL-CATALOGUE.md) contains 115 overlapping navigation cards with source links and recorded dispositions. Those cards are not 115 separate discoveries. The [G3 source catalogue](sources/g3-components/README-LIBRARY.md) links the public source bodies and preserves distinctions between hand arguments and formal-receiver gaps.
 
 ## Source availability
 

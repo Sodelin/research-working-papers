@@ -45,10 +45,11 @@
     {
       "path": "06-INFINITE-ANCESTRY-AND-POPULATIONS.md",
       "source_sha256": "4af0407876f55513c9b193a321105be07b6e9ea958a2dcd3891d2ebe724c0805",
-      "published_sha256": "08326da00e7870551282653eb9f09851e23c028ec25b1cb5874cffae0cadc159",
+      "published_sha256": "e4915b2f298577d3381faaf83d24ae529a8b9089edc0fd30cf121c9a7473111b",
       "unavailable_links": 0,
       "public_source_links": 0,
-      "identity_substitutions": 0
+      "identity_substitutions": 0,
+      "source_specific_selection_omissions": true
     },
     {
       "path": "07-SEQUENCES-AND-PATTERN-LIBRARY.md",
@@ -78,10 +79,11 @@
     {
       "path": "10-EXECUTED-EVIDENCE-AND-RESEARCH-DESIGN.md",
       "source_sha256": "76675ea68fcf46f48e943ca42d06eef7eae27f8daa5ff9ff1b51636a787655e9",
-      "published_sha256": "2096fa2c9f805e0f3e97ab5f38ad6f1d44bf551a0988fa22b29a81ae21d5c322",
+      "published_sha256": "d3db9a662e2e2485957ff214fdba6be4b17a563c2d65be92531b066c82b00eed",
       "unavailable_links": 0,
       "public_source_links": 1,
-      "identity_substitutions": 1
+      "identity_substitutions": 1,
+      "source_specific_selection_omissions": true
     },
     {
       "path": "11-COUNTABLE-PREFIXES-AT-A-FINITE-INTERFACE.md",
@@ -94,18 +96,20 @@
     {
       "path": "12-G3-COMPONENT-AND-FORMAL-MAP.md",
       "source_sha256": "ca0cad2556d35d7eeb431329bf0f9f459ec9c8a9c69ffe2e12b18a7ece68716a",
-      "published_sha256": "b627c04b3ee83e08478001fcc8cd267aa72f8b63ff0b1415f2d9b24c5652e4ea",
+      "published_sha256": "40cdb6045c16e8b017fab8cc6bfbfb895a75a20ef95ba178ef45f194d8ba8687",
       "unavailable_links": 0,
       "public_source_links": 36,
-      "identity_substitutions": 0
+      "identity_substitutions": 0,
+      "source_specific_selection_omissions": true
     },
     {
       "path": "CANONICAL-CATALOGUE.md",
       "source_sha256": "56c4c99e1d9179c18e4ff9da8b4e83185537ed145f056444425f3201c5682e7c",
-      "published_sha256": "f0aaf6ccdd65eaa370a2a6db4014c3a9376481f9f8f26b07cc8b0c83e584563f",
+      "published_sha256": "6ee6521e8d7dcc3953a79f6482ffdf5716bfc8375a992172c9b24b49bc3486dd",
       "unavailable_links": 0,
       "public_source_links": 0,
-      "identity_substitutions": 0
+      "identity_substitutions": 0,
+      "source_specific_selection_omissions": true
     },
     {
       "path": "sources/g3-components/README-LIBRARY.md",

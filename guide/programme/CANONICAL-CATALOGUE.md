@@ -1050,34 +1050,6 @@ Status: `proved_at_stated_scope`.
 
 
 
-## CB-FEEDBACK-004 — Finite sampling reverses a matched deterministic marker-barrier ranking
-
-There is one diploid adult per deme. Migration uses deterministic weighted pools with m=1/4, not integer migrant exchange. Additive divergent selection has s=1/2, recombination r=1/2, independent gamete and offspring draws allow selfing, and the comparison is genetic mu=0 versus pure reset mu=1/2,phi=1 after mating. Both use the EEbb/eebb secondary-contact state and a one-direction migrant marker pulse before selection; the normalization is preselection B0=m/2=1/8. For the finite kernel, RI_gen=937945083/2233177303<RI_epi=3/7, with exact difference 19130904/2233177303; the pulse-start finite marginal error is at most (99/100)^n. In the matched deterministic recurrence every biological generation at least four has genetic RI at least 1027087570805/2255346713174>3/7. Its separately proved common limit retains that ordering, while pure induction has common marker mean 1/14 and RI=3/7. Reduced deterministic index zero means biological generation one. Marker terminal classes need not be singleton full genotype states.
-
-Status: `proved_at_stated_scope`.
-
-- [Exact finite result and model contract](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/finite-epigenetic/FINITE-RESULT.md)
-
-- [Complete deterministic comparison and common-limit argument](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/finite-epigenetic/DETERMINISTIC-COMPARISON.md)
-
-- [Independent finite-model audit](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/finite-epigenetic/INDEPENDENT-MODEL-AUDIT.md)
-
-
-
-## CB-FEEDBACK-005 — One shared random process joins a marker barrier to almost-sure ancestry mixing
-
-There are two adults per generation, one per deme, with two parent slots per child and selfing allowed. Four independent uniform Fin14 draws per generation are reused for both parental identity and marker homologue; local parent probability is 6/7, foreign 1/7 and homologue probability 1/2. The pure selected-state induction model has a transition-zero marker pulse followed by ordinary inheritance. The completed bounded R1–R6 theorem proves raw/compressed-record transport, all 81 ordinary and nine pulse marginal identities and off-support closure, a measurable count/parent process, and every finite-path frozen-kernel product law. The designated parent-table mass is 36/2401. For an organism born strictly before the chosen future starting generation and k future generations, non-resolution probability is at most (2365/2401)^k, also conditional on any positive-mass complete earlier raw-history event. Whole-history identical-ancestors property (IAP) holds almost surely: each member has finitely many descendants or finitely many non-descendants within that history. The frozen-kernel RI=3/7, finite-path realization and actual-law IAP are conjoined. Exact avoidance probability and non-resolution bound are not equality of events, and marker counts are not independent across generations.
-
-Status: `proved_at_stated_scope`.
-
-- [Completed R1–R6 statement and exact exclusions](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/pure-induction-ancestry-v2/RESULT-AND-SCOPE.md)
-
-- [Final same-law ancestry theorem](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/pure-induction-ancestry-v2/PureInductionAncestry.lean)
-
-- [Paths and measurability](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/feedback-speciation/pure-induction-ancestry-v2/PureInductionPaths.lean)
-
-
-
 ## CB-GENOME-001 — A finite ancestry graph does not determine its infinite population's specieslike status
 
 Every finite Wong-model gARG embeds injectively in two connected infinite graph completions preserving and reflecting all old edges and ancestry paths. Both meet the declared date/local-finiteness/root conditions; one whole population is inspecies and maximal specieslike, while the other fails IAP. Here IAP means that each member has finitely many descendants or finitely many non-descendants within the stated set. Therefore no verdict based only on the finite graph is correct for every such completion. Abstract topology completions, not extension of future interval annotations, a genome-to-organism owner map, equal DNA probability laws, or a universal species-inference impossibility.
@@ -1304,7 +1276,7 @@ Status: `proved_at_stated_scope`.
 
 ## CB-CROSSSCALE-001 — Can a research process discover a more useful question before solving the wrong one?
 
-Nolan Downard's missed-scope/shadow hypothesis and observability extension motivate a completed public conceptual analysis. The assistant's interpretation distinguishes an intended outcome from local acceptance, a procedure's reachable target set C_A(D), an admitted compatible-model set V(D), and the target-response set R_q(D). The notes give elementary fibre-factorization, changing-view closure, exact-update and finite-separation arguments, with information-loss counterexamples, while crediting established mathematics. The proposed intervention inspects decisive proof/model dependencies, generates a consequential alternative representation or target, and seeks a discriminating test. It is proposed for evaluation against ordinary execution and auditing under matched total budgets; no such experiment occurred. The fourteen-entry catalogue contains source-backed directions and narrower proposals, not fourteen adopted or solved projects. Its BIO-1 exact structural-query gap is superseded by CB-EXACTQUERY-001–003, but noisy NMSC acquisition is not closed; BIO-3 has the completed matched one-adult weighted-pool finite/deterministic ranking reversal in CB-FEEDBACK-004, not a universal population-size theorem.
+Sodelin's missed-scope/shadow hypothesis and observability extension motivate a completed public conceptual analysis. The assistant's interpretation distinguishes an intended outcome from local acceptance, a procedure's reachable target set C_A(D), an admitted compatible-model set V(D), and the target-response set R_q(D). The notes give elementary fibre-factorization, changing-view closure, exact-update and finite-separation arguments, with information-loss counterexamples, while crediting established mathematics. The proposed intervention inspects decisive proof/model dependencies, generates a consequential alternative representation or target, and seeks a discriminating test. It is proposed for evaluation against ordinary execution and auditing under matched total budgets; no such experiment occurred. The fourteen-entry catalogue contains source-backed directions and narrower proposals, not fourteen adopted or solved projects. Its BIO-1 exact structural-query gap is superseded by CB-EXACTQUERY-001–003, but noisy NMSC acquisition is not closed.
 
 Status: `question_or_proposal_not_an_effectiveness_theorem`.
 
@@ -1355,20 +1327,6 @@ Status: `proved_at_stated_scope`.
 - [Independent complete mathematical review](https://github.com/Sodelin/Research-Commons/blob/f87a6c50029c1ae13f0340818b3bf358b1bf3de3/research/2026-09-30-general-transfer-closure/compact-certificate-proof-review.md)
 
 - [Independent implementation and control review](https://github.com/Sodelin/Research-Commons/blob/f87a6c50029c1ae13f0340818b3bf358b1bf3de3/research/2026-09-30-general-transfer-closure/REVIEW-compact-certificate.md)
-
-
-
-## CB-FEEDBACK-006 — Preparation and order of limits change a finite-population marker assay
-
-Two demes have N>=2 diploids each and exchange exactly k uniformly selected individuals each way, 1<=k<N, m=k/N. Soft additive viability has 0<=s<1; independent gamete/offspring draws allow repeated parents and selfing, recombination lies in [0,1/2], and the declared order is exchange, viability, recombinant mating, then epimutation. One direction's k migrants receive the marker after exchange and before selection; B0=m/2 and R=1−E[B_T]/B0 uses unconditional global marker frequency. A positive two-generation accessibility bound gives geometric fixation/loss tails for a nonmutating allele. At fixed finite N and genetic mu=0, selected-background burn-in L→infinity makes the marker barrier tend to zero uniformly over subsequent horizons, including terminal fixation. Complete reset mu=1/2,phi=1 from a locally reset-compatible selected background before the pulse gives R=s(1−m)/(1−ms) for every admitted N,k, recombination and T>=1, including terminal; mirrored initialization or an unmarked reset generation supplies that preparation. This is N-independence at fixed m, not fixed k. At mu=0 from mirrored pure initialization and fixed rational m along compatible k=Nm census sizes, H=2*pbar*(1−pbar) has iterated limits 0 when finite-N long burn-in is first and 1/2 when infinite-census limit is first. H is global allelic diversity, not heterozygote frequency, and no corresponding RI limit interchange theorem is claimed. A phase-aware full intermediate-family finite kernel is specified with binomial(N+9,9)^2 states, but not executed or classified.
-
-Status: `proved_at_stated_scope`.
-
-- [Exact finite-population model and all-N proofs](https://github.com/Sodelin/Research-Commons/blob/f87a6c50029c1ae13f0340818b3bf358b1bf3de3/research/2026-09-30-stepchange-scope/PROOF.md)
-
-- [Two scoped hand reviews and historical exact-run receipt](https://github.com/Sodelin/Research-Commons/blob/f87a6c50029c1ae13f0340818b3bf358b1bf3de3/research/2026-09-30-stepchange-scope/REVIEW.md)
-
-- [Prior papers, source correspondence and retrieval limits](https://github.com/Sodelin/Research-Commons/blob/f87a6c50029c1ae13f0340818b3bf358b1bf3de3/research/2026-09-30-stepchange-scope/EVIDENCE.md)
 
 
 
