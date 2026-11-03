@@ -48,7 +48,7 @@ These are standard factorization/observability ideas with their source roles exp
 
 The source's14-entry direction catalogue is not14adopted or solved projects. BIO-1's exact structural query gap has the later exact-query results in chapter 03, while noisy NMSC acquisition remains open. BIO-3has the selected one-adult finite/deterministic reversal in chapter 06, not a universal population-size conclusion. [Public attribution, exact conceptual sources and reading order](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/README.md), [source manifest](https://github.com/Sodelin/Cross-Scale-Causal-Formalization/blob/28bdb75b8d057332e1bb32020d02e5eaea4c0517/research/nolan-scope-theory-2026-09-30/SOURCE-MANIFEST.json).
 
-For completeness, the 14 direction labels in the inherited [programme coverage map (source availability)](README.md#source-availability) are retained below as **questions/proposals**, with later completions only where separately named:
+For completeness, the 14 direction labels in the inherited [programme coverage map](https://github.com/Sodelin/Research-Commons/blob/27b143c73a4ac272b560b2974d83ff96df738531/research/2026-10-07-dot-frontier-source-index-and-obligation-map-0309z/ALL-PROGRAMME-COVERAGE.md) are retained below as **questions/proposals**, with later completions only where separately named:
 
 |Direction|Question or missing scientific interface|
 |---|---|

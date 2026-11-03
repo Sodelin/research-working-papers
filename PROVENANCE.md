@@ -55,7 +55,11 @@ delimiters, makes available source links public, marks omitted local sources,
 and uses the chosen public name. It does not reproduce private source packets,
 prove the statements, perform a Lean build or close G3 or G4. Sixty available
 G3 source bodies had matching Git blob identities against the cited public
-Research Commons tree before their links were installed.
+Research Commons tree before their links were installed. A subsequent source
+reconciliation matched six additional local source bodies to public Git blobs
+at Research Commons commit `27b143c73a4ac272b560b2974d83ff96df738531` and
+restored those six citations. Seventeen local-source references remain marked
+unavailable in this edition.
 
 The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
 the research-connections owner's local commit

@@ -21,9 +21,9 @@
     {
       "path": "03-CROSS-HIDDEN-MOMENTS-AND-NANUQ.md",
       "source_sha256": "ec7cf71c918980994b686a79effabbc7e2df58f5886c63d17f5cd3b456d30976",
-      "published_sha256": "f919c85524553e11861691daab5d85343ff5102d9c3b68a95dd201c04c95aff5",
-      "unavailable_links": 4,
-      "public_source_links": 0,
+      "published_sha256": "2550275b292613a4959a16395da520fbae97738fda44a682bae680dcbd4063ce",
+      "unavailable_links": 0,
+      "public_source_links": 4,
       "identity_substitutions": 0
     },
     {
@@ -69,17 +69,17 @@
     {
       "path": "09-PHYSICS-MATERIALS-AND-CERTIFICATION.md",
       "source_sha256": "2a7fbf7cf62bfca0f0335fa78cb1775a970312d9ccea97d387334af0497e70bf",
-      "published_sha256": "3a5443f8ffb18b42db3ed03a227d537c8876ba9521a0000543a911a7151edb49",
-      "unavailable_links": 1,
-      "public_source_links": 0,
+      "published_sha256": "1a12fbd2a078f4ca16b072485010e893f43db875cd69148c768371eef309e281",
+      "unavailable_links": 0,
+      "public_source_links": 1,
       "identity_substitutions": 0
     },
     {
       "path": "10-EXECUTED-EVIDENCE-AND-RESEARCH-DESIGN.md",
       "source_sha256": "76675ea68fcf46f48e943ca42d06eef7eae27f8daa5ff9ff1b51636a787655e9",
-      "published_sha256": "7b6ee39c15e91ed6361b656b037c33c643d1f5c7efaf71a375966f1b30f4b326",
-      "unavailable_links": 1,
-      "public_source_links": 0,
+      "published_sha256": "2096fa2c9f805e0f3e97ab5f38ad6f1d44bf551a0988fa22b29a81ae21d5c322",
+      "unavailable_links": 0,
+      "public_source_links": 1,
       "identity_substitutions": 1
     },
     {
