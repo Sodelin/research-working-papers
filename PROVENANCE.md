@@ -171,3 +171,13 @@ outreach bookkeeping; the mathematical scope, prior sources, attribution and
 review boundaries remain. The linked public hand edition was anonymously fetched
 on 3 November 2026 and matched the recorded SHA-256
 `e81fc46687a4de968f67242421daeb3d9761960b1363dedc55abe4a357bd8e35`.
+
+The [exponential decision guide](guide/EXPONENTIAL-DECISION-CONNECTIONS.md)
+derives from research-connections source
+`7b51d2864acadac23e21b1fa96d53960ba6c18b7:research/exponential-decision-connections.md`
+(SHA-256 `d8652c609d893608f15f04f65e2dee3cd440c7631be018391155954bbf525d55`).
+The public adaptation omits the final operational ownership sentence. Its
+mathematical contracts, original Codex attribution, prior-work credit,
+conditional hypotheses and review boundaries remain. On 3 November 2026 the
+linked source theorem returned HTTP 200 with the recorded 16,000-byte SHA-256
+`b9f799edd2317efc79a13b4ef8a7cdc706ade985b1abea63ebbff141376fb0b6`.
