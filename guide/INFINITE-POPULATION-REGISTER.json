@@ -1,0 +1,54 @@
+{
+  "schema": "sodelin.infinite-population-receivers.v1",
+  "scope": "Eight separate graph/observation contracts; conditional responses to version-specific published questions.",
+  "receivers": [
+    {
+      "id": "BINARY-AVOIDANCE",
+      "input_contract": "Permanent source genders, finite roots/birth prefixes, parent coverage and child cap d.",
+      "result": "Recorded avoidance existence iff d>=2 and target is not eventually periodic.",
+      "limit": "Model translation and proof scope required; d<2 empty class, target-dependent witness, no minimal roots/finite recognizer."
+    },
+    {
+      "id": "BALANCED-CAPPED-HOST",
+      "input_contract": "k>=2, nonempty avoider class, host child cap k and injective adjacency embeddings.",
+      "result": "For each host a language-preserving padded avoider is nonembeddable.",
+      "limit": "Host-dependent rival; extra roots/disconnected finite terminal components allowed, no countable-family claim."
+    },
+    {
+      "id": "COUNTABLE-HOST-CLONES",
+      "input_contract": "One actual avoider, countable locally finite hosts, injective finite-uniform-stretch maps.",
+      "result": "Terminal-clone diagonal defeats all supplied hosts/stretch bounds.",
+      "limit": "No balanced uniform child cap, terminal-free class or unbounded-stretch/noninjective obstruction."
+    },
+    {
+      "id": "REACHABLE-RANKS",
+      "input_contract": "Actual prefix-reachable matching phases; finite matching branching for natural-height/core claims.",
+      "result": "Classical well-founded ordinal certificates and exact mortal heights/live core.",
+      "limit": "No novel rank hierarchy or arbitrary infinite-input decision algorithm; artificial root is different."
+    },
+    {
+      "id": "PRODUCTIVE-REPAIR",
+      "input_contract": "Declared productive core, or separately a fixed infinite retained set and deletion-only edges.",
+      "result": "Language-preserving core pruning; repair exists iff finite deficiency and has inclusion-minimal deletions.",
+      "limit": "Repair need not preserve all realizations/connectivity; restricted maximality does not imply generic descendant closure."
+    },
+    {
+      "id": "PORT-SCHEDULE",
+      "input_contract": "Exact late-tail port encoding, actual incoming-label coverage and meaningful slot/label schedule.",
+      "result": "Separate periodic-schedule hypothesis supplies word realization.",
+      "limit": "Finite named slots and fairness alone do not imply eventual periodicity."
+    },
+    {
+      "id": "FIXED-FOUNDER-WINDOW",
+      "input_contract": "Original graph with real strict chronology, finite birth sublevels/children and one common fixed duration.",
+      "result": "Each organism has a maximal connected convex IAP reflecting cluster within that window class.",
+      "limit": "No partition/uniqueness, unrestricted maximality, effective finder or biological plausibility claim."
+    },
+    {
+      "id": "FINITE-CERTIFICATE-VS-GUESS",
+      "input_contract": "Admitted exact profiles in discrete-coordinate product and explicit exact comparisons.",
+      "result": "Finite determination iff target profile isolated; eventual guesses may converge without safe stopping.",
+      "limit": "Abstract family not source-faithful G4 counterexample, noisy topology or G3 witness bound."
+    }
+  ]
+}

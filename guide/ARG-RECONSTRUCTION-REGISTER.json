@@ -1,0 +1,48 @@
+{
+  "schema": "sodelin.arg-reconstruction-receivers.v1",
+  "scope": "Seven representation, cost and ancestry receivers; no biological classifier or solved SPR claim.",
+  "receivers": [
+    {
+      "id": "MARKED-BIG-ARG",
+      "input_contract": "Actual conditional lineage/pair/cut choices, fresh identities, dates, intervals and stopped output.",
+      "result": "Retained continuous-cut marked construction transfers its count/clock law to recorded history.",
+      "limit": "Not discrete links, Little-ARG absorption, common-observable coupling or production parser."
+    },
+    {
+      "id": "SAMPLE-ARRAY-INVERSE",
+      "input_contract": "Finite acyclic interval graph, unique local parents and specified sample-rootward arrays.",
+      "result": "Exact sample-supported edge extraction; all-edge inverse needs every active edge supported.",
+      "limit": "Not arbitrary full-graph, clock, metadata or byte round trip."
+    },
+    {
+      "id": "SIMPLIFICATION-CONTRACT",
+      "input_contract": "Declared MRCA/support truncation, contraction and full-local-relation interval storage.",
+      "result": "Specified paths preserved and canonical storage fixed point.",
+      "limit": "Not whole-pipeline idempotence; sampled unary/isolated nodes and MRCA premises remain."
+    },
+    {
+      "id": "CLASSICAL-COST",
+      "input_contract": "Birth bk, death a*k*(k-1)/2, stopping at one; theta=2b/a.",
+      "result": "Classical Griffiths/Durrett formulas connect to retained event/time projections.",
+      "limit": "General-start guide deduction/review and Wong B07 convention clarification remain separate; not measured runtime."
+    },
+    {
+      "id": "OWNER-IAP",
+      "input_contract": "Onto owner map, finite fibres and finite ancestry-answer errors per rich representative.",
+      "result": "IAP transfers for saturated candidate preimages.",
+      "limit": "Not few-parent-edge-edit robustness, other specieslike predicates or inferred biological ownership."
+    },
+    {
+      "id": "RECURRENT-PARENTHOOD",
+      "input_contract": "Finite demes and all five strong actual-pedigree assumptions, including universal local dissemination.",
+      "result": "IAP subsets characterized by eventual single recurrent strongly connected component.",
+      "limit": "Project-posed application; ordinary extinction-permitting models and finite data do not automatically satisfy it."
+    },
+    {
+      "id": "PARTIAL-LABEL-SPR",
+      "input_contract": "Neighboring estimated local trees with partially shared internal identities.",
+      "result": "A concrete computational question stated by Wong Appendix E; representation results supply prerequisites.",
+      "limit": "No solution or current exhaustive open-status claim; extraction counters do not bound reconciliation complexity."
+    }
+  ]
+}

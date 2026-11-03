@@ -3,11 +3,25 @@
   <id>https://sodelin.github.io/research-working-papers/feed.xml</id>
   <title>Sodelin research working papers</title>
   <subtitle>Working manuscripts, source-linked guides and updates for discussion.</subtitle>
-  <updated>2026-11-03T22:31:27Z</updated>
+  <updated>2026-11-03T22:36:29Z</updated>
   <author><name>Sodelin research collection</name></author>
   <link rel="alternate" href="https://sodelin.github.io/research-working-papers/"/>
   <link rel="self" href="https://sodelin.github.io/research-working-papers/feed.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.27.0/arg</id>
+    <title>Ancestral recombination graphs: representation and cost</title>
+    <updated>2026-11-03T22:36:29Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/v0.27.0/guide/ARG-RECONSTRUCTION.md"/>
+    <summary>Marked histories, sample-supported reconstruction, classical cost formulas and conditional ancestry transport.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.27.0/infinite-populations</id>
+    <title>Infinite populations: avoidance and maximality</title>
+    <updated>2026-11-03T22:36:29Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/v0.27.0/guide/INFINITE-POPULATIONS.md"/>
+    <summary>Model-specific avoidance, host obstructions and maximal clusters, with embedding and founder-window conditions.</summary>
+  </entry>
   <entry>
     <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.26.0/finite-observations</id>
     <title>Finite observation transfers and representation limits</title>
