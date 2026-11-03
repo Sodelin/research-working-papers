@@ -99,20 +99,33 @@ Its complete JSON body and the exact raw headline/closure axiom audit bodies
 were not located among the selected local records inspected here and were not
 fetched under this bounded request. Their exact byte identities, and the
 direct source-hash association between that 4 October receipt and the
-12 October source binding, remain **unverified in this row**. Their absence
+12 October source binding, were **unverified at that inspection**. Their absence
 from this limited inspection does not mean they do not exist. The registry's
 selected-release status and the README's report remain attributed records;
 this row does not silently turn them into an independent raw-receipt audit.
 
-## Next bounded step
+## Later receipt-field match and remaining gap
 
-If an existing owner already holds the serial receipt and actual axiom audit,
-obtain their exact version/byte hashes and the matching source/module identity,
-then check the package-to-declaration association and named axiom scope. If
-not held, mark that evidence unavailable for now. The result's original hand
-status remains separate; absence of this portfolio-level association does not
-reopen its stated mathematical claim. The original dated row did not itself authorize or perform a compiler run, source acquisition or external sharing; this is a later authorized reading release.
+On 3 November 2026 the portfolio owner inspected the linked public receipt in
+memory. The 328,919-byte receipt matched SHA-256
+`ceb430bbd33d51486311c739c2b6501d9b7124ec143168e998b91292342831ca`.
+According to that inspection, the parsed receipt contains 467 records;
+`records[466]` names `G1FullOriginalClassMasterAndSharpness`, records exit
+code zero, and reports source SHA-256
+`3109b3e555c3a00799c3c9efbb882992cf194d78392d6e4af47ca3b4c82a7a35`,
+matching the separately retained 4,939-byte endpoint identified above. This
+closes the **receipt-reported source-hash association**; it is a comparison
+of reported fields, not a rerun or independent authentication of the build.
 
-A later anonymous read of the linked original serial-build receipt returned HTTP 200 (328,919 bytes, SHA-256 `ceb430bbd33d51486311c739c2b6501d9b7124ec143168e998b91292342831ca`). Its contents and association with the later source were not audited for this reading release.
+The owner's successor source is local commit
+`d0ec8140980e1ffc51229de354e34a0f3a45cdb3`,
+`research/corpus-portfolio/G1-EVIDENCE-JOIN.md`, SHA-256
+`d3840992d84e87d16aa50020ebf265a94f19688a1f0cb00f6cfc940f98c981c2`.
+The selected object bytes and build log, other receipt records, imported proof
+closure, and original headline/closure axiom-audit bodies remain uninspected
+in that bounded report. The original dated row did not itself authorize or
+perform external sharing; this is a later authorized reading release.
 
-The selected public Lean endpoint was fetched anonymously on 3 November 2026 and its SHA-256 matched the identity stated above. This confirms source identity, not a new build or proof-closure audit.
+The selected public Lean endpoint was fetched anonymously on 3 November 2026
+and its SHA-256 matched the identity stated above. This confirms source
+identity, not a new build or proof-closure audit.

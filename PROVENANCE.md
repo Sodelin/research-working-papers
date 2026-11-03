@@ -112,6 +112,14 @@ references unavailable, dates the old publication statements, and adds only
 anonymous byte-identity observations. It does not establish their imported
 proof closures or validate the biological source model.
 
+The G1 note was subsequently updated from Terra's evidence successor
+`d0ec8140980e1ffc51229de354e34a0f3a45cdb3:research/corpus-portfolio/G1-EVIDENCE-JOIN.md`
+(SHA-256 `d3840992d84e87d16aa50020ebf265a94f19688a1f0cb00f6cfc940f98c981c2`).
+Terra reports inspecting the public serial receipt and matching its named
+source-hash field to the selected endpoint; underlying object/log/axiom and
+imported-closure evidence remains uninspected. This edition did not reacquire
+the receipt or run Lean.
+
 The [fixed-code Collatz](guide/COLLATZ-CODING.md) and [controlled-state](guide/CONTROLLED-STATE.md) maps
 are adapted from research-connections source commits
 `ae316fa1449f9d1ad234aca8f3f87f3c2d7b98d6:research/collatz-coding-connection.md`
