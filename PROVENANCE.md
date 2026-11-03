@@ -77,6 +77,14 @@ action boundaries, and uses the chosen public identifier in the catalogue.
 Earlier public Git versions and a previously archived snapshot predate this
 selection and remain accessible; this edit does not alter those copies.
 
+The updated public selection at `1ff385fdef402388ad2cf260ea79f9041ed4c8d4`
+was independently archived as
+[`swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a`](https://archive.softwareheritage.org/swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a/).
+The archive's directory identifier matches that Git tree, and the archived
+catalogue bytes match the selected edition. The source snapshot does not carry
+the older Git history. An archive identifier is not a DOI, a journal submission
+or a proof review.
+
 The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
 the research-connections owner's local commit
 `6bda163527d08c1fe8f623c03657f7d1a50aaa83`, `research/quantum-connections.md`

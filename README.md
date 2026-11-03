@@ -24,9 +24,9 @@ The [exact source-edition index](source-editions/README.md) identifies the origi
 
 [Source and release notes](PROVENANCE.md) identify the source versions, copied bodies and presentation changes. Historical statements in imported source manifests about a draft being local or not authorized for release refer to their original preparation dates; this repository is a subsequent public release.
 
-A citable versioned release of this working selection is described in the citation guide.
+A [Software Heritage archive](https://archive.softwareheritage.org/swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a/) preserves this working selection at [version 0.17.0](https://github.com/Sodelin/research-working-papers/releases/tag/v0.17.0). Its source identifier is `swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a`; it is not a DOI or journal publication.
 
-The [citation guide](CITATION.md) gives a reference for the versioned collection and pinned links for each of the seven reading editions.
+The [citation guide](CITATION.md) gives a reference for the archived collection and pinned links for each of the seven reading editions.
 
 The broader [Research Commons](https://github.com/Sodelin/Research-Commons) and [work relating to Samuel Alexander's research](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-) contain additional materials. This first selection is not the complete research corpus, and overlapping records are not counts of independent discoveries.
 
