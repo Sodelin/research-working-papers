@@ -24,7 +24,7 @@ The [exact source-edition index](source-editions/README.md) identifies the origi
 
 [Source and release notes](PROVENANCE.md) identify the source versions, copied bodies and presentation changes. Historical statements in imported source manifests about a draft being local or not authorized for release refer to their original preparation dates; this repository is a subsequent public release.
 
-A [Software Heritage archive](https://archive.softwareheritage.org/swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a/) preserves this working selection at [version 0.17.0](https://github.com/Sodelin/research-working-papers/releases/tag/v0.17.0). Its source identifier is `swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a`; it is not a DOI or journal publication.
+A [Software Heritage archive](https://archive.softwareheritage.org/swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059/) preserves the [version 0.20.0](https://github.com/Sodelin/research-working-papers/releases/tag/v0.20.0) source snapshot. Its source identifier is `swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059`; it is not a DOI or journal publication. The earlier [version 0.17.0 archive](https://archive.softwareheritage.org/swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a/) also remains available.
 
 The [citation guide](CITATION.md) gives a reference for the archived collection and pinned links for each of the seven reading editions.
 

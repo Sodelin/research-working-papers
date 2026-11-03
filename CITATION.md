@@ -2,7 +2,7 @@
 
 This versioned working collection can be cited as:
 
-> Sodelin, organizer. *Working Research Papers: A Curated AI-Assisted Research Collection*, version 0.17.0, 3 November 2026. Software Heritage: [swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a](https://archive.softwareheritage.org/swh:1:dir:0c63904e4fd1d640eaf0030e685b6e23b6e87e1a/). [GitHub release](https://github.com/Sodelin/research-working-papers/releases/tag/v0.17.0).
+> Sodelin, organizer. *Working Research Papers: A Curated AI-Assisted Research Collection*, version 0.20.0, 3 November 2026. Software Heritage: [swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059](https://archive.softwareheritage.org/swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059/). [GitHub release](https://github.com/Sodelin/research-working-papers/releases/tag/v0.20.0).
 
 Sodelin's role above is organizing and sharing this collection. It is not a
 claim of scientific authorship of every underlying argument. The individual

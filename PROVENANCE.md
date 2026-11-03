@@ -289,3 +289,12 @@ convention bodies matched the selected v0.17.0 Git bodies and the three hashes
 in the source assessment. The analytic injectivity receipt covers only the named
 formula result; the process/observation bridge, Jacobian and interval claims
 remain outside it. No Lean or biological execution was performed here.
+
+
+The public version 0.20.0 source snapshot at Git commit
+`33567ffa15772cdc1c1a5c26f7a273b960ad4406` is independently archived as
+[`swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059`](https://archive.softwareheritage.org/swh:1:dir:d5a5d7c8e76c4f28cfd5d1e7c9673fc9e6930059/).
+Software Heritage reported a full successful snapshot visit. Its inner
+directory matches the exact Git tree, and the archived phylogenetic guide
+matched its public source SHA-256 `ce35d53997318d4ce29eec6d55f9d006651f74d18f4f6954995edf8a32159f79`.
+This is a persistent source identifier, not a DOI, journal submission or review.
