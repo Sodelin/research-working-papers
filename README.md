@@ -15,3 +15,11 @@ These are working papers, not journal articles or claims of established priority
 [Source and release notes](PROVENANCE.md) identify the source versions, copied bodies and presentation changes. Historical statements in imported source manifests about a draft being local or not authorized for release refer to their original preparation dates; this repository is a subsequent public release.
 
 The broader [Research Commons](https://github.com/Sodelin/Research-Commons) and [work relating to Samuel Alexander's research](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-) contain additional materials. This first selection is not the complete research corpus, and overlapping records are not counts of independent discoveries.
+
+## Connections to research questions
+
+[What the work connects to](guide/CONNECTIONS.md) is a source-linked selection
+from the research-connections owner's guide. It describes nine mathematical
+or scientific questions, the contributions claimed in the existing sources,
+and the precise assumptions or gaps that remain. It complements the papers
+above and does not treat overlapping records as separate discoveries.

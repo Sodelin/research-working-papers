@@ -1,0 +1,133 @@
+{
+  "schema": "research-connections-public-selection-v1",
+  "source_commit": "5b3c52eb6e6b7e99deb106301240a6d999adbbbc",
+  "scope": "Selected source-linked research connections; not an exhaustive corpus or independent proof audit. AI attribution and each stated limitation remain attached to the underlying sources.",
+  "connections": [
+    {
+      "id": "CONN-TM-FIRST",
+      "cards": [
+        "CB-SEQ-001"
+      ],
+      "external_question": "Joshi–Rust Conjecture 3.8: three first occurrences of maximum Thue–Morse monochromatic arithmetic progressions",
+      "relation": "retained_proof_matches_named_conjecture_with_explicit_ranges",
+      "enables": "Compute the earliest starts by exact formulas and classify all maximum starts in two families, without searching to an arbitrary cutoff.",
+      "missing_bridge": "Independent specialist semantic/proof assessment and current prior-art reconciliation; plus-family exponent 1 is excluded.",
+      "acceptance_test": "Match Run, FirstMaximum, digit parity and attained A/i semantics to the paper on all three admitted parameter families; preserve the exact seven-module receipt.",
+      "label": "Thue–Morse first occurrences",
+      "question_source": "https://arxiv.org/html/2501.05830v2#S3.SS2.SSS2",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/2468dc1151c5e9a9dd870024a4fbeff8d4910e4e/research/2026-10-04-dot-thue-morse-first-occurrence-lean-0550z/package/README.md"
+    },
+    {
+      "id": "CONN-PERIOD-PAL",
+      "cards": [
+        "CB-SEQ-002"
+      ],
+      "external_question": "Frid–Laborde–Peltomäki Conjecture 17 in arXiv v2 / Conjecture 2 in the published paper",
+      "relation": "retained_computer_assisted_proof_matches_named_conjecture",
+      "enables": "Rules out a finite binary automaton for the difference sequence and a 2-regular representation for prefix palindromic length.",
+      "missing_bridge": "Independent specialist review of the hand argument and exact universal tiling encoding; no Lean claim.",
+      "acceptance_test": "Verify the diagonal gate, separating prefixes and complete reachable-state inclusion; a resource safeguard failure must never count as a proof.",
+      "label": "Period-doubling palindromic length",
+      "question_source": "https://arxiv.org/html/2009.02934v2#S5.SS1",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/2468dc1151c5e9a9dd870024a4fbeff8d4910e4e/research/2026-10-04-dot-period-doubling-nonregularity-1150z/README.md"
+    },
+    {
+      "id": "CONN-NANO-ENERGY",
+      "cards": [
+        "CB-NANO-001",
+        "CB-NANO-005"
+      ],
+      "external_question": "Which model restrictions make energy-to-reflection-visibility inference uniformly robust?",
+      "relation": "proved_obstruction_in_declared_model_application_admission_open",
+      "enables": "Distinguishes a positive target margin from positive separation in the measured curves, directing bounded-class or extra-measurement design.",
+      "missing_bridge": "Authenticate contacts and disorder admission in the motivating learning model; no average-case or experimental inference.",
+      "acceptance_test": "Verify one fixed potential per device across the entire sweep, same leads, zero dissipation and admitted unbounded finite barriers; preserve the Appendix II length exclusion.",
+      "label": "Nanowire energy and visibility",
+      "question_source": "https://arxiv.org/html/2512.13825v2",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/27b143c73a4ac272b560b2974d83ff96df738531/research/2026-10-16-nanowire-fixed-lead-nonseparation/README.md"
+    },
+    {
+      "id": "CONN-NANUQ-ALLLEVEL",
+      "cards": [
+        "CB-NANUQ-002"
+      ],
+      "external_question": "Holtgrefe et al. Section 6: original NANUQ metric on level-2 OLP galled networks and level-3 bloblets",
+      "relation": "retained_theorem_would_cover_named_cases_subject_to_full_translation_review",
+      "enables": "Circular decomposition and exact displayed-tree split support in the admitted all-finite-level class.",
+      "missing_bridge": "Full structural admission, adjacent-copy representation and multi-blob composition review; weighted quartet prior is not the original distinct-topology metric.",
+      "acceptance_test": "Compare Definitions 2.2–2.4 and the Section 6 source class to every structural hypothesis and metric normalization in Theorem A.",
+      "label": "All-level NANUQ support",
+      "question_source": "https://link.springer.com/article/10.1007/s11538-025-01549-4",
+      "project_source": "https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-/blob/e2502c82ab9a77c00543932f775a71e5374221f7/research/nanuq-all-level-2026-09-29/ALL-LEVEL-PROOF.md"
+    },
+    {
+      "id": "CONN-MSCI-TWOSITE",
+      "cards": [
+        "CB-MSCI-003"
+      ],
+      "external_question": "Identifiability of numerical introgression parameters from same-genealogy short-locus sequence laws",
+      "relation": "exact_within_family_identification_and_conditional_inference_receiver",
+      "enables": "Nine literal moments suffice to distinguish the admitted nine numerical parameters, including equal-rate cases.",
+      "missing_bridge": "Full scheduled-process/observation bridge, independent biological review and practical finite-data inverse; topology and direction are supplied.",
+      "acceptance_test": "Keep two phased copies per species, two homologous sites sharing one genealogy, known JC scale, strict times and rate ties; separate analytic injectivity checking from process semantics.",
+      "label": "Two-site MSci identification",
+      "question_source": "https://github.com/Sodelin/research-working-papers/tree/ad7f68f9e4af9750b6a8e2b66f9a53e4e408f0e5",
+      "project_source": "https://github.com/Sodelin/research-working-papers/blob/ad7f68f9e4af9750b6a8e2b66f9a53e4e408f0e5/manuscripts/msci/MANUSCRIPT.md"
+    },
+    {
+      "id": "CONN-COLLATZ-TMCODE",
+      "cards": [
+        "CB-SEQ-012"
+      ],
+      "external_question": "Restrictions on positive nonperiodic Collatz valuation itineraries",
+      "relation": "counterexample_structure_restriction_not_full_conjecture",
+      "enables": "Exclude the retained two-block Thue–Morse coding class from unbounded positive orbits under the theorem's exact assumptions.",
+      "missing_bridge": "No reduction of arbitrary orbits to this code family; other cycles and nonperiodic itineraries remain outside it.",
+      "acceptance_test": "Use the fully accelerated odd map, positive finite block valuations and one actual positive odd start; preserve the periodic exception.",
+      "label": "Fixed Thue–Morse Collatz valuations",
+      "question_source": "https://arxiv.org/abs/1909.03562v7",
+      "project_source": "https://github.com/Sodelin/Collatz-Conjecture-Work/blob/026aa4ad4be6453a005ab950b160a9f2204c5271/proof-search/disproof/TM_Prefix_Return_Exclusion_2026-09-05.md"
+    },
+    {
+      "id": "CONN-EXPDEC",
+      "cards": [],
+      "external_question": "Effective identity, relaxed compact decision and exact real-exponential first-order theory",
+      "relation": "unconditional_restricted_contract_and_conditional_general_contract",
+      "enables": "A degree-based finite rational witness grid for nonnested polynomial-exponential nonidentity and guarded compact delta decisions.",
+      "missing_bridge": "Real Schanuel remains a premise for arbitrary exact nested first-order decision; no unconditional resolution is supplied.",
+      "acceptance_test": "Retain full exponent polynomials as grouping keys, a nonempty open box, explicit algebraic coefficients and guarded partial-term semantics; do not substitute identity for root existence.",
+      "label": "Polynomial–exponential identity",
+      "question_source": "https://arxiv.org/abs/2603.08365",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/ddfac38cddac5b2ae0d53e25f0a61b9ae80e328d/research/2026-10-15-codex-expdec-reviewed-decisions/EXPONENTIAL-EXPRESSION-THEOREM.md"
+    },
+    {
+      "id": "CONN-GIBBS-RISK",
+      "cards": [
+        "CB-PHYS-P1-001",
+        "CB-PHYS-P1-002"
+      ],
+      "external_question": "Copy complexity of testing two unknown interacting local Gibbs states",
+      "relation": "completed_conditional_conversion_isolates_missing_uniform_risk_supplier",
+      "enables": "Turn a prior-uniform squared-Bures Bayes-risk estimate into a finite minimax/off-net two-source testing guarantee with an explicit copy budget.",
+      "missing_bridge": "The risk constant must be uniform in size, finite candidate set and prior; the retained source does not supply this interacting-Gibbs theorem.",
+      "acceptance_test": "Use exactly n copies from each source, charge 2n total, retain finite-precision slack and distinguish known-reference certification from two-unknown testing.",
+      "label": "Gibbs testing conversion",
+      "question_source": "https://arxiv.org/html/2603.29809v1",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/342f2ed3d5b2628f846f54b80d07d8305afa1723/docs/P1-P5-ACCEPTED-WORK-ADDENDUM.md"
+    },
+    {
+      "id": "CONN-POSITIVE-MOMENTS",
+      "cards": [
+        "CB-CM-001"
+      ],
+      "external_question": "Finite positive support recovery through a faithful observation-to-moment interface",
+      "relation": "checked_classical_component_for_new_application_adapters",
+      "enables": "Reuse exact positive sparse-moment determination in compatible identification tasks without rederiving the classical theorem.",
+      "missing_bridge": "Each new scientific receiver must prove a single fixed pushforward law, grouped equal values and positive masses.",
+      "acceptance_test": "Match the exact four-module certificate scope and source law; prove the typed adapter rather than infer it from matching terminology.",
+      "label": "Positive finite moments",
+      "question_source": "https://github.com/Sodelin/Research-Commons/blob/514648b697aeed8f46582109cfeefcd7707cd738/research/2026-10-15-common-moment-checked-component/CM-T02-CERTIFICATE-001.json",
+      "project_source": "https://github.com/Sodelin/Research-Commons/blob/514648b697aeed8f46582109cfeefcd7707cd738/research/2026-10-15-common-moment-checked-component/CM-T02-CERTIFICATE-001.json"
+    }
+  ]
+}

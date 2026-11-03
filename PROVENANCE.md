@@ -13,3 +13,13 @@ This public reading selection was assembled on 3 November 2026 from the existing
 The MSci portable edition includes 42 evidence notes and one figure. Its source manifest names the earlier manuscript-assembly epoch `f33ec4716ea7e4f8551d640e86494395a42fe086`; the copy was taken from `052d3ee`. Its portable manuscript differs from the owner's 75,969-byte source manuscript (SHA-256 `d51e9852b6aee26f6b9dd7c8e23e8a6d00bd2eafa563c6cd2328cbb19cc3cec8`) in packaging and link adaptations. The original proof and review appendices retain their source attribution and stated status. The full historical dependency closure is not included.
 
 At this release, display-math delimiters in the four short manuscripts were adapted for GitHub rendering; the fixed-cell paper's unavailable local-only links were replaced by its available public source-package link and an explicit description of the omitted evidence row. The earlier versions remain in import commit `3218297`. No new proof, formal check, empirical validation or independent review is asserted by this release. Existing source papers and primary literature are cited where used; no new license is asserted for third-party materials.
+
+The nine-entry [research connection guide](guide/CONNECTIONS.md) and its
+[machine-readable selection](guide/connections.json) were adapted from the
+research-connections owner's local commit `5b3c52e` on 3 November 2026.
+The original `connections.json` had SHA-256
+`9ca8f63557f80b2ace327f7ced4ec94db476bba576ba9be7cfe28f2448663001`.
+The public adaptation selects nine of its ten entries, removes local-only
+paths and outreach metadata, and adds direct public project-source links.
+The source's associated guide remains with its original owner. This is a
+navigation and communication record, not a new proof or novelty audit.
