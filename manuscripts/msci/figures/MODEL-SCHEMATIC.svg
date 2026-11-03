@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title description">
+  <title id="title">The fixed three-species pulse model, backward in time</title>
+  <desc id="description">A and B join at time t1, then their ancestral population joins C at t0. At time h, each current B lineage independently routes backward to C with probability g or stays on B with probability one minus g. The B rate is tied across h, as is the C rate. The root population continues until the sampled lineages coalesce. The drawing is schematic, not a realized genealogy.</desc>
+  <defs>
+    <marker id="pulse-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9a4300"/>
+    </marker>
+    <marker id="time-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#52637b"/>
+    </marker>
+    <style>
+      .title { font: 700 27px 'DejaVu Sans', sans-serif; fill: #17243a; }
+      .small { font: 18px 'DejaVu Sans', sans-serif; fill: #52637b; }
+      .label { font: 20px 'DejaVu Sans', sans-serif; fill: #17243a; }
+      .strong { font: 700 21px 'DejaVu Sans', sans-serif; fill: #17243a; }
+      .pulse { font: 700 19px 'DejaVu Sans', sans-serif; fill: #833800; }
+      .guide { stroke: #d8e0e9; stroke-width: 2; stroke-dasharray: 6 7; }
+      .branch { stroke: #254e76; stroke-width: 8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .dot { fill: #254e76; }
+      .tip { fill: #ffffff; stroke: #254e76; stroke-width: 4; }
+    </style>
+  </defs>
+  <rect width="1200" height="750" fill="#ffffff"/>
+  <text class="title" x="42" y="43">Fixed pulse model: populations traced backward</text>
+  <text class="small" x="43" y="70">Schematic, not to scale; population paths are not a sampled gene tree.</text>
+
+  <line class="guide" x1="145" y1="155" x2="1090" y2="155"/>
+  <line class="guide" x1="145" y1="310" x2="1090" y2="310"/>
+  <line class="guide" x1="145" y1="472" x2="1090" y2="472"/>
+  <line class="guide" x1="145" y1="655" x2="1090" y2="655"/>
+  <path d="M 75 635 L 75 105" stroke="#52637b" stroke-width="3" fill="none" marker-end="url(#time-arrow)"/>
+  <text class="small" x="30" y="100">older</text>
+  <text class="strong" x="105" y="162">t₀</text>
+  <text class="strong" x="105" y="317">t₁</text>
+  <text class="strong" x="105" y="479">h</text>
+  <text class="strong" x="105" y="662">0</text>
+
+  <path class="branch" d="M 245 655 L 245 430 L 380 310"/>
+  <path class="branch" d="M 555 655 L 555 430 L 380 310"/>
+  <path class="branch" d="M 900 655 L 900 235 L 650 155"/>
+  <path class="branch" d="M 380 310 L 380 235 L 650 155"/>
+  <path class="branch" d="M 650 155 L 650 86"/>
+  <path d="M 565 472 L 890 472" stroke="#9a4300" stroke-width="5" stroke-dasharray="12 8" fill="none" marker-end="url(#pulse-arrow)"/>
+  <circle class="dot" cx="380" cy="310" r="9"/>
+  <circle class="dot" cx="650" cy="155" r="9"/>
+  <circle class="dot" cx="555" cy="472" r="9"/>
+  <circle class="dot" cx="900" cy="472" r="9"/>
+  <circle class="tip" cx="245" cy="655" r="8"/>
+  <circle class="tip" cx="555" cy="655" r="8"/>
+  <circle class="tip" cx="900" cy="655" r="8"/>
+
+  <text class="strong" x="214" y="695">A₁, A₂</text>
+  <text class="strong" x="524" y="695">B₁, B₂</text>
+  <text class="strong" x="869" y="695">C₁, C₂</text>
+  <text class="small" x="265" y="585">rA</text>
+  <text class="small" x="575" y="585">rB</text>
+  <text class="small" x="570" y="425">rB</text>
+  <text class="small" x="920" y="585">rC</text>
+  <text class="small" x="920" y="370">rC</text>
+  <text class="small" x="320" y="270">rAB</text>
+  <text class="small" x="665" y="105">rR</text>
+  <text class="label" x="275" y="300">A/B join</text>
+  <text class="label" x="665" y="148">root join</text>
+  <text class="pulse" x="632" y="450">g: B → C backward</text>
+  <text class="small" x="608" y="506">1 − g stays in B</text>
+  <text class="small" x="280" y="731">Two phased, labelled haploid samples per species; 0 &lt; h &lt; t₁ &lt; t₀.</text>
+</svg>

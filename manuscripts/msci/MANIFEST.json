@@ -1,0 +1,683 @@
+{
+  "format": "msci-portable-working-v1",
+  "source_commit": "f33ec4716ea7e4f8551d640e86494395a42fe086",
+  "purpose": "Local working draft; not a proof receipt or deposit authorization.",
+  "source_bodies": [
+    {
+      "path": "coordination/msci-two-file-qualification.md",
+      "git_blob": "735c79cba49c153df19fd7f9b14f9ff3247901fd",
+      "bytes": 4715,
+      "sha256": "2f04983d4d99a23c1e74e5a2eeea2336f753dd15b8acab8baec013735ebfb623"
+    },
+    {
+      "path": "research/manuscripts/PACKAGES.json",
+      "git_blob": "5651bcff5aed731bccd47c149aec7ada06dfd74e",
+      "bytes": 35228,
+      "sha256": "b6c9fab4ce6f915e7fcfcfe94ad801397ba675df48f47baf3a070bb5d9231da4"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/ALLMAN-BANOS-RHODES-2022-COMPARISON.md",
+      "git_blob": "478584ec6e5573a2d5bcb19dfeb401ad38f38d82",
+      "bytes": 4445,
+      "sha256": "745ed91600b2a9c2f5f38cbeda276dab5ad672ae48cd19dcc0f29c185799ee7e"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/ALLMAN-ET-AL-2024-QUARTET-COMPARISON.md",
+      "git_blob": "29902446657a179116bb4e64a0553e17d4faa26d",
+      "bytes": 7849,
+      "sha256": "0b0afdeaaa2d45c49d52bc4a375bfbf924ce0a1b84042f90a23a09b2a68af296"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/BOUNDED-OBSERVATION-REUSE.md",
+      "git_blob": "3d8835287d2d5433f888bf88ff86d55b9c99db65",
+      "bytes": 4669,
+      "sha256": "d4fb5d03a272f6cf47b565d1bc4d304d4faef679b3d375aae9e9b413b71bd583"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/BRITS-2026-COMPARISON.md",
+      "git_blob": "6d715ed5498565f37e2308383ac5d3f92d2310fe",
+      "bytes": 2483,
+      "sha256": "a7ec54082568742aa4388ec0b9f3ce0ec8efd4f22c8d2360ab1c658fdde0925f"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/CHENG-2026-TAXON-SAMPLING-COMPARISON.md",
+      "git_blob": "5e4c1a3a32f756737cfc32ef467cd6c04adbb66a",
+      "bytes": 4181,
+      "sha256": "1eec97284f194462eedfd2a0daa77149d0b2001c94239a10658f82c2d45db6db"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/DURDEN-SULLIVANT-COMPARISON.md",
+      "git_blob": "a0d770e07762ce4ac30349dfd87897f852825c42",
+      "bytes": 10384,
+      "sha256": "2d990533926b3661e513bf43d108a282094e4365e2e57ae2131f133e13a060e9"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/FINITE-ZERO-PRECONDITIONER.md",
+      "git_blob": "a0e7a61c88927dc7c08cd636505806ad868c5c89",
+      "bytes": 7190,
+      "sha256": "dd6b2d5ee07064f3428edf46f5e3be48900146cbe73bafca6fb093b49ca6d9b4"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/FORWARD-SOURCE-CORRESPONDENCE.md",
+      "git_blob": "cf05a9d33510d5dba2b357de4392ffae382c20cd",
+      "bytes": 6255,
+      "sha256": "eb4fde68b4bc81426a444560550fe524bfaa3e6ef6c364050a602423d5314031"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/FRONTMATTER.md",
+      "git_blob": "348817d7b902ace2a7e3827b1e08d298dda477b7",
+      "bytes": 37838,
+      "sha256": "d2ce8981828b24c3aa273486635fa13879c41e349fe7b2bbbec6cc84d28e475a"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/GOLDSZTEJN-COMPARISON.md",
+      "git_blob": "3b58be25ca329fb38001df5f08638d317852e4cb",
+      "bytes": 3904,
+      "sha256": "5cbd99d026d1138e39cba74c2be318f8416625202de7b427fcd0b09077344248"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/HANSEN-SENGUPTA-1981-COMPARISON.md",
+      "git_blob": "bfc6f6bbb424c7f74a9ad4fc2f5fbe72dc3f477b",
+      "bytes": 3346,
+      "sha256": "859d7c0e43a779415fec299ba57c5336093d98ca333dca411cceacbed9672780"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/HIBBINS-HAHN-2019-COMPARISON.md",
+      "git_blob": "21a50846d9c963f08eda6590a621b0723a3aba1c",
+      "bytes": 4523,
+      "sha256": "f7de66a4152345e2cdee14df00360846e5519ad8580c48ac63274f418147f533"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/HISTORICAL-SYNTHETIC-CHECK.md",
+      "git_blob": "94349003659324ba4e66aad455fe368e22a87369",
+      "bytes": 4486,
+      "sha256": "5035505b2d0011807e069a2e3ab603d9c75d0c0abd8fcf8d36b46cae594614ff"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/HUANG-ET-AL-PHASING-COMPARISON.md",
+      "git_blob": "82cdf6dbe6b1c522d71aa39429931313cc62bf92",
+      "bytes": 4112,
+      "sha256": "da4c9e752ced807dfc4082998a7a56888e3b67a8b503fc530cf91752c313cc20"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/IBEX-CONTRACTOR-COMPARISON.md",
+      "git_blob": "642f07c4cdaf7adcdf9d3b206a929ce8cd2e2a7f",
+      "bytes": 3222,
+      "sha256": "12715d4e00022fc4e0bb45472f5c285a1854709ec8dfacacb1aaa88954a136b8"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/JACOBIAN-SIGNATURE-AND-COORDINATES.md",
+      "git_blob": "83a7af2f4e0ebfcf89414178635848282f4a8d58",
+      "bytes": 5645,
+      "sha256": "fa2cdff1e054c7f6dbcf68933ad5d51d566be8e8521aa6c876b98e55fcd3cfd8"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/JC-LOCUS-BRIDGE.md",
+      "git_blob": "855f9949c579787b83dd71d56f0e9171b2a50cef",
+      "bytes": 46142,
+      "sha256": "66544cace2c1e899108733d9fa47ee9f614d86d6d2958e9b3a08c9690a936c1f"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/KUBATKO-KONG-SITE-PATTERN-COMPARISON.md",
+      "git_blob": "784466f5b0f217920f6f644a9d97f0c2038b4d0d",
+      "bytes": 7843,
+      "sha256": "70094912ebae8a215ebdd6a29f5c4671a34c50d9adb26319014cfbc93bfb8384"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/LEAN-ANALYTIC-QUALIFICATION-20261031.md",
+      "git_blob": "e248c3b41dd8142002e1eb5810ea81b7fa87e4b8",
+      "bytes": 5780,
+      "sha256": "3eaadc0689737709af7c989393c6671298cf58252a3ede42f3ac9820200e377f"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/LEAN-EXPLAINED.md",
+      "git_blob": "e42a101d735b31e494f8dddd5d6bbc841244644e",
+      "bytes": 4926,
+      "sha256": "306845cc87e6507da1b361bdb9b5ae43fe0e9a705809e2c22dec81f680718f33"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/MANUSCRIPT.md",
+      "git_blob": "c77312b6a7ce241cc48b9e38852727f200069070",
+      "bytes": 75969,
+      "sha256": "d51e9852b6aee26f6b9dd7c8e23e8a6d00bd2eafa563c6cd2328cbb19cc3cec8"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/MODEL-CONVENTIONS-COMPARISON.md",
+      "git_blob": "56914758180853e980c85aa764f5b2607f64e77c",
+      "bytes": 6908,
+      "sha256": "374641905f9b3fd7472ce2470984fa7358dddf696408e464c82090f14dca7975"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/MODEL-SCHEMATIC.svg",
+      "git_blob": "836f217aa408f6b991152060bd4ba3b964b3912f",
+      "bytes": 4167,
+      "sha256": "bbc5b915656d820592208e7d648116df62108ac50e2815e3ec374fd658de14c5"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/NETWORK-COALESCENT-PRIOR-WORK.md",
+      "git_blob": "12ca971dbd866e4a7fe2a3919ee1e7438d19820f",
+      "bytes": 11540,
+      "sha256": "141bf0220eb5cf7674b8d49a6d4c6aed9731c0c274eee1833882ac00deef1861"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/OBSERVATION-JACOBIAN-IMPORT-REPAIR.md",
+      "git_blob": "f2f29067912d5beb8f9372981fce1c207511d189",
+      "bytes": 5053,
+      "sha256": "1d50511d9b16779196dd69bbded72949afea36f45639feb30d9aa0c168c758c9"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PAIR-PROJECTION-LUMPABILITY.md",
+      "git_blob": "7ab605805da97949712954f68b731385e5c21433",
+      "bytes": 9251,
+      "sha256": "c83f332b491313b2d3e9f38df9347afcb83cd5a94ec5fd5235822e53b1bb81e1"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PANG-ZHANG-2024-COMPARISON.md",
+      "git_blob": "1555c4e6a227f94b55301c6183aa6aef4662fcac",
+      "bytes": 10609,
+      "sha256": "dafc713ca685d55d964feb2c97fefb21647ef159041dfbb5f0db9f5e7e77f13a"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PHASED-CONFIDENCE-REUSE.md",
+      "git_blob": "527dc2f157de3520d96962b16e1f927dd19978eb",
+      "bytes": 4850,
+      "sha256": "da2c5b4f1229a575f9ef6228c4391fbc2b3f016ffe37ee82d3c6a5533c38f10a"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-COIN-CONVENTION-COMPARISON.md",
+      "git_blob": "3299c16885f6d1b1c0c6f17f4cf87781ca9bda9f",
+      "bytes": 5607,
+      "sha256": "dcf0712637c709a7b7ecff4306af49132afd1bbe7ecf154dd8d677a151385926"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-ENDPOINT-KERNEL-BOUND.md",
+      "git_blob": "4106185ef9391f284c0c905b20b1e32fa5ba02f7",
+      "bytes": 6677,
+      "sha256": "4939f86405fab7a8091db9fe6d05681f61b2e1e16c1c4bdfac908c11d286cc6c"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-INHERITANCE-SOURCE-COMPARISON.md",
+      "git_blob": "90a1cdcc9bdac3050228c93b8b9f293fc3c55a44",
+      "bytes": 8313,
+      "sha256": "54e067caaaf9016d578df77d4be880ae48964fdab9f30aa2c467110e5846bf96"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-STRICT-APPROXIMATION-PLAN.md",
+      "git_blob": "49860e8595148335b65e95fe36c87c3dfd7be67a",
+      "bytes": 16549,
+      "sha256": "ea942d82d59077f07435ef07260ea320284d607ec39a4be02214c73c05da32ea"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-STRICT-CALENDAR-OBSTRUCTION.md",
+      "git_blob": "9e15a66a53679d4a69504bcee17cfcf3b8b04f6e",
+      "bytes": 7515,
+      "sha256": "a29d7d86537453a5e942ce75bcfb500bedfd0dac09170c32cdb49f8ddbc98cc4"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/PULSE-ZERO-EDGE-CONSTRUCTION.md",
+      "git_blob": "9c2e5bb7674d2efee3cfdc72c0872b7a38cbd057",
+      "bytes": 18791,
+      "sha256": "805b45ee7240090a07073a5796d984af9a109ed03dac597186de914404fa639f"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/QUARTET-CYCLE-CROSSWALK.md",
+      "git_blob": "6a5754c2ec2d23115070d2c22c3c4e67790731e1",
+      "bytes": 7864,
+      "sha256": "666aa8184f0b50e9086c3377fa70fbf78c4ef20852b9f1bac0a36ad4247d4065"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/QUARTET-ZERO-EDGE-EXAMPLE.md",
+      "git_blob": "f669c768de8c262dbb66252a96d0b39a6241ed85",
+      "bytes": 6495,
+      "sha256": "688b3e3f0b25d0c7d6515e4bf37211abd5c34d10fbc2a56b5dc16fced3d14024"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/RESEARCH-OVERVIEW-DRAFT.md",
+      "git_blob": "61936ac1d55a76eca1a3eb8daa3f35c87697ec35",
+      "bytes": 12371,
+      "sha256": "061751bf3abedf818298a6fc4514df544a8992f2b3e10279887d9973b2b9c90a"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/SAME-RECORD-SAMPLED-LOCUS.md",
+      "git_blob": "868be1de391e4b4575779d9a100c5680da3143a1",
+      "bytes": 6488,
+      "sha256": "1f2ee320592024babdedcc622de1deeaa4e39ab78a1981128c9ff4c7f833ed5b"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/SAME-RECORD-SUFFIX-READOUT.md",
+      "git_blob": "efaa41f0c59c3c5464d6976e21240966e3cfddfd",
+      "bytes": 8181,
+      "sha256": "6be08b8e4410a8429e9e99c76092a0f5c8a3433a4fb28af80b672f019738dccf"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/THAWORNWATTANA-COMPARISON.md",
+      "git_blob": "086edf4e4a88f775d37bec8ce8a2e3ddd4e15cee",
+      "bytes": 4744,
+      "sha256": "7d198ceacca13b18c291016cceddb4b44626dde4d9322cafd6412812816b4d1c"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/TIMED-GENEALOGY-ORIENTATION.md",
+      "git_blob": "2ae4aa139fc7d587f07894f1117887d61477e37b",
+      "bytes": 43260,
+      "sha256": "73f70d266b6d3a349cba10b81b71948cf606054ff048c25db600119d0483c04e"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/YANG-FLOURI-2022-COMPARISON.md",
+      "git_blob": "72e064c2f9359fefd7a5340c4f9d83858f416b67",
+      "bytes": 2849,
+      "sha256": "80e83fe8f80e3d3c532ced540026245d805b04607b77cb8662ad23d4e79f93e0"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/ZHU-YANG-COMPARISON.md",
+      "git_blob": "6f1ddccade97789c39ad23191bf11c74a0d39ca5",
+      "bytes": 2870,
+      "sha256": "365dd2ffb062c1ec4653c76aa94c2402d012094f51282b02c35f398067eaccab"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/check_quartet_boundary_example.py",
+      "git_blob": "dc354f7d95cf7ed9e0479bd54482a5269dafa75a",
+      "bytes": 2763,
+      "sha256": "1ead5eecb2c3de93cabede781a009aa696206c1fc4a0f51a9d557a9f9d5a913d"
+    },
+    {
+      "path": "research/manuscripts/msci-two-site/lean/PHYSICAL-JACOBIAN-ANALYTIC-OVERLAP.md",
+      "git_blob": "827abc33b2e0202a28dc4dc2a08a3e131708fdb2",
+      "bytes": 4944,
+      "sha256": "e4db863abf7629d9408c824ce1d1dc2b86acfdeee2ea0a5e412dd9e940f1ad43"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "MANUSCRIPT.md",
+      "bytes": 76244,
+      "sha256": "10f67326d0bae07147f9a84a4bc508dd6332cc6a18661d55f989b902172cd9a0"
+    },
+    {
+      "path": "PACKAGES.json",
+      "bytes": 35230,
+      "sha256": "0fdddc12e886490d6dc1ef9d12d708233866cbac5dd5efa984ff55499bca8e30"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2692,
+      "sha256": "51367205e8f595cc0eacd6c0957c6d8e2d158c626197f8a77a2031381dbbfc3d"
+    },
+    {
+      "path": "evidence/ALLMAN-BANOS-RHODES-2022-COMPARISON.md",
+      "bytes": 4445,
+      "sha256": "745ed91600b2a9c2f5f38cbeda276dab5ad672ae48cd19dcc0f29c185799ee7e"
+    },
+    {
+      "path": "evidence/ALLMAN-ET-AL-2024-QUARTET-COMPARISON.md",
+      "bytes": 7839,
+      "sha256": "218343f474c3c230f84b25e014fecc689a42b5e66c98c81b4dadc29328c43028"
+    },
+    {
+      "path": "evidence/BOUNDED-OBSERVATION-REUSE.md",
+      "bytes": 4669,
+      "sha256": "d4fb5d03a272f6cf47b565d1bc4d304d4faef679b3d375aae9e9b413b71bd583"
+    },
+    {
+      "path": "evidence/BRITS-2026-COMPARISON.md",
+      "bytes": 2483,
+      "sha256": "a7ec54082568742aa4388ec0b9f3ce0ec8efd4f22c8d2360ab1c658fdde0925f"
+    },
+    {
+      "path": "evidence/CHENG-2026-TAXON-SAMPLING-COMPARISON.md",
+      "bytes": 4181,
+      "sha256": "1eec97284f194462eedfd2a0daa77149d0b2001c94239a10658f82c2d45db6db"
+    },
+    {
+      "path": "evidence/DURDEN-SULLIVANT-COMPARISON.md",
+      "bytes": 10384,
+      "sha256": "2d990533926b3661e513bf43d108a282094e4365e2e57ae2131f133e13a060e9"
+    },
+    {
+      "path": "evidence/FINITE-ZERO-PRECONDITIONER.md",
+      "bytes": 7300,
+      "sha256": "cba53c1d0529f8fb2d15c4e5f2bd21eb6033a0f76d53b856e0ae05f772945f46"
+    },
+    {
+      "path": "evidence/FORWARD-SOURCE-CORRESPONDENCE.md",
+      "bytes": 6339,
+      "sha256": "3e6869ccdada1cd53fb265909d3cd874ed55d5475bc626c5c082be43bac5d24f"
+    },
+    {
+      "path": "evidence/GOLDSZTEJN-COMPARISON.md",
+      "bytes": 3904,
+      "sha256": "5cbd99d026d1138e39cba74c2be318f8416625202de7b427fcd0b09077344248"
+    },
+    {
+      "path": "evidence/HANSEN-SENGUPTA-1981-COMPARISON.md",
+      "bytes": 3346,
+      "sha256": "859d7c0e43a779415fec299ba57c5336093d98ca333dca411cceacbed9672780"
+    },
+    {
+      "path": "evidence/HIBBINS-HAHN-2019-COMPARISON.md",
+      "bytes": 4523,
+      "sha256": "f7de66a4152345e2cdee14df00360846e5519ad8580c48ac63274f418147f533"
+    },
+    {
+      "path": "evidence/HISTORICAL-SYNTHETIC-CHECK.md",
+      "bytes": 4486,
+      "sha256": "5035505b2d0011807e069a2e3ab603d9c75d0c0abd8fcf8d36b46cae594614ff"
+    },
+    {
+      "path": "evidence/HUANG-ET-AL-PHASING-COMPARISON.md",
+      "bytes": 4112,
+      "sha256": "da4c9e752ced807dfc4082998a7a56888e3b67a8b503fc530cf91752c313cc20"
+    },
+    {
+      "path": "evidence/IBEX-CONTRACTOR-COMPARISON.md",
+      "bytes": 3222,
+      "sha256": "12715d4e00022fc4e0bb45472f5c285a1854709ec8dfacacb1aaa88954a136b8"
+    },
+    {
+      "path": "evidence/JACOBIAN-SIGNATURE-AND-COORDINATES.md",
+      "bytes": 5763,
+      "sha256": "71ee126d23f96991acaf91bda60424d40114d28fd75295405d741825181a9f40"
+    },
+    {
+      "path": "evidence/JC-LOCUS-BRIDGE.md",
+      "bytes": 47412,
+      "sha256": "72413a5efcf84b871feba0ce15ebbe9fc0da8329d3504ff6a9aa008650a568dc"
+    },
+    {
+      "path": "evidence/KUBATKO-KONG-SITE-PATTERN-COMPARISON.md",
+      "bytes": 7843,
+      "sha256": "70094912ebae8a215ebdd6a29f5c4671a34c50d9adb26319014cfbc93bfb8384"
+    },
+    {
+      "path": "evidence/LEAN-ANALYTIC-QUALIFICATION-20261031.md",
+      "bytes": 5758,
+      "sha256": "a1d2b68e927a14c6084d14d9dcde09afa0d37d06cf825744c906266ebe63dc4d"
+    },
+    {
+      "path": "evidence/LEAN-EXPLAINED.md",
+      "bytes": 4969,
+      "sha256": "b37b2572d511c731aa7758ec799497ceeeb4dbef8eefc5cdd95621d76a8b0925"
+    },
+    {
+      "path": "evidence/MODEL-CONVENTIONS-COMPARISON.md",
+      "bytes": 6908,
+      "sha256": "374641905f9b3fd7472ce2470984fa7358dddf696408e464c82090f14dca7975"
+    },
+    {
+      "path": "evidence/NETWORK-COALESCENT-PRIOR-WORK.md",
+      "bytes": 11540,
+      "sha256": "141bf0220eb5cf7674b8d49a6d4c6aed9731c0c274eee1833882ac00deef1861"
+    },
+    {
+      "path": "evidence/OBSERVATION-JACOBIAN-IMPORT-REPAIR.md",
+      "bytes": 5155,
+      "sha256": "b57ad31e885d950c3bc30d71a64030b1f1a9e93d2646bbc6a5bae5829bd87c4c"
+    },
+    {
+      "path": "evidence/PAIR-PROJECTION-LUMPABILITY.md",
+      "bytes": 9579,
+      "sha256": "3fcc1e4cc251fb5d06538346f34cf242997584473f0dd8bf6b3182c2f316a4f5"
+    },
+    {
+      "path": "evidence/PANG-ZHANG-2024-COMPARISON.md",
+      "bytes": 10609,
+      "sha256": "dafc713ca685d55d964feb2c97fefb21647ef159041dfbb5f0db9f5e7e77f13a"
+    },
+    {
+      "path": "evidence/PHASED-CONFIDENCE-REUSE.md",
+      "bytes": 4832,
+      "sha256": "80bc176d00fda5a074a26a4febaab022661a074c3f129f6862dad42b47cbbdc5"
+    },
+    {
+      "path": "evidence/PHYSICAL-JACOBIAN-ANALYTIC-OVERLAP.md",
+      "bytes": 5017,
+      "sha256": "fea42cdf742d8052b7c296a5045487cb18b4e786fd6e2088b3e90e29c135a49e"
+    },
+    {
+      "path": "evidence/PULSE-COIN-CONVENTION-COMPARISON.md",
+      "bytes": 5695,
+      "sha256": "2f24f6ad1f94cb491397b3ae89b85f0600f584c801d00d3095963b4bff286035"
+    },
+    {
+      "path": "evidence/PULSE-ENDPOINT-KERNEL-BOUND.md",
+      "bytes": 6721,
+      "sha256": "cb3c3bfd382f934363db5a8a7323068e4f107080526e338b5c38763eaf3c5ee1"
+    },
+    {
+      "path": "evidence/PULSE-INHERITANCE-SOURCE-COMPARISON.md",
+      "bytes": 8313,
+      "sha256": "54e067caaaf9016d578df77d4be880ae48964fdab9f30aa2c467110e5846bf96"
+    },
+    {
+      "path": "evidence/PULSE-STRICT-APPROXIMATION-PLAN.md",
+      "bytes": 16658,
+      "sha256": "939918c2373d6975d10991e3dc429ddbf81eb1ab5a8cf0eed0090faa5735afdd"
+    },
+    {
+      "path": "evidence/PULSE-STRICT-CALENDAR-OBSTRUCTION.md",
+      "bytes": 7577,
+      "sha256": "aa416e2036229be7361178a7058ec724b60c8b831dba3a313307c051cba6f6b2"
+    },
+    {
+      "path": "evidence/PULSE-ZERO-EDGE-CONSTRUCTION.md",
+      "bytes": 18998,
+      "sha256": "0de0bfd142ae8b25d966403e713be9a19ca2a472068412263b8cb8cac0c34436"
+    },
+    {
+      "path": "evidence/QUARTET-CYCLE-CROSSWALK.md",
+      "bytes": 7867,
+      "sha256": "2f3a5f833e43b1d8ceb98f4d75b2a92525a62c07d190dfdfebde5a947dc70b2c"
+    },
+    {
+      "path": "evidence/QUARTET-ZERO-EDGE-EXAMPLE.md",
+      "bytes": 6508,
+      "sha256": "d08ad9fef5ef6489ca6b1c78dcfb47751c6d582cd695922cb5ffcb3e6b066f5f"
+    },
+    {
+      "path": "evidence/RESEARCH-OVERVIEW-DRAFT.md",
+      "bytes": 12411,
+      "sha256": "8f0c7b48af0a00134f1903158f42db48014790884a0cfb8c533debf5eb5c7bb7"
+    },
+    {
+      "path": "evidence/SAME-RECORD-SAMPLED-LOCUS.md",
+      "bytes": 6602,
+      "sha256": "66eb5133614ec4af52db1a470992b26bcd3dde0dc67475688b6f3872dd23b7b1"
+    },
+    {
+      "path": "evidence/SAME-RECORD-SUFFIX-READOUT.md",
+      "bytes": 8272,
+      "sha256": "754db5a82d85114c2534d1974bf76afb2a3698fa1d4a2c4c08078fc3a336e857"
+    },
+    {
+      "path": "evidence/THAWORNWATTANA-COMPARISON.md",
+      "bytes": 4744,
+      "sha256": "7d198ceacca13b18c291016cceddb4b44626dde4d9322cafd6412812816b4d1c"
+    },
+    {
+      "path": "evidence/TIMED-GENEALOGY-ORIENTATION.md",
+      "bytes": 43991,
+      "sha256": "6d067419b08c97a9b14d9643f8e51c2336eea44604aae3ea20c6908110108104"
+    },
+    {
+      "path": "evidence/YANG-FLOURI-2022-COMPARISON.md",
+      "bytes": 2849,
+      "sha256": "80e83fe8f80e3d3c532ced540026245d805b04607b77cb8662ad23d4e79f93e0"
+    },
+    {
+      "path": "evidence/ZHU-YANG-COMPARISON.md",
+      "bytes": 2870,
+      "sha256": "365dd2ffb062c1ec4653c76aa94c2402d012094f51282b02c35f398067eaccab"
+    },
+    {
+      "path": "evidence/msci-two-file-qualification.md",
+      "bytes": 4745,
+      "sha256": "779c220b2c7b30738d02b7dc8f96b6e3941eddf740ae5c196a4053e87f954d7e"
+    },
+    {
+      "path": "figures/MODEL-SCHEMATIC.svg",
+      "bytes": 4167,
+      "sha256": "bbc5b915656d820592208e7d648116df62108ac50e2815e3ec374fd658de14c5"
+    },
+    {
+      "path": "scripts/check_quartet_boundary_example.py",
+      "bytes": 2763,
+      "sha256": "1ead5eecb2c3de93cabede781a009aa696206c1fc4a0f51a9d557a9f9d5a913d"
+    }
+  ],
+  "omitted_internal_support": [
+    "OUTSIDE/2026-10-05-dot-msci-phased-confidence-integration-1632z.md",
+    "coordination/subspace-msci-delivery-20261031.md",
+    "research/manuscripts/VERIFICATION.md",
+    "research/manuscripts/msci-two-site/COMMONS-SOURCE-TO-MODEL-CROSSWALK.md",
+    "research/manuscripts/msci-two-site/CROSS-CARRIER-PAIR-SOURCE-BRIDGE.md",
+    "research/manuscripts/msci-two-site/DOT-REVIEW-RECORDED-PAIR.md",
+    "research/manuscripts/msci-two-site/DOT-REVIEW-REQUEST-JC-NORMALIZATION.md",
+    "research/manuscripts/msci-two-site/DOT-REVIEW-REQUEST-PATH-MEASURE.md",
+    "research/manuscripts/msci-two-site/FEATURE-CHAIN-STATUS.md",
+    "research/manuscripts/msci-two-site/FINITE-MARKED-PATH-SOURCE-COMPARISON.md",
+    "research/manuscripts/msci-two-site/FINITE-PATTERN-SUM-BRIDGE.md",
+    "research/manuscripts/msci-two-site/FORMULA-IDENTIFICATION-SIGNATURE-AUDIT.md",
+    "research/manuscripts/msci-two-site/LEAN-OBLIGATIONS.md",
+    "research/manuscripts/msci-two-site/LEAN-READINESS.md",
+    "research/manuscripts/msci-two-site/PAIR-SURVIVAL-RENEWAL-PLAN.md",
+    "research/manuscripts/msci-two-site/REGISTER-ERASURE-FINITE-HISTORY.md",
+    "research/manuscripts/msci-two-site/SOURCE-CHOICE-RECOVERY.md",
+    "research/manuscripts/msci-two-site/UNIFORMIZATION-EVENT-CORRESPONDENCE.md",
+    "research/manuscripts/msci-two-site/UNUSED-EDGE-UNIFORMIZATION.md",
+    "research/manuscripts/msci-two-site/check_first_pair_counterexample.py",
+    "research/manuscripts/msci-two-site/check_pair_projection_generator.py",
+    "research/manuscripts/msci-two-site/check_recorded_pair_splits.py",
+    "research/manuscripts/msci-two-site/check_recorded_path_fold.py",
+    "research/manuscripts/msci-two-site/compiler-offers/20261031-analytic-identification/SOURCE-MANIFEST.json",
+    "research/manuscripts/msci-two-site/lean/JC-PHYSICAL-REGISTER-LAW-FACTORED-TARGET.json",
+    "research/manuscripts/msci-two-site/lean/JC-PHYSICAL-REGISTER-LAW-TARGET.json",
+    "research/manuscripts/msci-two-site/lean/JC-SOURCE-FINITE-CONTRACTOR-TARGET.json",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/ACFirstJoinBoundDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/ACPhaseSeparationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/ACProjectedBlocksBeforeRootDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/ACRootNoEarlyCompletionDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/CoordinatesDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/DiagonalProductDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/FiniteIntervalMatrixDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/FiniteRationalIntervalDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/FiniteZeroPreconditionerDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/ForwardDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCAveragedAgeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCAveragedLocusDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCClockedPathDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCConditionalLocusDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCDurationSelectionAssemblyDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCFinitePruningDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCFirstCoalescenceDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCLocusCoreDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCLocusDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCMeasurableTreeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCNodeAssignmentDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCNodeMomentSamplingDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCNodeSamplingDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCObservationAssemblyDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCObservationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPairAgeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPairDecompositionDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPanelMassDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPanelPMFDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPatternSelectorDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCPhysicalRegisterLawDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCRecordedPairSplitDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCRecordedPathDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCRegisterErasureDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCScheduledForestDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCScheduledObservationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceActualDecorationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceActualMatrixDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceActualOneRootDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceAgeMatrixDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceCCMomentDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceFiniteContractorDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceMeasuredLocusDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourcePhysicalCoreDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourcePhysicalFamilyDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourcePhysicalTransportDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCSourceTreeCompatibilityDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTimedPairDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTreeMomentDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTreeOrientationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTreePatternDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTreeZeroEdgeEquivDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCTwoSiteDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/JCUniquenessDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PairHazardSumDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PairThresholdEventAgeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalChoiceAdapterDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalCompletedIntervalTraceDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalCutLegalEntriesDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalCutTraceDecodeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalFeatureDifferentiabilityDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalFirstTraceRenewalDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalIntervalTimelineCutDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalJacobianMatrixDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalLegalTraceLawEntriesDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalLegalTraceMeasurableDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalLiteralTraceLegalDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalLocalFirstJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalMergeTransitionAdapterDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalNestedCutsDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalObservationCoreDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalObservationTransportDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalProgramNoSplitDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalProgramTimelineCutDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalPulseGraphObstructionDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalSelectedFirstPathDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalSelectedFirstTraceDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalTailFirstJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalTailGlobalJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalTailMatrixAgeDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalThreeTipTraceDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalTimelineBoundaryForestDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PhysicalTimelineMergerForestDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseACMatrixCDFDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseChronologicalRootTailDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseCoinBitMassDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseCoinMeasureJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseCompletedFirstPulseDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseCompletedJointRecordDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseExitCodeCommutationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseExitCoinLawDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseExitCommutationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseExitProgramCommutationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseExitSourceProgramDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseFifthOutputJointDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseFullSuffixLocusJointDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseGraphGeometryDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseMarginalDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulsePMFDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseSelectedFullFifthRecordDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseTimeSemigroupDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseWeightsDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeBoundaryDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeCanonicalDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeCoinBijectionDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeEpochSupportDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeLaterBoundariesDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeMeasureJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeProjectionDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/PulseZeroEdgeStartJoinDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/RecordLocusJointMeasureDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/RootDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/SafeConditionalLocusDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/SoundIntervalScalarDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/SoundZeroPreconditionerDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/SourceChoiceRecoveryDraft.lean",
+    "research/manuscripts/msci-two-site/lean/MSCi/TwoSite/TrackedPopulationDraft.lean",
+    "research/manuscripts/msci-two-site/lean/PHYSICAL-JACOBIAN-TARGET.json",
+    "research/manuscripts/msci-two-site/lean/SELECTED-FIRST-TRACE-ANALYTIC-OVERLAP.md",
+    "research/manuscripts/msci-two-site/lean/SOURCE-MANIFEST.json"
+  ],
+  "appendix_bytes_preserved": true,
+  "metadata_adaptations": [
+    "PACKAGES.json: one editorial identity uses the selected public posting name; other bytes are unchanged.",
+    "evidence/msci-two-file-qualification.md: an internal request identifier is omitted; the original source remains pinned.",
+    "FRONTMATTER.md links point to MANUSCRIPT.md after checking its original text occurs uniquely in the original manuscript.",
+    "figures/MODEL-SCHEMATIC.svg: byte-identical copy of research/manuscripts/msci-two-site/MODEL-SCHEMATIC.svg; PACKAGES.json retains the original source path.",
+    "scripts/check_quartet_boundary_example.py: byte-identical copy of research/manuscripts/msci-two-site/check_quartet_boundary_example.py."
+  ]
+}
