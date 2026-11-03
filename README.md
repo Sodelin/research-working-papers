@@ -35,6 +35,12 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[Moments, noisy imaging and compatible sets](guide/MOMENTS-IMAGING-CONNECTIONS.md)
+connects an exact sparse-moment component, a Fourier–Poisson risk baseline and
+a conditional diffraction certificate to the questions and missing inputs for
+each. The companion [Fourier reading copy](guide/sources/FOURIER-POISSON-READING.md)
+preserves the mathematical source while omitting unverified navigation links.
+
 [What the work connects to](guide/CONNECTIONS.md) is a source-linked selection
 from the research-connections owner's guide. It describes nine mathematical
 or scientific questions, the contributions claimed in the existing sources,

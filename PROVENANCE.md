@@ -85,6 +85,23 @@ catalogue bytes match the selected edition. The source snapshot does not carry
 the older Git history. An archive identifier is not a DOI, a journal submission
 or a proof review.
 
+The [moments and imaging guide](guide/MOMENTS-IMAGING-CONNECTIONS.md) adapts
+the research-connections owner's local source commit
+`abebf7cc27b183bf4c2f12e2701299a43e69f8c3`,
+`research/moments-and-imaging-connections.md` (SHA-256
+`5dad189577b0aa76a32cf71ee68a49cc09e8d74240b24b91f7ff315ec36987a5`).
+The adaptation adds public source links, credits the paper's referee remark,
+replaces a local-only evidence-record link, and omits local coordination and
+an unrelated source-review note. The [Fourier source reading
+copy](guide/sources/FOURIER-POISSON-READING.md) retains the mathematical body
+of the original public dossier (SHA-256
+`5d2bd1cf8f300caefa6f8780ca23d2ef824d5529a64697803f64d6d4ff2c5465`)
+while omitting its navigation block with two external links of unverified target
+visibility. It marks the historical opening statement superseded by the source's
+own later polynomial-budget section. The original and two other selected public
+component sources returned HTTP 200; their identities do not establish their
+correctness or a human review.
+
 The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
 the research-connections owner's local commit
 `6bda163527d08c1fe8f623c03657f7d1a50aaa83`, `research/quantum-connections.md`
