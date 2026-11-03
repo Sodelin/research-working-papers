@@ -23,3 +23,7 @@ from the research-connections owner's guide. It describes nine mathematical
 or scientific questions, the contributions claimed in the existing sources,
 and the precise assumptions or gaps that remain. It complements the papers
 above and does not treat overlapping records as separate discoveries.
+
+[Existing public problem records](guide/PUBLIC-RECORDS.md) links a further
+selection of the project's material already listed at VibeMathed, with concise
+scope notes and links to each site's source and verification details.

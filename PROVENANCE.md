@@ -23,3 +23,12 @@ The public adaptation selects nine of its ten entries, removes local-only
 paths and outreach metadata, and adds direct public project-source links.
 The source's associated guide remains with its original owner. This is a
 navigation and communication record, not a new proof or novelty audit.
+
+The [public problem-record links](guide/PUBLIC-RECORDS.md) are a nine-entry
+selection based on the theorem guide's local commit
+`501730afc601aa196ff4c7b84e96105a63199668`,
+`docs/VIBEMATHED-RECONCILIATION.md` (SHA-256
+`af49dbc3895ac8a0f2abab8b387b655b31132e349b4aa7daa280f871465b894b`).
+The linked pages are maintained by VibeMathed; all nine returned HTTP 200 on
+3 November 2026. This selection does not reproduce the site's data set or
+establish review, priority or completeness.
