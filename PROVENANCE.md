@@ -161,3 +161,13 @@ is an exact copy of research-connections source
 It preserves the prior-work credit, k=0 target correction and minimax, statistical,
 formal and specialist-review limits. Anonymous public source-body reads on 3
 November 2026 matched the four hashes recorded in the guide.
+
+The [matching and juggling guide](guide/JUGGLING-MATCHING-CONNECTIONS.md)
+derives from research-connections source
+`4abb4a8b3357c47ad086f9cce358a9024a11e7c6:research/juggling-matching-connections.md`
+(SHA-256 `7b771f1908fa6a5b41c580f50b3350be608cb783454e603f26ae17286350cc02`).
+The public adaptation omits the source final paragraph containing contact and
+outreach bookkeeping; the mathematical scope, prior sources, attribution and
+review boundaries remain. The linked public hand edition was anonymously fetched
+on 3 November 2026 and matched the recorded SHA-256
+`e81fc46687a4de968f67242421daeb3d9761960b1363dedc55abe4a357bd8e35`.

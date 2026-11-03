@@ -62,6 +62,10 @@ The [statistical testing and resources map](guide/STATISTICAL-RESOURCES.md)
 and [grouped phase-window map](guide/GROUPED-PHASE.md) connect retained
 arguments to established literature while identifying the remaining bridges.
 
+The [matching and juggling guide](guide/JUGGLING-MATCHING-CONNECTIONS.md)
+connects a constrained coding construction and restricted generating series
+to their classical sources and outstanding review questions.
+
 The [restricted causal-oracle guide](guide/RESTRICTED-CAUSAL-CONNECTIONS.md)
 connects a population-query result to prior intervention work, with the
 common-source target, correction and remaining gaps stated.
