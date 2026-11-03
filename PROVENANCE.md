@@ -223,3 +223,28 @@ The quantum-loss guide now links the 2026 Barnum–Knill erratum
 as a review lead. Publisher metadata was retrieved through Crossref on 3
 November 2026. The exact relation to the separately credited Albarelli–Branford–Rubio
 application has not been audited; no invalidation or fresh proof review is claimed.
+
+
+The [state, ancestry and memory guide](guide/STATE-REPRESENTATION-CONNECTIONS.md)
+adapts research-connections source
+`23dc93a3be163d699c733b5ef1e2640a42516368:research/state-representation-transfer-boundaries.md`
+(SHA-256 `efc20a3d0433e8eed9c3fb2b32a74722470d57c6fbc69ca00756898a0fc704ce`).
+It replaces local source paths and operational notes with pinned public evidence,
+adds primary background references and preserves original mathematical scopes,
+attribution and independent-review gaps. The four linked CA and pruning/rank
+source bodies matched their retained source bytes on 3 November 2026; the
+materials source identity is recorded in the note. No source check constitutes
+a new Lean run, physical validation or independent mathematical review.
+
+The [memory-descriptor reading copy](guide/sources/MEMORY-DESCRIPTORS-READING.md)
+preserves the mathematical body of dot/OpenAI's source from Research Commons
+`27b143c73a4ac272b560b2974d83ff96df738531`,
+`research/2026-10-15-connection-dossiers/memory-augmented-descriptors.md`
+(17,152 bytes; SHA-256 `a040f778f5e0765704874db231cfb276086e9e25a912ce96447a8ac1949690cc`).
+It omits the final navigation block containing two document-link values
+of unknown target visibility, normalizes final blank lines and adds an explanatory
+preamble; its mathematical body and original attribution remain. The independently fetched
+`memory-sampled-cadence-test.md` at that revision matched its retained 13,316
+bytes and SHA-256 `8b6601a760c45ccac2e9a104499a0e74464abeea26b99f339a3b8e902c972348`.
+These are identity observations, not a new proof audit or a statement about the
+visibility of the omitted link targets.

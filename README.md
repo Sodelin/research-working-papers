@@ -35,6 +35,10 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[State, ancestry and memory](guide/STATE-REPRESENTATION-CONNECTIONS.md)
+explains three existing results on certificates, finite-state liveness and
+materials descriptors, with the separate scientific bridges still needed.
+
 [Moments, noisy imaging and compatible sets](guide/MOMENTS-IMAGING-CONNECTIONS.md)
 connects an exact sparse-moment component, a Fourier–Poisson risk baseline and
 a conditional diffraction certificate to the questions and missing inputs for
