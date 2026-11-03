@@ -20,6 +20,8 @@ These are working papers, not journal articles or claims of established priority
 The [sequence reading notes](manuscripts/sequence/README.md) identify the
 AI review, source versions and missing original receipts for these editions.
 
+The [exact source-edition index](source-editions/README.md) identifies the original manuscript bodies and their hashes.
+
 [Source and release notes](PROVENANCE.md) identify the source versions, copied bodies and presentation changes. Historical statements in imported source manifests about a draft being local or not authorized for release refer to their original preparation dates; this repository is a subsequent public release.
 
 The broader [Research Commons](https://github.com/Sodelin/Research-Commons) and [work relating to Samuel Alexander's research](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-) contain additional materials. This first selection is not the complete research corpus, and overlapping records are not counts of independent discoveries.
