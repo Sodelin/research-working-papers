@@ -32,3 +32,12 @@ above and does not treat overlapping records as separate discoveries.
 [Existing public problem records](guide/PUBLIC-RECORDS.md) links a further
 selection of the project's material already listed at VibeMathed, with concise
 scope notes and links to each site's source and verification details.
+
+The [working programme reading guide](guide/programme/README.md) brings
+together twelve existing research chapters and a dated source-linked catalogue.
+It distinguishes open questions, hand arguments, reported formal components
+and missing source references; its entries are not counts of new discoveries.
+
+[Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
+selected Gibbs-certification and coarse-graining results to the external
+questions and the mathematical or physical bridges still needed.

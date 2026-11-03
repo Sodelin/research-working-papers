@@ -45,3 +45,22 @@ The source's `READING-EDITION-STATUS.md` gives their historical AI-review and
 recovery limits; the [public reading notes](manuscripts/sequence/README.md)
 carry those limits and the correction regarding Cloitre v2. No checker or
 original review receipt is invented, and no new build or review is claimed.
+
+The [twelve-chapter working programme guide](guide/programme/README.md) and
+dated 118-card navigation catalogue were adapted from the scientific-library
+owner's local commit `21222b5515f3bd3f3345d02f172ae95027535954`. The
+[manifest](guide/programme/SOURCE-MANIFEST.json) records original and adapted
+text hashes and citation-availability counts. This adaptation changes display
+delimiters, makes available source links public, marks omitted local sources,
+and uses the chosen public name. It does not reproduce private source packets,
+prove the statements, perform a Lean build or close G3 or G4. Sixty available
+G3 source bodies had matching Git blob identities against the cited public
+Research Commons tree before their links were installed.
+
+The [quantum connection map](guide/QUANTUM-CONNECTIONS.md) was adapted from
+the research-connections owner's local commit
+`6bda163527d08c1fe8f623c03657f7d1a50aaa83`, `research/quantum-connections.md`
+(SHA-256 `209cbf9aabdfe7dd87bfba82250bc13862d498eaed74bdc10e6c8a87fdac4a59`).
+The adaptation substitutes the project's chosen public name; the result and
+open-bridge descriptions are unchanged. It is a reading guide, not a new
+correctness, physical-admission or novelty review.

@@ -1,0 +1,118 @@
+{
+  "source_commit": "21222b5515f3bd3f3345d02f172ae95027535954",
+  "scope": "working reading guide; not a new proof or check",
+  "files": [
+    {
+      "path": "01-CONTRACTS-AND-REUSABLE-LEMMAS.md",
+      "source_sha256": "4c8b605464c12ecd8f5d7ed767d444011383baf830101b4afe1c7fd1d4045119",
+      "published_sha256": "9844999708c6da179daead9b9f91cdbaec5e03085f4c2a0b65a30013b103ae85",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "02-G1-TO-G7.md",
+      "source_sha256": "34aeaf923bd10065ee95c13a7bb651a85c0db1600818d8b412f72ba7afe60165",
+      "published_sha256": "91a05a48fadb68f7ef5c28c67318675f1246602b9584b91cf00f439c37424a04",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "03-CROSS-HIDDEN-MOMENTS-AND-NANUQ.md",
+      "source_sha256": "ec7cf71c918980994b686a79effabbc7e2df58f5886c63d17f5cd3b456d30976",
+      "published_sha256": "f919c85524553e11861691daab5d85343ff5102d9c3b68a95dd201c04c95aff5",
+      "unavailable_links": 4,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "04-G4-DERIVATIONS.md",
+      "source_sha256": "5397a31d2037d7128f98f49170c9d05bc3e9469aa24045e4c04e4a1a3e3ad08c",
+      "published_sha256": "c329b0c924fafc295fb75fddf30454d32e9fc7c87e274e8749b45e25d01f1422",
+      "unavailable_links": 11,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "05-OBSERVATION-MEMORY-CAUSALITY-AND-TRANSFER.md",
+      "source_sha256": "c77b2ea60a9590b4664cb8c03d82c77bd0ccb890543682a554cd6e9c61b10094",
+      "published_sha256": "b5e1227244af235ccfbdeacf250d21041d8597f8bd1428159812fcd2c9cd60a3",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "06-INFINITE-ANCESTRY-AND-POPULATIONS.md",
+      "source_sha256": "4af0407876f55513c9b193a321105be07b6e9ea958a2dcd3891d2ebe724c0805",
+      "published_sha256": "08326da00e7870551282653eb9f09851e23c028ec25b1cb5874cffae0cadc159",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "07-SEQUENCES-AND-PATTERN-LIBRARY.md",
+      "source_sha256": "3edbf428fb0a73201f449e138bb773357dc07a084529b187dcf474e8227b7957",
+      "published_sha256": "623082c52d0dc52de839215931a3b488decc01ccb6934eac177452226fed4958",
+      "unavailable_links": 0,
+      "public_source_links": 7,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "08-SOURCE-AND-OBSERVATION-ADAPTERS.md",
+      "source_sha256": "5b44cdc51f09f7c8e5f32525dfcdd8a2f407b85709c6c246f966972922db5a83",
+      "published_sha256": "0e8ee325a0bb5c055bc5f11e64ec05c9c47090f3fd1b45b1d570d8dbb0617fb8",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "09-PHYSICS-MATERIALS-AND-CERTIFICATION.md",
+      "source_sha256": "2a7fbf7cf62bfca0f0335fa78cb1775a970312d9ccea97d387334af0497e70bf",
+      "published_sha256": "3a5443f8ffb18b42db3ed03a227d537c8876ba9521a0000543a911a7151edb49",
+      "unavailable_links": 1,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "10-EXECUTED-EVIDENCE-AND-RESEARCH-DESIGN.md",
+      "source_sha256": "76675ea68fcf46f48e943ca42d06eef7eae27f8daa5ff9ff1b51636a787655e9",
+      "published_sha256": "7b6ee39c15e91ed6361b656b037c33c643d1f5c7efaf71a375966f1b30f4b326",
+      "unavailable_links": 1,
+      "public_source_links": 0,
+      "identity_substitutions": 1
+    },
+    {
+      "path": "11-COUNTABLE-PREFIXES-AT-A-FINITE-INTERFACE.md",
+      "source_sha256": "43764ce544d8011392a5896f7dc85a8e68e3e08470e8bd54328f918892a9c9eb",
+      "published_sha256": "2a77b14ff60f341638ca9b07294a4564ff124f52a1a318c66765944db56e77b1",
+      "unavailable_links": 6,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "12-G3-COMPONENT-AND-FORMAL-MAP.md",
+      "source_sha256": "ca0cad2556d35d7eeb431329bf0f9f459ec9c8a9c69ffe2e12b18a7ece68716a",
+      "published_sha256": "b627c04b3ee83e08478001fcc8cd267aa72f8b63ff0b1415f2d9b24c5652e4ea",
+      "unavailable_links": 0,
+      "public_source_links": 36,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "CANONICAL-CATALOGUE.md",
+      "source_sha256": "56c4c99e1d9179c18e4ff9da8b4e83185537ed145f056444425f3201c5682e7c",
+      "published_sha256": "f0aaf6ccdd65eaa370a2a6db4014c3a9376481f9f8f26b07cc8b0c83e584563f",
+      "unavailable_links": 0,
+      "public_source_links": 0,
+      "identity_substitutions": 0
+    },
+    {
+      "path": "sources/g3-components/README-LIBRARY.md",
+      "source_sha256": "ead5fe556a4eef84bb51832730675553bdcb50e36cd4e850a14b32e226149c62",
+      "published_sha256": "181a4d2d122796dfcd5364edaf0e0d7cc889c008b042a040954bbfce17a11e34",
+      "unavailable_links": 0,
+      "public_source_links": 58,
+      "identity_substitutions": 0
+    }
+  ]
+}
