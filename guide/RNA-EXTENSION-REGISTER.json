@@ -1,0 +1,36 @@
+{
+  "schema": "sodelin.rna-extensions.v1",
+  "scope": "Published directions and source gates, not exact conjectures, new theorem or current worldwide status.",
+  "extensions": [
+    {
+      "id": "PRISM-ADAPTIVE-CONFIDENCE",
+      "kind": "Published extension direction",
+      "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol390-wabi2026/LIPIcs.WABI.2026.30/LIPIcs.WABI.2026.30.pdf",
+      "component": "Conditional strict top-k interval certificate and discrepancy widening.",
+      "gap": "Actual sampling-to-Gamma/classifier law, all-time/all-class coverage, unseen cap, numerical/RNG error, discovery and stopping.",
+      "status": "Relevant building blocks; no complete implemented extension claimed."
+    },
+    {
+      "id": "PRISM-SELECTED-CLASS-SUM",
+      "kind": "Published extension direction",
+      "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol390-wabi2026/LIPIcs.WABI.2026.30/LIPIcs.WABI.2026.30.pdf",
+      "component": "Ordered derivation sums, Gamma ideal class law and exact residual certificate.",
+      "gap": "Executable carrier/schedule, unambiguity or corrected multiplicity, matching weights/classifier and efficient exact inverse-image sum or enclosure.",
+      "status": "Source-specific composition open; selected shape-sum/residual methods have earlier prior art."
+    },
+    {
+      "id": "PRODUCTIVE-SCHEDULE",
+      "kind": "Shared source-admission gate",
+      "component": "Finite recurrence and observer frame.",
+      "gap": "All-cache premise is refuted by the retained fixture; productive root admission must justify excluded states.",
+      "status": "No root-value error established by that fixture."
+    },
+    {
+      "id": "SUPPORTED-GRID",
+      "kind": "Shared sampling-admission gate",
+      "component": "Older grid theorem, root-positive ideal law, unreviewed guide coupling deduction.",
+      "gap": "Matched reachable-history positivity, same continuation, conditional grid law and total fuel.",
+      "status": "Different theorem premises; not automatically composed."
+    }
+  ]
+}

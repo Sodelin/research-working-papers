@@ -1,0 +1,36 @@
+{
+  "schema": "sodelin.finite-sampling.v1",
+  "scope": "Observation/target receivers, not new proof, data admission or runtime permission.",
+  "receivers": [
+    {
+      "id": "FINITE-HISTORY-COMPLETION",
+      "input_contract": "Finite admitted gARG/topology and all compatible abstract continuations.",
+      "result": "Opposite whole-population specieslike targets while preserving old edges and ancestry.",
+      "limit": "Not equal sequence likelihoods or an empirical species-delimitation theorem."
+    },
+    {
+      "id": "OWNER-BLOCK-RECOVERY",
+      "input_contract": "Declared owner family or distinct-symbol independent-block inheritance model.",
+      "result": "Scoped owner-bit criterion and sampled-family component recovery law.",
+      "limit": "Not inferred ownership, general pedigree recovery or independent blocks from recombination alone."
+    },
+    {
+      "id": "RARE-ROUTE-COPY-SATURATION",
+      "input_contract": "Fixed positive pre-hybrid wait, admitted family and finite contemporaneous allocations.",
+      "result": "All-copy-uniform closeness and known-pair passive rare-route locus cost.",
+      "limit": "Not arbitrary reticulate bases, hidden-coin readouts or every sequence channel."
+    },
+    {
+      "id": "MATCHED-IDEAL-CONTROL",
+      "input_contract": "Known pair with the same original-ID registry and accessible ideal forcing.",
+      "result": "Passive versus forced cost comparison at fixed source parameters/confidence.",
+      "limit": "No physical actuator, general policy optimum or new model run."
+    },
+    {
+      "id": "COLLISION-DIVERSITY",
+      "input_contract": "Observed iid labels or fixed relation with justified channel/calibration and confidence events.",
+      "result": "Collision/diversity intervals and supported threshold decisions.",
+      "limit": "Not latent semantic/biological richness or downstream optimization preservation without adapters."
+    }
+  ]
+}

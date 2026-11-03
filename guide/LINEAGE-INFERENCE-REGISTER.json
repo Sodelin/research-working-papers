@@ -1,0 +1,36 @@
+{
+  "schema": "sodelin.lineage-inference.v1",
+  "scope": "Source/receiver interpretation, not new mathematical or biological validation.",
+  "receivers": [
+    {
+      "id": "POTENCY-SCORE",
+      "input_contract": "Specified potency-set DAG and sampling-only score on all finite typed test trees.",
+      "result": "Determines potency family/reachability quotient.",
+      "limit": "Not direct-edge recovery or full-method empirical critique."
+    },
+    {
+      "id": "COARSE-BRANCHING-LAW",
+      "input_contract": "Named fixed-root parent-retaining branching source and unresolved emission classes.",
+      "result": "Equal complete observed-tree laws for distinct direct graphs.",
+      "limit": "Not state-preserving division, every hidden start or arbitrary biological observation."
+    },
+    {
+      "id": "PATH-ENDPOINT-DISTINCTION",
+      "input_contract": "Known tree/process interpretation and explicit endpoint summary.",
+      "result": "Parameters, generator support and realized jumps can have different information content.",
+      "limit": "Deterministic summary collisions do not imply full stochastic law equality."
+    },
+    {
+      "id": "POLYTOMY-REFINEMENT",
+      "input_contract": "Supplied differentiation map, exact score and permitted binary refinements.",
+      "result": "Scoped NP-completeness plus exact degree-parameterized subset DP.",
+      "limit": "Restricted hardness, no deployed solver or automatic approximation transfer."
+    },
+    {
+      "id": "FORMAL-HARDNESS-BRIDGE",
+      "input_contract": "Exact operational codec, source hardness and compatible proof/import closure.",
+      "result": "Historical byte recovery identifies candidate provider artifacts.",
+      "limit": "Byte identity is not kernel acceptance or completed all-word reduction."
+    }
+  ]
+}

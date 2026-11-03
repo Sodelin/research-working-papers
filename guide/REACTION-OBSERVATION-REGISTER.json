@@ -1,0 +1,36 @@
+{
+  "schema": "sodelin.reaction-observations.v1",
+  "scope": "Source-level receivers and review issues, not new mathematical proof or execution permit.",
+  "receivers": [
+    {
+      "id": "CONTROLLED-TOTAL",
+      "input_contract": "Two labelled species, unit transfers, known controlled totals and one source/rate bank.",
+      "result": "Exact panel fibre and scoped degree/positive-support finite certificates.",
+      "limit": "Not arbitrary unreconstructed hidden networks or finite noisy trajectories."
+    },
+    {
+      "id": "TWO-TIME-JOINT-LAW",
+      "input_contract": "Exact stopped pair law at Δ and 2Δ, scalar ellipticity and declared holding protocol.",
+      "result": "Same coefficient/fibre conclusion via killed-kernel extraction and scalar spectral identification.",
+      "limit": "Not two unpaired marginals, two samples or an unmonitored free diffusion."
+    },
+    {
+      "id": "HIDDEN-FAMILY-FIBRES",
+      "input_contract": "Named catalytic, neutral or balanced family with specified starts, readout and stop.",
+      "result": "Rate/hidden-start recovery, label ambiguity or hidden-rate invisibility at the stated family scope.",
+      "limit": "Not all-rival unknown-network identifiability or a generic non-Markov criterion."
+    },
+    {
+      "id": "HIDDEN-EXIT-RESPONSE",
+      "input_contract": "Independent hidden chemical block and actual minimum-exit held observation.",
+      "result": "Observation equality reduces to fixed-start hidden exit-survival equality.",
+      "limit": "All finite hidden chemical response classification remains unsupplied."
+    },
+    {
+      "id": "POINTWISE-REVIEW-QUESTION",
+      "input_contract": "Literal initial-state quantifier versus generator equality over open sets.",
+      "result": "Retained conserved-line checkpoint and separate weaker-reviewed cone/family deductions.",
+      "limit": "Potential source issue, not established erratum, author decision or rejection of all-start generator results."
+    }
+  ]
+}

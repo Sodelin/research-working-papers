@@ -3,22 +3,51 @@
 from hashlib import sha256
 from html import escape
 from pathlib import Path
+import argparse
 import re
 import subprocess
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = 'https://sodelin.github.io/research-working-papers'
 REPO = 'https://github.com/Sodelin/research-working-papers'
-SLUGS = ('msci', 'calibration', 'product-coin', 'cap-three', 'g6-fixed-cell')
+MANUSCRIPTS = ('msci', 'calibration', 'product-coin', 'cap-three', 'g6-fixed-cell')
+SEQUENCE = {
+    'thue-morse': {
+        'path': 'manuscripts/sequence/Thue-Morse-Hand-Proofs.md',
+        'paragraphs': (
+            'For the Thue–Morse word, this reading edition presents proofs of three first-occurrence formulas for longest monochromatic arithmetic progressions of differences 2^m+1 and 2^m−1. It also connects a separate matching-height construction to juggling and derives an exact average-height formula.',
+            'The mathematical exposition is by dot (OpenAI). A separate Lean package and historical build and audit reports cover the named first-occurrence statements; the later juggling and average-height consequences are hand results. Internal AI hand review is not independent human peer review, and historical priority remains open.',
+        ),
+    },
+    'pattern-hierarchies': {
+        'path': 'manuscripts/sequence/Pattern-Hierarchies-and-Selected-Digit-Proofs.md',
+        'paragraphs': (
+            'This reading edition presents exact phase-recovery and factor-count results for a grouped binary substitution family, together with complexity, critical-exponent and branching comparisons for a distinct selected-binary-digit family.',
+            'The mathematical exposition is by dot (OpenAI), with reported AI hand review and no Lean claim for this edition. Cloitre’s revised paper already supplied an all-level factor-complexity recurrence and seed; comparison with earlier work and independent specialist review remain open.',
+        ),
+    },
+}
+SLUGS = MANUSCRIPTS + tuple(SEQUENCE)
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--only', nargs='+', choices=SLUGS, help='rebuild selected pages; the sitemap always lists all pages')
+args = parser.parse_args()
 revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()
 
-for slug in SLUGS:
-    path = Path('manuscripts') / slug / 'MANUSCRIPT.md'
+for slug in args.only or SLUGS:
+    sequence = SEQUENCE.get(slug)
+    path = Path(sequence['path']) if sequence else Path('manuscripts') / slug / 'MANUSCRIPT.md'
     raw = (ROOT / path).read_bytes()
     text = raw.decode('utf-8')
     title = next(line[2:].strip() for line in text.splitlines() if line.startswith('# '))
-    abstract = text.split('## Abstract', 1)[1].split('\n## ', 1)[0].strip()
-    paragraphs = [re.sub(r'\s+', ' ', part).strip() for part in re.split(r'\n\s*\n', abstract)]
+    if sequence:
+        paragraphs = sequence['paragraphs']
+        heading = 'Reading summary'
+        source_description = 'This page summarizes the public source'
+    else:
+        abstract = text.split('## Abstract', 1)[1].split('\n## ', 1)[0].strip()
+        paragraphs = [re.sub(r'\s+', ' ', part).strip() for part in re.split(r'\n\s*\n', abstract)]
+        heading = 'Abstract'
+        source_description = 'This page presents the abstract from public source'
     if not paragraphs or any(not part for part in paragraphs):
         raise ValueError(f'abstract not found: {path}')
     source_url = f'{REPO}/blob/{revision}/{path.as_posix()}'
@@ -35,10 +64,10 @@ for slug in SLUGS:
 <style>body{{font:1.05rem/1.65 system-ui,sans-serif;color:#20263a;background:#faf9fd;margin:0}}main{{max-width:48rem;margin:3rem auto;padding:0 1.3rem}}a{{color:#5638a4}}.status{{background:#f0ecfa;border-left:4px solid #7457bd;padding:1rem}}small{{overflow-wrap:anywhere}}</style>
 </head><body><main><p><a href="{SITE}/">← All working papers</a></p><article>
 <h1>{title_html}</h1><div class="status"><strong>Working research material.</strong> Sodelin organizes and shares this AI-assisted project. Contributions, scientific authorship and rights for eventual publications remain open. Source-specific AI attribution and verification limits are in the manuscript; the work has not received independent human specialist review.</div>
-<h2>Abstract</h2>{abstract_html}
+<h2>{heading}</h2>{abstract_html}
 <p><a href="{source_url}">Read the full working manuscript and its evidence</a></p>
 <p><a href="{REPO}/blob/{revision}/PROVENANCE.md">Source and release provenance</a></p>
-<small>Manuscript source SHA-256: {digest}. This page presents the abstract from public source commit {revision}.</small>
+<small>Manuscript source SHA-256: {digest}. {source_description} commit {revision}.</small>
 </article></main></body></html>\n'''
     out = ROOT / 'docs' / 'papers' / f'{slug}.html'
     out.write_text(page, encoding='utf-8')

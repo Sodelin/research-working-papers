@@ -35,6 +35,8 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+Four source-based guides distinguish the assumptions behind [RNA class inference](guide/RNA-CLASS-INFERENCE.md), [reaction observations](guide/REACTION-OBSERVATIONS.md), [lineage inference](guide/LINEAGE-INFERENCE.md), and [finite sampling and ancestry](guide/FINITE-SAMPLING.md). They link usable conditional results to specified outside questions and retain the missing model bridges, earlier work and review limits.
+
 [Root-blob exact-image questions](guide/ROOT-BLOB-QUESTIONS.md) connects a
 retained-port proof to two version-specific phylogenetic questions, with the
 transition-model and graph-operation gaps stated.
