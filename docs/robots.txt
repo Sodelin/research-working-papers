@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sodelin.github.io/research-working-papers/sitemap.xml

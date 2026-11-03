@@ -43,3 +43,14 @@ for slug in SLUGS:
     out = ROOT / 'docs' / 'papers' / f'{slug}.html'
     out.write_text(page, encoding='utf-8')
     print(f'{slug}: {len(raw)} source bytes, SHA-256 {digest}')
+
+urls = [SITE + '/'] + [f'{SITE}/papers/{slug}.html' for slug in SLUGS]
+entries = ''.join(f'  <url><loc>{escape(url)}</loc></url>\n' for url in urls)
+(ROOT / 'docs' / 'sitemap.xml').write_text(
+    '<?xml version="1.0" encoding="UTF-8"?>\n'
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    + entries + '</urlset>\n', encoding='utf-8'
+)
+(ROOT / 'docs' / 'robots.txt').write_text(
+    f'User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n', encoding='utf-8'
+)
