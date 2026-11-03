@@ -1,0 +1,42 @@
+{
+  "schema": "sodelin.experimental-design-contracts.v1",
+  "scope": "Authored source/receiver register, not new proof or runtime permit.",
+  "contracts": [
+    {
+      "id": "G7-EXACT-ADAPTIVE",
+      "input_contract": "Complete finite original-ID registry, exact-law affine menu and deletion-closed trajectory costs.",
+      "result": "Feasible budget Pareto frontier and policy/lower certificate at hand-theorem scope.",
+      "limit": "Not noisy sample cost, expected stopping optimum or unknown-extra-hybrid census."
+    },
+    {
+      "id": "NATURAL-LABELLED-MARKER",
+      "input_contract": "Declared natural plus forced labelled menu, support cap and source-mode premises.",
+      "result": "Two configurations; r touched sites in stated independent/unknown-mode branch.",
+      "limit": "One programme is not one locus; pooled rows or different costs require new argument."
+    },
+    {
+      "id": "STATIC-FULL-FORCING",
+      "input_contract": "Every supported row forces all registered IDs, chosen in advance.",
+      "result": "Strength-two covering-array optimum with source-specific numerical lower bridge.",
+      "limit": "Static lower bound is not automatically adaptive; classical covering formula retains prior credit."
+    },
+    {
+      "id": "STRUCTURAL-QUARTET-ORACLE",
+      "input_contract": "Complete displayed resolved-quartet support on each queried four-set in admitted source class.",
+      "result": "Retained asymptotic query bounds and exact n=4,5 optima at source scope.",
+      "limit": "Not sampled gene trees, runtime bound or computed general minimax values."
+    },
+    {
+      "id": "CONFIDENCE-ABSTENTION",
+      "input_contract": "Provider supplies justified sets of possible complete masks under actual shared-data protocol.",
+      "result": "Continue only on a singleton mask set; separate wrong-output and completion guarantees.",
+      "limit": "No source-wide calibration or completion probability from error bound alone."
+    },
+    {
+      "id": "FIXED-DESIGN-REAL-SENTENCE",
+      "input_contract": "Finite supplied domain, exact polynomial circuit encoding and fixed design versus all source pairs.",
+      "result": "Conditional theoretical classification from cited manuscript claim.",
+      "limit": "Does not erase adaptive quantifier blocks or implement the claimed complexity construction."
+    }
+  ]
+}

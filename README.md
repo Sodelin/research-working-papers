@@ -35,6 +35,10 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[Experimental design connections](guide/EXPERIMENTAL-DESIGN-CONNECTIONS.md)
+sets out the exact-law G7 design result, static forcing costs and a separate
+quartet-support oracle, with their observation and resource assumptions.
+
 [G6 robust certification](guide/G6-ROBUST-CERTIFICATION-CONNECTIONS.md)
 explains honest finite conclusions, abstention and the observation and
 implementation requirements that remain.

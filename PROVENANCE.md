@@ -332,3 +332,17 @@ replaces internal operational wording, and uses the chosen public identifier
 in the JSON schema name. The six contract records remain unchanged. The
 review body matched its retained source SHA-256 on 3 November 2026. No new
 model, compiler, solver or human review was performed.
+
+
+The [experimental-design guide](guide/EXPERIMENTAL-DESIGN-CONNECTIONS.md)
+adapts research-connections source
+`56bb40a62727ecc82f6e6f88875788b4642081ff:research/experimental-design-connections.md`
+(SHA-256 `3e25761517bfe4bb1fcc9ad2bef601ac0a264383b2bb64fae7ffcb19ce149b0d`)
+and its six receiver contracts adapt the same-commit JSON source
+(SHA-256 `d0cdbef5e070493d9872538cd40ec255739657160f5bcf3ae71b365d45829243`).
+The adaptation adds the pinned AI hand-review link and the classical covering-
+array attribution stated in the cited primary source, replaces internal
+operational wording, and changes only the schema identifier in the JSON.
+The six source-level contracts remain unchanged. The review body matched its
+retained source SHA-256 on 3 November 2026. This is not a new proof, compiler
+run, source-law validation or human specialist review.
