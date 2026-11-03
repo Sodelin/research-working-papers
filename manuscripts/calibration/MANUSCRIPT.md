@@ -32,17 +32,17 @@ entire observed sequence.
 Write `α` for the probability of choosing `Mₑ` under `M₀`, and `β` for the
 probability of choosing `M₀` under `Mₑ`. Define
 
-\[
+$$
 q=(1-e)^n.
-\]
+$$
 
 **Proposition.** Over all such randomized decisions,
 
-\[
+$$
 \min(\alpha+\beta)=q,\qquad
 \min\max(\alpha,\beta)=\frac{q}{1+q},\qquad
 \min\frac{\alpha+\beta}{2}=\frac q2.
-\]
+$$
 
 These are different optimization criteria. The first and third use the
 same attaining rule; the second generally uses a different randomized rule.
@@ -53,15 +53,15 @@ Let `a` be the probability that the decision chooses `Mₑ` after observing
 the all-zero sequence. This sequence is certain under `M₀` and has
 probability `q` under `Mₑ`. Consequently
 
-\[
+$$
 \alpha=a,\qquad \beta\ge q(1-a).
-\]
+$$
 
 Since `0 ≤ q ≤ 1`, every decision satisfies
 
-\[
+$$
 \alpha+\beta\ge q+(1-q)a\ge q.
-\]
+$$
 
 Equality is attained by choosing `Mₑ` whenever a one appears and choosing
 `M₀` on the all-zero sequence. Dividing the sharp sum by two gives the

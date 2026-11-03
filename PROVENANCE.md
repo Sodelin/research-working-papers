@@ -1,0 +1,15 @@
+# Source and release notes
+
+This public reading selection was assembled on 3 November 2026 from the existing Terra manuscript owner's local Git commit `052d3eeb8015fb1285840312e7cce62b1cd3b152`. The owner retains the research and manuscript source. The initial import commit `3218297` in this repository preserves the selected files byte-for-byte; later commits record presentation changes and the release index. The source Git commit identifies a local workspace, not a public upstream URL.
+
+| Reading edition | Selected source path at `052d3ee` | SHA-256 at import |
+| --- | --- | --- |
+| MSci portable manuscript | `research/corpus-portfolio/college-packet-v2/manuscripts/msci/MANUSCRIPT.md` | `10f67326d0bae07147f9a84a4bc508dd6332cc6a18661d55f989b902172cd9a0` |
+| Rare-event calibration | `research/manuscripts/rare-event-calibration/MANUSCRIPT.md` | `d5b3ee3e2b503712a090df83b2bf0f6717eec7afdb386e341f5a2b30189100fc` |
+| Product coins | `research/manuscripts/product-coin-guard/MANUSCRIPT.md` | `674e7326ff452ba9f68114bbc4d7494d7c64d28db89068a8c2b6cdd79c8f7b21` |
+| Three-lineage forests | `research/manuscripts/cap-three-kernels/MANUSCRIPT.md` | `3051a77009a7cc5a396338d94c3a5f49a33e6f473b052690ac2c1a6f6925f237` |
+| Fixed-cell law | `research/manuscripts/g6-fixed-cell-law/MANUSCRIPT.md` | `82cf53e8dda6f62d6f390d457d5868bea25d4dd4cdc00705d45c6dcb8ecb5bab` |
+
+The MSci portable edition includes 42 evidence notes and one figure. Its source manifest names the earlier manuscript-assembly epoch `f33ec4716ea7e4f8551d640e86494395a42fe086`; the copy was taken from `052d3ee`. Its portable manuscript differs from the owner's 75,969-byte source manuscript (SHA-256 `d51e9852b6aee26f6b9dd7c8e23e8a6d00bd2eafa563c6cd2328cbb19cc3cec8`) in packaging and link adaptations. The original proof and review appendices retain their source attribution and stated status. The full historical dependency closure is not included.
+
+At this release, display-math delimiters in the four short manuscripts were adapted for GitHub rendering; the fixed-cell paper's unavailable local-only links were replaced by its available public source-package link and an explicit description of the omitted evidence row. The earlier versions remain in import commit `3218297`. No new proof, formal check, empirical validation or independent review is asserted by this release. Existing source papers and primary literature are cited where used; no new license is asserted for third-party materials.

@@ -1,5 +1,9 @@
 # Portable MSci working manuscript
 
+This reading package was publicly released on 3 November 2026. The following
+source and status statements describe the selected earlier working edition;
+its original manifest and import remain available in Git history.
+
 Start with [MANUSCRIPT.md](MANUSCRIPT.md). This local working edition includes
 the manuscript and 42 selected evidence notes. The package also includes 1 source-pinned figure(s).
 Sodelin organizes
@@ -39,4 +43,4 @@ and interval checks, independent expert review, biological validation, rights an
 license remain open. The [timed-genealogy note](evidence/TIMED-GENEALOGY-ORIENTATION.md)
 explains one current source-to-physical-process gap; its referenced Lean files
 are not included in this reading edition. A separate earlier working edition is
-public on GitHub; this local successor is not itself a new public release.
+public on GitHub; this reading package is now publicly available here.

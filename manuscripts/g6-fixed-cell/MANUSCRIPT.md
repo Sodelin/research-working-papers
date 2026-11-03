@@ -22,11 +22,11 @@ construction needed for that application is a separate part of the result.
 Let `O` be a finite set of possible observed outcomes and let
 `x=(x₁,…,xₘ)` and `y=(y₁,…,yₘ)` lie in `[0,1]ᵐ`. For each outcome `o`, let
 
-\[
+$$
  Q_o(z)=\sum_{\alpha} a_{o,\alpha}z^\alpha,
  \qquad z^\alpha=\prod_{i=1}^m z_i^{\alpha_i},
  \qquad |\alpha|=\sum_i\alpha_i,
-\]
+$$
 
 where each sum has finitely many nonzero coefficients and each exponent is
 a nonnegative integer. Assume that `(Q_o(x))` and `(Q_o(y))` are probability
@@ -35,17 +35,17 @@ every other point in the cube.
 
 Let `ε ≥ 0` satisfy `|xᵢ−yᵢ| ≤ ε` for every coordinate, and define
 
-\[
+$$
  K=\frac12\sum_{o\in O}\sum_{\alpha}
        |a_{o,\alpha}|\,|\alpha|.
-\]
+$$
 
 Then, using the half-L1 convention for total variation,
 
-\[
+$$
  \operatorname{TV}(Q(x),Q(y))
  =\frac12\sum_{o\in O}|Q_o(x)-Q_o(y)|\le K\varepsilon. \tag{1}
-\]
+$$
 
 For a finite alphabet, the left side is also the largest absolute difference
 the two laws assign to an event. The bound may exceed one; in that case one
@@ -59,11 +59,11 @@ exactly `αᵢ` times. Replace the factors at `x` by those at `y` one at a
 time. Every remaining factor has absolute value at most one, so the
 telescoping sum gives
 
-\[
+$$
  |x^\alpha-y^\alpha|
  \le\sum_i\alpha_i|x_i-y_i|
  \le |\alpha|\varepsilon.
-\]
+$$
 
 Multiply by each coefficient's absolute value, sum over monomials and
 outcomes, and divide by two. This proves (1). The argument is a familiar
@@ -75,9 +75,9 @@ empty coordinate set, both evaluations agree and the bound is zero.
 Suppose a binary observation has `Pₓ(1)=x²` and `Pₓ(0)=1−x²`, with
 `x∈[0,1]`. The degree-weighted coefficient sum gives `K=2`, and
 
-\[
+$$
  \operatorname{TV}(P_x,P_y)=|x^2-y^2|\le 2|x-y|.
-\]
+$$
 
 This example illustrates the algebra. It is not an example of the original
 ancestral source or an analysis of biological observations.
@@ -122,10 +122,10 @@ The later [source-package report](https://github.com/Sodelin/Research-Commons/bl
 is associated with separate owner-reported checks; its historical status is
 not inferred merely from the source header.
 
-The [local nine-file source selection](../../../lean/g6-fixed-cell/README.md)
-matches selected guide sources and source-pin records but omits much of the
-233/236-module historical closure. The [evidence row](../../corpus-portfolio/G6-EVIDENCE-JOIN.md)
-describes the retained projected terminal receipts and uninspected raw-audit
-boundary. This manuscript has not received a new Lean check or independent
+A nine-file source selection in the original local portfolio matches selected
+guide sources and source-pin records but omits much of the 233/236-module
+historical closure. Its original evidence row describes retained projected
+terminal receipts and an uninspected raw-audit boundary. The [public source-package report](https://github.com/Sodelin/Research-Commons/blob/de3011fa352e04f9be64cf9f4da8a5528cad68db/research/2026-10-10-dot-g6-completed-cell-tv-0258z/README.md)
+provides the earlier public account. This manuscript has not received a new Lean check or independent
 human review. Prior literature, contributions, rights and any eventual
 external release require their own review.

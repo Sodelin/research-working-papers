@@ -25,10 +25,10 @@ Let `B₁`, `B₂` and `B₃` be independent Bernoulli variables with
 probabilities `p₁`, `p₂` and `p₃`, and put `N = B₁ + B₂ + B₃`. Consider
 the expected count and expected number of pairs:
 
-\[
+$$
   f_1=\mathbb E[N]=p_1+p_2+p_3,\qquad
   f_2=\mathbb E\!\binom{N}{2}=p_1p_2+p_1p_3+p_2p_3.
-\]
+$$
 
 Both are linear in the **full joint law** of the three bits. The second is
 not linear in the individual product parameters. Suppose a product law has
@@ -41,10 +41,10 @@ circle contained in the interior of the cube.
 
 **Proof.** From the two observations,
 
-\[
+$$
   \sum_i p_i^2=f_1^2-2f_2=\frac{77}{100},\qquad
   \sum_i\left(p_i-\frac12\right)^2=\frac1{50}.
-\]
+$$
 
 Consequently `|pᵢ − 1/2| ≤ 1/√50 < 1/2` for each `i`; none of the three
 coins is deterministic. The equations describe the intersection of a sphere
@@ -67,10 +67,10 @@ independent product law.
 For any integer `n ≥ 3`, take independent Bernoulli variables with
 probabilities `p₁,…,pₙ`, and set
 
-\[
+$$
   f_1=\frac n2,\qquad
   f_2=\frac{n(n-1)}8-\frac1{100}.
-\]
+$$
 
 The same identity gives `Σᵢ(pᵢ − 1/2)² = 1/50`, so every `pᵢ` is strictly
 between zero and one. The choice `p₁=3/5`, `p₂=2/5` and all remaining

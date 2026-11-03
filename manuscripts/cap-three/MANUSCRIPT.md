@@ -32,9 +32,9 @@ that all three roots remain separate, `c` for the probability of any *one
 specified* cherry-and-singleton forest, and `t` for the probability of any
 *one specified* complete rooted triple. Thus
 
-\[
+$$
  n+3c+3t=1. \tag{1}
-\]
+$$
 
 Assume that deleting a label and suppressing any resulting unary vertex gives
 the same two-root law as applying the kernel directly to those two roots.
@@ -42,11 +42,11 @@ Let `d` be the probability that the two retained roots are separate. They are
 separate in the all-singleton forest and in the two cherry-and-singleton
 forests whose cherry contains the deleted label. Hence
 
-\[
+$$
  d=n+2c,\qquad
  c=\frac{d-n}{2},\qquad
  t=\frac{n-3d+2}{6}. \tag{2}
-\]
+$$
 
 These equations determine all seven output probabilities from `(d,n)`.
 In particular, nonnegativity requires `0 ≤ n ≤ d ≤ 1` and `n ≥ 3d−2`.
@@ -66,16 +66,16 @@ A chosen pair remains separate after both stages exactly when it remains
 separate in each stage. All three remain separate exactly when no merger
 occurs in either stage. Therefore the serial law has
 
-\[
+$$
  d_{12}=d_1d_2,\qquad n_{12}=n_1n_2. \tag{3}
-\]
+$$
 
 For example, a specified cherry followed by a singleton has probability
 
-\[
+$$
  c_{12}=c_1d_2+n_1c_2
        =\frac{d_1d_2-n_1n_2}{2}. \tag{4}
-\]
+$$
 
 Equation (2) then determines the complete-triple probabilities. Both
 coordinates in (3) are unchanged by exchanging the stage order, so the two
@@ -90,17 +90,17 @@ and duration `s ≥ 0`, put `x=e^(−λs)`. Pair separation is `d=x`; with three
 live roots the total initial merger rate is `3λ`, so `n=x³`. Equations (2)
 give
 
-\[
+$$
  c=\frac{x-x^3}{2},\qquad
  t=\frac{(1-x)^2(2+x)}{6}. \tag{5}
-\]
+$$
 
 The coordinate `e=(n-d³)/6` measures the difference from the ordinary-edge
 triple coordinate at the same `d`. Substituting (3) yields
 
-\[
+$$
  e_{12}=d_2^3e_1+d_1^3e_2+6e_1e_2. \tag{6}
-\]
+$$
 
 ## 3. The coordinates do not determine four-root laws
 
