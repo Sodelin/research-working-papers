@@ -346,3 +346,17 @@ operational wording, and changes only the schema identifier in the JSON.
 The six source-level contracts remain unchanged. The review body matched its
 retained source SHA-256 on 3 November 2026. This is not a new proof, compiler
 run, source-law validation or human specialist review.
+
+
+The [root-blob question guide](guide/ROOT-BLOB-QUESTIONS.md) adapts
+research-connections source
+`8b2eee7a8358afb6bdd29c216a57b5b1f796807f:research/root-blob-open-problem-connection.md`
+(SHA-256 `ba57d6ad2de0b6eae85bd215298cffe86fbc5165212b3c8013cf7d71b072fb4b`).
+The same-commit two-question JSON source has SHA-256
+`ae6dc67018d7f32f6e1a9fdb69aeada295c579a724314b6adb9f90f6433df065`; its
+question records remain unchanged, with only the chosen public schema identifier
+substituted. The adaptation adds the coordinating dot/OpenAI review link and
+replaces operational wording. The proof, AI review and definition-reconciliation
+bodies returned HTTP 200 and matched their retained hashes on 3 November 2026.
+The cited external questions were checked in their specified versions; no new
+proof, compiler run, human review or global current-status audit is asserted.

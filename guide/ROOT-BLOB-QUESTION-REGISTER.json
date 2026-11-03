@@ -1,0 +1,22 @@
+{
+  "schema": "sodelin.root-blob-questions.v1",
+  "scope": "Version-specific question/source comparison, not worldwide status or proof certification.",
+  "questions": [
+    {
+      "id": "SULLIVANT-ROOT-TWO-BLOB-EXACT-IMAGE",
+      "primary": "https://arxiv.org/html/2507.23056v2#S5",
+      "question": "Exact distribution-image equality rather than inclusion plus limiting converse under suitable transition restrictions.",
+      "candidate": "Direct retained-port maximal rooted binary two-boundary-edge theorem in three named model domains.",
+      "remaining": "Align graph/two-sink versus attachment-port scope, root/transition domain, operation and full joint proof; independent specialist/priority review.",
+      "status": "Candidate scoped response; no generally accepted resolution claimed."
+    },
+    {
+      "id": "BRITS-ROOT-TRAPPING-SUBBLOB-EXACT-IMAGE",
+      "primary": "https://arxiv.org/html/2607.12919v3#S5.SS1",
+      "question": "Strengthen root-trapping inclusion and common topological closure to exact equality.",
+      "candidate": "Retained-port theorem and conditional corrected rooted-region adapter.",
+      "remaining": "Literal two-boundary-vertex versus two-edge-occurrence contract, universal rooting/larger-blob/suppression map and parameter transport.",
+      "status": "Broader conversion unresolved in inspected records; no counterexample to well-defined published equality asserted."
+    }
+  ]
+}

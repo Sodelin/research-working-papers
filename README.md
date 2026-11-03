@@ -35,6 +35,10 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[Root-blob exact-image questions](guide/ROOT-BLOB-QUESTIONS.md) connects a
+retained-port proof to two version-specific phylogenetic questions, with the
+transition-model and graph-operation gaps stated.
+
 [Experimental design connections](guide/EXPERIMENTAL-DESIGN-CONNECTIONS.md)
 sets out the exact-law G7 design result, static forcing costs and a separate
 quartet-support oracle, with their observation and resource assumptions.
