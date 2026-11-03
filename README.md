@@ -62,6 +62,10 @@ The [statistical testing and resources map](guide/STATISTICAL-RESOURCES.md)
 and [grouped phase-window map](guide/GROUPED-PHASE.md) connect retained
 arguments to established literature while identifying the remaining bridges.
 
+The [quantum oracle resource guide](guide/QUANTUM-ORACLE-RESOURCES.md)
+explains what changes when oracle implementation and phase-sensitive transfer
+are charged, and identifies the assumptions and review still needed.
+
 [Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
 selected Gibbs-certification and coarse-graining results to the external
 questions and the mathematical or physical bridges still needed.

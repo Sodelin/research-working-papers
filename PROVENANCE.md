@@ -144,3 +144,12 @@ and `fbd549a8a8dc83ee93c91b0b90bfcbb8d88754ad:research/grouped-phase-connection.
 (SHA-256 `14cd45475bed1ffaaace00544d575d9fea3f5c726be6ea65041abf4296f79384`).
 The only adaptation adds a working relative link to the selected-digit map.
 Original mathematical scope, attribution and review boundaries are retained.
+
+The [quantum oracle resource guide](guide/QUANTUM-ORACLE-RESOURCES.md)
+derives from research-connections source
+`6192fccc6ca21980d55edec65c9e3a4ab1a70549:research/quantum-oracle-connection.md`
+(SHA-256 `923d2acd25b6e8f6d38292dccff3ac2d2569d80456d01cd3c6dd1d314a9bc0c7`).
+The public adaptation uses Sodelin's chosen public identifier in place of the
+source first name. The scientific scope, external attributions, conditions and
+review boundaries are unchanged. Anonymous source-body checks on 3 November
+2026 matched the three hashes recorded in the guide.
