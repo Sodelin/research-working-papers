@@ -1,0 +1,116 @@
+{
+  "schema": "sodelin.g3-method-contracts.v1",
+  "scope": "Source-level method and outcome register, not an executable dispatcher, complete recognizer or new proof.",
+  "general_problem": "One finite strictly positive admitted original source and one shared assignment realize all supplied legal exact rows, with no predeclared hidden-size cap.",
+  "methods": [
+    {
+      "id": "FIXED-GRAPH-RCF",
+      "guide": "research/g3-forward-and-acquisition.md",
+      "input_contract": "One fixed admitted graph/ID map, actual joint polynomial compiler, strict original parameter relations and effectively algebraic finite exact input.",
+      "positive_output": "A realizing tuple for this graph under the effective compiler contract.",
+      "negative_scope": "NO for this fixed graph/ID map only.",
+      "inconclusive": "Unsupported encoding or practical resource exhaustion is UNKNOWN; does not exclude other graphs.",
+      "implementation": "Mathematical finite RCF method; no current all-shape deployed solver established by this register."
+    },
+    {
+      "id": "ALL-GRAPH-YES-ENUMERATION",
+      "guide": "research/g3-forward-and-acquisition.md",
+      "input_contract": "Effective complete finite-graph/ID/constraint enumeration preserving one common source across every row.",
+      "positive_output": "Eventually finds a source when the enumeration and each bounded solver have the inherited guarantees.",
+      "negative_scope": "None from nontermination or an exhausted finite prefix.",
+      "inconclusive": "A bounded run without a witness is UNKNOWN.",
+      "implementation": "YES semidecision specification, not a total recognition claim."
+    },
+    {
+      "id": "LOW-CONDITIONAL-RANK",
+      "guide": "research/g3-joint-rank-and-source-size.md",
+      "input_contract": "Fresh unexposed COMMON slot and the complete conditional response matrix; global subclass additionally requires source-complete cores and whole-fibre rank/boundary conditions.",
+      "positive_output": "Scoped physical slot compression; bounded-source decision only with every stated global premise.",
+      "negative_scope": "Only what a complete bounded-source test proves for that admitted subclass.",
+      "inconclusive": "Rank above the bound or unsupported protected/tied/exposed cases is not NO.",
+      "implementation": "Historically reviewed hand contract; no new source/checker execution here."
+    },
+    {
+      "id": "CALIBRATED-EXPOSED-FIVE-ROW",
+      "guide": "research/g3-joint-rank-and-source-size.md",
+      "input_contract": "Exact admitted natural COMMON five-row menu, two actual calibration rows and the precise exposing slice/source adapter.",
+      "positive_output": "Scoped zero/one/two-hybrid witness classification using recovered atom weights and Bernoulli-product discriminant.",
+      "negative_scope": "All admitted COMMON cores only within the inherited calibrated menu and exclusion premises.",
+      "inconclusive": "Outside the exposing branch or supported exact implementation input class is UNKNOWN.",
+      "implementation": "Selected rational Python recognizer source and historical captured-byte checks; no current deployment or general algebraic implementation claim."
+    },
+    {
+      "id": "QUADRATIC-Q-ACQUISITION",
+      "guide": "research/g3-forward-and-acquisition.md",
+      "input_contract": "Known feasible retained-core polynomial chart, complete joint output, eligible fresh COMMON slots and a valid acquired algebraic Q witness with exact ranks/curvature.",
+      "positive_output": "Reviewed hand construction of one finite source for the entire input at the scoped branch.",
+      "negative_scope": "None from false Q.",
+      "inconclusive": "A failed Q search or missing gate is UNKNOWN; no universal YES coverage.",
+      "implementation": "Mathematical terminating construction under a supplied/acquired gate, not an executed source synthesis in this register."
+    },
+    {
+      "id": "PRIVATE-TWO-ROOT-PAIRED-IMAGE",
+      "guide": "research/g3-private-kernels.md",
+      "input_contract": "Actual fresh unexposed strict private-word interface, same tuple for COMMON and INDEPENDENT, full capped forest receiver through two current roots.",
+      "positive_output": "Exact interface image 0<C<=Q<1 with finite same-tuple construction at its stated scope.",
+      "negative_scope": "Outside the private-word image only; not arbitrary original network cores or observation fibres.",
+      "inconclusive": "Missing observation-to-hidden-coordinate/source adapter is not a recognition verdict.",
+      "implementation": "Attributed hand theorem with limited historical controls, not a current native recognizer."
+    },
+    {
+      "id": "PASSIVE-FOUR-COPY-FRONTIER",
+      "guide": "research/g3-passive-hybrid-frontier.md",
+      "input_contract": "The exact coarsened exchangeable 15-outcome row and specified admitted INDEPENDENT source class, with original graph-to-word adapter and corrected cell identity.",
+      "positive_output": "Scoped source membership and minimum count; for negative t the finite-count condition is strictly F_n<t.",
+      "negative_scope": "Outside that complete passive-row image only.",
+      "inconclusive": "Extra rows, timing, controls, arbitrary ties or other modes require another contract.",
+      "implementation": "Mathematical procedure with narrower scalar Lean and source-only law-adapter evidence; no deployed complete solver here."
+    },
+    {
+      "id": "COMMON-CLOSURE-NORMAL-FORM",
+      "guide": "research/g3-common-boundary.md",
+      "input_contract": "The finite positive log signature and stated natural COMMON serial-chain closure grammar.",
+      "positive_output": "Closure representation and selected sufficient exact-attainment branches; not every representation is a finite physical word.",
+      "negative_scope": "Only the separately reviewed matched nonattainment families under their premises.",
+      "inconclusive": "Ordinary moment interior, limiting residual weights or approximation alone do not establish membership.",
+      "implementation": "Hand/review and selected finite component evidence, no general source enumeration bound."
+    },
+    {
+      "id": "SEMIALGEBRAIC-INDUCTIVE-NO",
+      "guide": "research/g3-semialgebraic-certificates.md",
+      "input_contract": "A valid finite invariant family includes all admitted initializations, is closed under every allowed append and excludes every target-fibre point in every required template.",
+      "positive_output": "No source witness implied.",
+      "negative_scope": "All-size NO within the exact source/template coverage proved by the certificate.",
+      "inconclusive": "No found invariant, pointwise separation only or failed fixed template is UNKNOWN; universal certificate completeness unproved.",
+      "implementation": "Specific historical hand/instance checks; not a verified general native invariant engine."
+    },
+    {
+      "id": "ONE-RETAINED-NONATTAINMENT",
+      "guide": "research/g3-one-retained-nonattainment.md",
+      "input_contract": "Specified cap-seven COMMON critical retained factor, exact rank/normal premises and a proven applicable small-intensity cutoff.",
+      "positive_output": "Closure approximants are not exact finite witnesses.",
+      "negative_scope": "The reviewed component nonattainment band; original-input rejection additionally needs all-core forcing.",
+      "inconclusive": "The cutoff schema was not executed and no concrete negative member supplied in that packet; unsupported presentations are not NO.",
+      "implementation": "Reviewed mathematical cutoff procedure and historical interval evidence, not a computed cutoff or executed recognizer."
+    },
+    {
+      "id": "ALGEBRAIC-CRITICAL-PRESENTATION-CENSUS",
+      "guide": "research/g3-critical-arithmetic-census.md",
+      "input_contract": "Full effectively algebraic positive six-coordinate input and the exact algebraic-residue, critical-retained-presentation branch.",
+      "positive_output": "Finite list of presentations for that branch, not a source-membership verdict.",
+      "negative_scope": "Empty presentation list excludes only that presentation class, not all actual sources.",
+      "inconclusive": "Transcendental residues, positive-dimensional fibres, other modes and alternate realizations remain outside the census.",
+      "implementation": "Mathematical finite algorithm with potentially enormous height/count bounds; not run in this assessment."
+    },
+    {
+      "id": "ONE-WITNESS-BOUND-TOTAL-RECOGNIZER",
+      "guide": "research/g3-suppliers.md",
+      "input_contract": "A total computable H(p), defined even on NO inputs, with proof that every YES has one source within H(p), plus the inherited complete fixed-budget compiler.",
+      "positive_output": "Conditional total recognizer from one bounded query at H(p).",
+      "negative_scope": "A bounded negative becomes general NO only because the supplied coverage theorem rules out larger hidden witnesses.",
+      "inconclusive": "The required total bound/coverage theorem is unsupplied for general G3 in the inspected records.",
+      "implementation": "Explicit missing acceptance gate; not an implemented or completed theorem supplying H."
+    }
+  ],
+  "source_guide_path_note": "The guide fields identify selected source-guide labels; public proof navigation is in programme/12-G3-COMPONENT-AND-FORMAL-MAP.md and the source-component library."
+}

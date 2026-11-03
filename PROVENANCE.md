@@ -298,3 +298,24 @@ Software Heritage reported a full successful snapshot visit. Its inner
 directory matches the exact Git tree, and the archived phylogenetic guide
 matched its public source SHA-256 `ce35d53997318d4ce29eec6d55f9d006651f74d18f4f6954995edf8a32159f79`.
 This is a persistent source identifier, not a DOI, journal submission or review.
+
+
+The [G3 recognition](guide/G3-RECOGNITION-CONNECTIONS.md) and
+[G4 finite-observation](guide/G4-FINITE-OBSERVATION-CONNECTIONS.md) guides adapt
+research-connections sources:
+
+- `8b86af83c6879fba57a60bda6509eeab66f44535:research/g3-recognition-connections.md`
+  (SHA-256 `a2732692ea5b7c02fe72b69fc23ed11d74b3a1123f3fd097bc75e19acff15ff5`);
+- `d3438fe07cd22d8707df5fa4187a874b16870b31:research/g4-finite-observation-connections.md`
+  (SHA-256 `90623b341efb3f7cc98f9b9f9d0d193fb1c932ad7290897bd5d10e111392711f`).
+
+Their method/observation JSON registers adapt the corresponding same-commit
+source JSON files with original SHA-256
+`310e88971eea8662fbf2b7a7bb6f3e4dbff2b60d4c196c3e7cdf7b963e11d181`
+and `5e85e7142b6cd5af109f2472f79e6b019b8f154fb4b16510af8c3ee5ddf4a04b`.
+Adaptations use the chosen public identifier in schema names, explain local
+source-guide labels, replace operational notes with public source navigation,
+and explicitly preserve the coefficient correction and the acceptance's
+attributed AI-review involvement. No method outcome was promoted from UNKNOWN.
+The original termination and natural-BOTH acceptance bodies returned HTTP 200;
+the latter matched the source selection. No new proof or compiler run occurred.

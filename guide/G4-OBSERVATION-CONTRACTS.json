@@ -1,0 +1,54 @@
+{
+  "schema": "sodelin.g4-observation-contracts.v1",
+  "scope": "Source-level acceptance register, not execution permit or new proof.",
+  "contracts": [
+    {
+      "id": "COMMON-FINITE-FORCING",
+      "input_contract": "Natural COMMON full topology laws, stated whole-network class; exact algebraic data/compiler for acquisition.",
+      "established_or_required_output": "Target-dependent finite whole-COMMON certificate and scoped mathematical stopping construction.",
+      "limit": "No automatic INDEPENDENT preservation, finite-data guarantee or deployed acquisition."
+    },
+    {
+      "id": "NATURAL-BOTH-FINITE-FORCING",
+      "input_contract": "One fixed strict original target, n≥4, one tuple per arbitrary finite admitted rival.",
+      "established_or_required_output": "Attributed hand theorem gives existential finite natural BOTH forcing.",
+      "limit": "Not finite I-only extraction, parameter recovery or executable observation-only stopping."
+    },
+    {
+      "id": "PAIRED-ORDINARY-TARGET",
+      "input_contract": "Named legal paired full-law requests and strict cut-child source assumptions; n≥4 for all-future ordinary-target theorem.",
+      "established_or_required_output": "3n full-law menu; paired equalities certify no hybrids; ordinary-target all-future response result at its scope.",
+      "limit": "Not 3n scalar data, general reticulate-target formal closure or empirical error analysis."
+    },
+    {
+      "id": "ENTIRE-I-TO-C",
+      "input_contract": "Entire legal natural INDEPENDENT law, admitted finite original sources.",
+      "established_or_required_output": "Attributed hand semantic transfer to entire COMMON law.",
+      "limit": "Does not supply any finite I panel."
+    },
+    {
+      "id": "FINITE-I-BRIDGE-OPEN",
+      "input_contract": "One fixed target; every finite unknown-size rival and one common source/tuple across rows.",
+      "established_or_required_output": "Needed: finite I panel forcing the finite COMMON certificate; alternative needs exact full-panel rivals at every panel.",
+      "limit": "Unsolved in inspected records; approximate, diagonal-only and abstract-grammar examples do not decide it."
+    },
+    {
+      "id": "ACTUAL-INTERIOR-RIVALS",
+      "input_contract": "Private source interface at a cap where target lies in actual group interior.",
+      "established_or_required_output": "Genuine longer strict words match capped kernels and differ later via inherited count/observation adapter.",
+      "limit": "Cap-five ordinary-center result does not establish one target interior at every cap."
+    },
+    {
+      "id": "FOUR-ROOT-COMPLETENESS",
+      "input_contract": "Exchangeable projective chronological forest kernels on four opaque input roots.",
+      "established_or_required_output": "Six orbit masses; lower laws plus b4,c4,e4 specify complete four-root row.",
+      "limit": "Hidden coordinate difference needs permitted observation adapter; two-bigon sign examples are not full returns."
+    },
+    {
+      "id": "FIXED-ARCHITECTURE-JET",
+      "input_contract": "One raw polynomial source chart, full residual and ties, strict admission and distinguishing margins.",
+      "established_or_required_output": "Sufficient residual-vs-margin order yields nearby strict exact zeros under classical error bound.",
+      "limit": "No arbitrary-architecture solution, uniform order, executable jet construction or finite-I closure."
+    }
+  ]
+}

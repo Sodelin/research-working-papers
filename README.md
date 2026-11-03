@@ -35,6 +35,11 @@ The public reader also provides individual HTML abstracts for the five selected
 
 ## Connections to research questions
 
+[G3 recognition methods](guide/G3-RECOGNITION-CONNECTIONS.md) and
+[G4 finite observations](guide/G4-FINITE-OBSERVATION-CONNECTIONS.md) set out
+usable scoped results and the total-decision and finite-observation bridges
+that remain open. Their contract tables preserve inconclusive outcomes.
+
 [Phylogenetic observation connections](guide/PHYLOGENETIC-OBSERVATION-CONNECTIONS.md)
 reconciles the selected core, sampling, fixed-family MSci and NANUQ results
 with the scope of their underlying sources and reported formal checks.
