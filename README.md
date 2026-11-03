@@ -41,3 +41,7 @@ and missing source references; its entries are not counts of new discoveries.
 [Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
 selected Gibbs-certification and coarse-graining results to the external
 questions and the mathematical or physical bridges still needed.
+
+The [binary morphism stability connection](guide/AVOIDANCE-CONNECTION.md)
+sets out a proposed answer to a specified length-set conjecture, its prior
+inputs, finite-check role and remaining specialist-review boundary.

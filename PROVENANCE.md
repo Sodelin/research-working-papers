@@ -68,3 +68,12 @@ the research-connections owner's local commit
 The adaptation substitutes the project's chosen public name; the result and
 open-bridge descriptions are unchanged. It is a reading guide, not a new
 correctness, physical-admission or novelty review.
+
+The [binary morphism stability connection](guide/AVOIDANCE-CONNECTION.md)
+was adapted from research-connections commit
+`8a57cbeac0c15c8af7305fd06721f9a797686f78`,
+`research/avoidance-connection.md` (SHA-256
+`38d4e610d4239754c587204a9711b3941538464984b4e67c742d41a6658df17a`).
+The public adaptation removes outreach bookkeeping and leaves the stated
+result, attribution and review boundaries intact. The hand proof and its
+AI review are linked at immutable public source versions.
