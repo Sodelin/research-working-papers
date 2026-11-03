@@ -3,11 +3,39 @@
   <id>https://sodelin.github.io/research-working-papers/feed.xml</id>
   <title>Sodelin research working papers</title>
   <subtitle>Working manuscripts, source-linked guides and updates for discussion.</subtitle>
-  <updated>2026-11-03T22:17:20Z</updated>
+  <updated>2026-11-03T22:31:27Z</updated>
   <author><name>Sodelin research collection</name></author>
   <link rel="alternate" href="https://sodelin.github.io/research-working-papers/"/>
   <link rel="self" href="https://sodelin.github.io/research-working-papers/feed.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.26.0/finite-observations</id>
+    <title>Finite observation transfers and representation limits</title>
+    <updated>2026-11-03T22:31:27Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/v0.26.0/guide/FINITE-OBSERVATION-TRANSFERS.md"/>
+    <summary>Scoped certificates and the remaining conditions for applying moment, graphon and finite-state methods.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.26.0/demographic-laws</id>
+    <title>Demographic exact-law targets</title>
+    <updated>2026-11-03T22:31:27Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/v0.26.0/guide/DEMOGRAPHIC-LAWS.md"/>
+    <summary>Canonical histories, response mixtures and occupancy support under distinct exact-observation contracts.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.26.0/cellular</id>
+    <title>Cellular measurement contracts</title>
+    <updated>2026-11-03T22:31:27Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/v0.26.0/guide/CELLULAR-MEASUREMENTS.md"/>
+    <summary>State reduction, joint assays and variant-validation designs, with scientific admission and review still needed.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.25.0/calibration-pdf</id>
+    <title>Rare-event calibration: portable source PDF</title>
+    <updated>2026-11-03T22:31:27Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/releases/download/v0.25.0/calibration-working-source.pdf"/>
+    <summary>A three-page source reading copy retaining literal Markdown and TeX, with explicit character substitutions.</summary>
+  </entry>
   <entry>
     <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/thue-morse</id>
     <title>Thue–Morse first occurrences and matching heights</title>

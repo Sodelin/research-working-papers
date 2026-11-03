@@ -1,0 +1,42 @@
+{
+  "schema": "sodelin.finite-observation-transfers.v1",
+  "scope": "Source/representation acceptance checks, not new proofs or execution permission.",
+  "receivers": [
+    {
+      "id": "FOUR-NORMAL-EXCLUSION",
+      "input_contract": "Strict COMMON private signature at twelve fixed exponents, exact normals and sufficiently small loss.",
+      "result": "Historical count-uniform hand theorem; proposed numerical cutoff separately unreviewed.",
+      "limit": "No all-core input reduction or accepted numerical cutoff from finite controls alone."
+    },
+    {
+      "id": "ANCHORED-HANKEL",
+      "input_contract": "Legal shared-anchor exchangeable copy-block moments.",
+      "result": "Ordinary-target directing law can have unbounded Hankel rank.",
+      "limit": "Blocks are not new independent loci; finite target does not imply finite-rank encoding."
+    },
+    {
+      "id": "LATENT-MOTIF-NONDESCENT",
+      "input_contract": "Whole fixed-cap private forest kernel and latent graphon statistic.",
+      "result": "Cap-dependent strict-source collisions rule out uniform motif decoder.",
+      "limit": "Not fixed-target every-cap negative alternative or graphon density as measured data."
+    },
+    {
+      "id": "CHRONOLOGICAL-SOURCE",
+      "input_contract": "One ordered physical word, same parameters and permitted completion.",
+      "result": "Static route kernel can forget forest-relevant chronology.",
+      "limit": "Static graphon equality does not establish full source or legal observation equality."
+    },
+    {
+      "id": "I-ANCHOR-AND-SPECTRAL",
+      "input_contract": "Actual mechanism, source primitive and full forest observer implication.",
+      "result": "I-only anchor correction and weak-shape countercontrols have named scopes.",
+      "limit": "Do not invalidate a COMMON premise or assume the missing cycle-polynomial observer."
+    },
+    {
+      "id": "ARITHMETIC-PROMISE",
+      "input_contract": "Unexhibited rank-five pure-residue tuple and critical/closure premises.",
+      "result": "Effective promised reduction and source-specific factor/envelope bounds.",
+      "limit": "No exhibited global negative, promise recognition, undecidability or complete G3 decision."
+    }
+  ]
+}

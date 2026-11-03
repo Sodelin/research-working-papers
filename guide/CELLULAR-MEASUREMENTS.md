@@ -1,0 +1,54 @@
+# Cellular measurements: state reduction, mechanism and transport
+
+The retained work provides a way to state exactly what a cellular experiment or model output identifies. Its useful next applications are source-faithful reductions, tests of competing mechanisms and explicit validation contracts. Four selected guides connect those tasks to actual papers and software. This Codex/OpenAI assessment preserves their distinction between established prior results, retained illustrative deductions and proposed scientific bridges. It makes no new biological conclusion and runs no experiment, model, simulator or compiler.
+
+## A simulation summary must preserve the transition law
+
+The tau–MAP6 guide follows a pinned MATLAB release, rather than treating a broad observation theorem as an already implemented simulator. The [published study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11879653/) combines experiments with a simplified computational model of microtubule domains. Its limitations explicitly distinguish fibroblasts from neurons; its methods identify MATLAB code and the public deposit. Those primary sections were inspected here. They do not establish a new replicate of its figures or direct identification of all physical rates.
+
+Selected simulator lines show sequential empty-site binding branches: tau is tried first and MAP6 only if that trial fails. Under the guide's independent-uniform idealization, thresholds `a,b` give probabilities `a,(1-a)b,(1-a)(1-b)`. Replacing them by simultaneous categorical weights changes the model. The mode test reads the last three **current** sites; length then uses the current mode, not the newly computed one. These details matter to any source-faithful port or reduction.
+
+The guide's retained four-site illustration compares `(T,E,E,E)` with `(E,E,E,T)` at the same length, counts and stable mode. Their next modes differ because only the latter has tau in the terminal three-site window. Thus `(length,tau count,MAP6 count,mode)` cannot carry one exact Markov update on the declared class containing both states. The illustrative reachability argument additionally permits a four-site initial condition and ideal independent draws. It is an unreviewed guide deduction, not a new conclusion about the paper's default runs, finite pseudorandom generator, output-only predictors or all approximate reductions.
+
+The immediate use is to reject this particular count summary as an exact engine state and retain enough spatial information or history for the intended output. A controlled-memory theorem could be a supplier only after its stochastic kernel and observation interfaces are proved for this simulator. No such Lean composition or Rust engine is established here. The guide's printed dwell-time/rate discrepancy also remains a source question; choosing a physical rate or altering a run would require additional evidence.
+
+## Mechanism identification depends on the joint assay
+
+The [kraft-lignin study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12612877/) fits fluorescence quenching together with absorption, size and surface-charge observations. Its authors propose fractionating lignin to compare components more directly. The inspected primary methods also state that nominal concentration uses initially added mass after insoluble material is filtered. The retained mathematical receiver is to specify the physical affinity target, mixture/concentration model and **joint** law of the used channels before claiming identification. This does not establish that the published affinity estimates are wrong.
+
+A useful existing distinction is already formalized in [Gong, Qiu and Tang's PhotoLean preprint, Section 2.4.3](https://arxiv.org/html/2609.32251v1): matched pure static and dynamic Stern–Volmer mechanisms can share their entire intensity curve while their lifetime behavior separates under the stated model. This is external prior work, not a newly discovered result of this corpus. The selected release definitions and criterion were inspected locally at `7594fc2b40f0c0c8b3b60c7ca92487841a41f6b7`; no full dependency audit or Lean replay occurred.
+
+The formal model has only two mechanism tags. Its lifetime/intensity tracking property holds definitionally on the dynamic side and fails for the static side with positive static slope. The released boundary permits zero intrinsic decay under Lean's totalized division, so scientific use needs a physical positive-rate domain in addition to the formal statement. A product-model curvature witness is not a universal converse identifying every physical mixed mechanism.
+
+Lifetime is therefore a candidate extra measurement against the specified intensity ambiguity, not a demonstrated complete solution for the lignin or albumin joint experiments. Heterogeneous emitters, background, instrument response, mixed mechanisms, aggregation and dependent channels need admission. A second statistic computed from the same fluorescence curve is not automatically a new measurement channel.
+
+The confidence-set interface is also useful: report a target only when its image over a valid joint confidence set is a singleton, otherwise abstain. The usual coverage argument bounds the probability of reporting **and** being wrong. It does not automatically bound the error probability conditional on reporting, or protect against a true mechanism outside the model class. A genealogy-specific G6 implementation does not become an assay solver without an effective forward/noise/target adapter.
+
+## Transport across cellular contexts needs identified directions
+
+The cellular-perturbation guide compares retained BIO-4/BIO-5 directions with later primary work. It records an already supplied linear stationary transport criterion. For the declared stable OU model, fixed direct perturbation and additive drift convention, latent mean effects have the form `-A_c^-1 Γ`; equality between contexts requires `(A_c^-1-A_d^-1)Γ=0`. This is query-specific and does not require the entire context matrices to coincide. A known nonidentity transfer can also transport a quantity without direct equality.
+
+The current full Qi–Chapfuwa v3 page returned 403. The criterion and source comparison here are therefore attributed to the retained guide's indexed primary read and pinned code inspection, rather than presented as a newly audited theorem or novel result. Its missing-direction illustration has two stable drift models with identical stationary control and observed-perturbation snapshot laws but different effects in another direction. The example remains an independently unreviewed guide construction. It does not imply equal trajectory laws or failure of all transfer methods; another measurement channel could erase or preserve the unseen distinction.
+
+For spatial models, uniqueness of a parameter inside an admitted undirected family is different from identification of a directed intervention. The guide records Celcomen's specified family and its code's symmetry/diagonal projection. An unrestricted skew-symmetric gauge is not an established error once the actual parameter domain is constrained. Its elementary two-variable equal-observation/different-intervention example likewise is not asserted to belong to Celcomen's family. Single-cell and multicell-spot observations support different spatial interpretations. No scientific owner, benchmark or perturbation run is restarted by these comparisons.
+
+The concrete next mathematical task is an admitted observation/transport adapter: define the contexts, observed perturbation span, target query, measurement channel, available actions and invariant mechanisms or identified map. Existing observation-fibre and experimental-design results can then be assessed against that exact problem. They do not themselves validate a cell predictor or resolve the broader retained biological directions.
+
+## Variant interaction is a declared scale and experiment
+
+The molecular-validation packet defines four matched sequences `R,A,B,AB` and the contrast `f(AB)-f(A)-f(B)+f(R)` for a fixed context, output and aggregation. Its retained example `(1,2,3,6)` has raw interaction 2 but log interaction 0. This is scale-specific nonadditivity, not automatically biochemical contact, causal epistasis or a diploid phenotype. A constructed double edit is hypothetical unless phase is established.
+
+The [official AlphaGenome FAQ](https://www.alphagenomedocs.com/faqs.html) inspected here describes single-sequence inputs and lack of inherent diploid awareness. It also distinguishes raw scores from empirical background quantiles. Such ranks are not additive molecular effects. These interfaces support the retained requirement to fix assembly, reference span, strand, tissue, phase and indel policy before comparing outputs. The FAQ is not used as a complete census of later independent benchmarks.
+
+The preserved protocol is expressly `DESIGN_ONLY_NOT_EXECUTED`: split manifest and usable counts are null, served weights are unfrozen and candidate exposure is unknown. Its proposed component split groups overlapping genomic windows, related alleles/replicates and parent constructs transitively. This addresses one route of context leakage but does not establish that pretrained weights never saw a test example. Proposed bootstrap intervals remain nominal until their sampling/coverage conditions are justified. No candidate dataset has been admitted or test split created by this assessment.
+
+The useful result is a reproducible validation specification and a clear mathematical target for further work. Predictor outputs, assay observations and biological intervention targets still require a justified bridge. Historical synthetic tests are not empirical validation, and a source-only alternatives note is not permission or proof of current live model access. Existing model-testing and source-owner holds remain.
+
+## Status and next receivers
+
+Seven input/result/limit records accompany this note. They support checking a state reduction, designing a mechanism-discriminating assay, reporting with abstention, limiting a transport claim and validating a scale-specific variant target. The open work is concrete: independently review the guide-derived examples, establish actual joint measurement models and effective comparison bounds, then evaluate finite-data behavior on admitted experiments. None is replaced by source availability or a broad analogy to G6/G7. Attribution, review, applicable artifact terms and existing owners remain separate from this source assessment.
+
+
+The [receiver register](CELLULAR-MEASUREMENT-REGISTER.json) records the separate inputs and limitations.
+
+The [statistical decision guide](STATISTICAL-DECISION-CONTRACTS.md) discusses related observation and abstention contracts under its own assumptions. This guide adapts the source recorded in [provenance](../PROVENANCE.md); it is not an independent proof audit.

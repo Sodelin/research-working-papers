@@ -1,0 +1,48 @@
+{
+  "schema": "sodelin.cellular-measurement-receivers.v1",
+  "scope": "Seven distinct receivers, source-specific illustrations and open adapters; no biological validation.",
+  "receivers": [
+    {
+      "id": "SPATIAL-STATE-REDUCTION",
+      "input_contract": "Pinned tau–MAP6 current-grid transition semantics and declared reachable state class.",
+      "result": "Retained terminal-position witness rejects one count-only exact Markov summary.",
+      "limit": "Unreviewed guide deduction; not all reductions, default-run validation or finite-PRNG proof."
+    },
+    {
+      "id": "JOINT-ASSAY-TARGET",
+      "input_contract": "Admitted binding target, mixture/concentration nuisance and actual joint assay law.",
+      "result": "Observation-fibre criteria define a testable identification question and additional-channel receiver.",
+      "limit": "Intensity-only witness does not match the studies’ entire joint experiment."
+    },
+    {
+      "id": "LIFETIME-PRIOR",
+      "input_contract": "PhotoLean two-tag response model, matched slope and physical positive-rate domain.",
+      "result": "Existing formalized intensity ambiguity and lifetime discriminator.",
+      "limit": "External prior; no full build audit or universal mixed-mechanism converse."
+    },
+    {
+      "id": "CONFIDENCE-ABSTENTION",
+      "input_contract": "Joint confidence set with justified coverage and admitted true mechanism.",
+      "result": "Singleton target image supports reporting; otherwise abstain.",
+      "limit": "Joint report-and-error bound is not conditional-on-report error or protection from misspecification."
+    },
+    {
+      "id": "PERTURBATION-TRANSPORT",
+      "input_contract": "Stable stationary latent OU model, same direct perturbation and identified context/measurement interfaces.",
+      "result": "Retained query-specific transport criterion and missing-direction snapshot illustration.",
+      "limit": "Primary full-page 403; illustration unreviewed, not equal trajectories or general transfer impossibility."
+    },
+    {
+      "id": "SPATIAL-DIRECTION",
+      "input_contract": "Declared spatial resolution, constrained interaction family and directed intervention target.",
+      "result": "Separate family-parameter uniqueness from causal direction and tissue admission.",
+      "limit": "Unrestricted gauge and elementary SCM pair are not established Celcomen counterexamples."
+    },
+    {
+      "id": "VARIANT-VALIDATION",
+      "input_contract": "Matched R/A/B/AB context/scale, verified phase/coordinates, admitted assays and exposure.",
+      "result": "Scale-specific interaction and predeclared component-split validation specification.",
+      "limit": "Design-only; no actual split, frozen weights, calibrated intervals or causal/diploid claim."
+    }
+  ]
+}

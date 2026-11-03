@@ -1,0 +1,42 @@
+{
+  "schema": "sodelin.demographic-law-receivers.v1",
+  "scope": "Six distinct exact-law targets and interfaces; no new scientific verification.",
+  "receivers": [
+    {
+      "id": "CANONICAL-EPOCH",
+      "input_contract": "Known starting labels, positive epochs/rates, current-block independent routing and common competitor class.",
+      "result": "Scoped canonical history identification, with distinct two-copy, three-copy and later expansion contracts.",
+      "limit": "Not unrestricted biological encoding, continuous migration or simultaneous-event factorization."
+    },
+    {
+      "id": "OBSERVABLE-TENSOR",
+      "input_contract": "Full-column-rank routing and legal pair/triple short-time events after known-prefix inversion.",
+      "result": "Classical whitening/cubic algebra recovers routing and rates, including ties.",
+      "limit": "Three copies not proved minimal; mathematical inverse not physical intervention."
+    },
+    {
+      "id": "GLOBAL-ALIGNMENT",
+      "input_contract": "Reachable canonical finite-epoch class, legal nested forests and complete balanced panel.",
+      "result": "Later reviewed coherent hidden-name classification and effective finite bound.",
+      "limit": "Local independent permutations alone insufficient; arbitrary computable-real comparison and practical bounds separate."
+    },
+    {
+      "id": "SEQUENCE-LAW-BRIDGE",
+      "input_contract": "Known stationary clock-JC channel, shared genealogy at a locus and specified panel.",
+      "result": "Reviewed polynomial three-tip complete-law cutoff; global bridge uses its full balanced panel.",
+      "limit": "Not finite-locus confidence, unknown clock, recombination or lower/minimal bound."
+    },
+    {
+      "id": "COMMON-WHOLE-MIXTURE",
+      "input_contract": "Admitted COMMON source and row-labelled fixed joint forcing laws across allocations.",
+      "result": "Target-adaptive finite legal observations determine each entire weighted-tree response row.",
+      "limit": "Not graph recovery, cross-row joint counterfactual law, implemented search or finite-I theorem."
+    },
+    {
+      "id": "ACTUAL-POSTERIOR-GERM",
+      "input_contract": "Observed selected no-merger event, positive measured denominator and feasible correlated seed posterior at interior cut.",
+      "result": "Frozen right-germ equality determines occupancy support.",
+      "limit": "Not full hidden posterior, rates/graph identification or physical continuation past boundary."
+    }
+  ]
+}
