@@ -181,3 +181,9 @@ mathematical contracts, original Codex attribution, prior-work credit,
 conditional hypotheses and review boundaries remain. On 3 November 2026 the
 linked source theorem returned HTTP 200 with the recorded 16,000-byte SHA-256
 `b9f799edd2317efc79a13b4ef8a7cdc706ade985b1abea63ebbff141376fb0b6`.
+
+The quantum-loss guide now links the 2026 Barnum–Knill erratum
+([DOI](https://doi.org/10.1063/5.0325563)) and the authors' [revised preprint](https://arxiv.org/abs/quant-ph/0004088v2)
+as a review lead. Publisher metadata was retrieved through Crossref on 3
+November 2026. The exact relation to the separately credited Albarelli–Branford–Rubio
+application has not been audited; no invalidation or fresh proof review is claimed.
