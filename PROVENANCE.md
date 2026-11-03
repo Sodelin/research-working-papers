@@ -153,3 +153,11 @@ The public adaptation uses Sodelin's chosen public identifier in place of the
 source first name. The scientific scope, external attributions, conditions and
 review boundaries are unchanged. Anonymous source-body checks on 3 November
 2026 matched the three hashes recorded in the guide.
+
+The [restricted causal-oracle guide](guide/RESTRICTED-CAUSAL-CONNECTIONS.md)
+is an exact copy of research-connections source
+`b7a867176a91879db34e5f0dc2d6a1fceeda2663:research/restricted-causal-connections.md`
+(SHA-256 `f5fe461b3ec35818e74277a2de2ede0bfbddca2aebd88c2c545f149911678b5f`).
+It preserves the prior-work credit, k=0 target correction and minimax, statistical,
+formal and specialist-review limits. Anonymous public source-body reads on 3
+November 2026 matched the four hashes recorded in the guide.

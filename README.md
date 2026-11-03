@@ -62,6 +62,10 @@ The [statistical testing and resources map](guide/STATISTICAL-RESOURCES.md)
 and [grouped phase-window map](guide/GROUPED-PHASE.md) connect retained
 arguments to established literature while identifying the remaining bridges.
 
+The [restricted causal-oracle guide](guide/RESTRICTED-CAUSAL-CONNECTIONS.md)
+connects a population-query result to prior intervention work, with the
+common-source target, correction and remaining gaps stated.
+
 The [quantum oracle resource guide](guide/QUANTUM-ORACLE-RESOURCES.md)
 explains what changes when oracle implementation and phase-sensitive transfer
 are charged, and identifies the assumptions and review still needed.
