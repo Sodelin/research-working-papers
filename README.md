@@ -26,6 +26,8 @@ The [exact source-edition index](source-editions/README.md) identifies the origi
 
 A [Software Heritage archive](https://archive.softwareheritage.org/swh:1:dir:53126b1dc8e1e3ffeb6f6268ae42bf78a5b61a5a/) preserves the complete public reading collection at [version 0.16.2](https://github.com/Sodelin/research-working-papers/releases/tag/v0.16.2). Its source identifier is `swh:1:dir:53126b1dc8e1e3ffeb6f6268ae42bf78a5b61a5a`. This snapshot is an archive of the collection, not a DOI or a journal publication.
 
+The [citation guide](CITATION.md) gives a reference for the archived collection and pinned links for each of the seven reading editions.
+
 The broader [Research Commons](https://github.com/Sodelin/Research-Commons) and [work relating to Samuel Alexander's research](https://github.com/Sodelin/Work-on-Samuel-Alexander-Research-) contain additional materials. This first selection is not the complete research corpus, and overlapping records are not counts of independent discoveries.
 
 The public reader also provides individual HTML abstracts for the five selected
