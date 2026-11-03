@@ -1,6 +1,8 @@
 # Working research papers
 
 [Open the public reader page](https://sodelin.github.io/research-working-papers/)
+
+[Subscribe to collection updates](https://sodelin.github.io/research-working-papers/feed.xml) with an Atom feed reader.
 for a concise introduction to the papers and guides.
 
 This collection makes a selection of AI-assisted mathematical research available for discussion, correction and collaboration. Each reading edition states its model, sources and current checking status. **Sodelin organizes and shares the project**; the underlying proof sources and AI contributions are credited in the individual papers. A final scientific author list has not been established.

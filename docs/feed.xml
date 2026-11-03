@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://sodelin.github.io/research-working-papers/feed.xml</id>
+  <title>Sodelin research working papers</title>
+  <subtitle>Working manuscripts, source-linked guides and updates for discussion.</subtitle>
+  <updated>2026-11-03T22:17:20Z</updated>
+  <author><name>Sodelin research collection</name></author>
+  <link rel="alternate" href="https://sodelin.github.io/research-working-papers/"/>
+  <link rel="self" href="https://sodelin.github.io/research-working-papers/feed.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/thue-morse</id>
+    <title>Thue–Morse first occurrences and matching heights</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://sodelin.github.io/research-working-papers/papers/thue-morse.html"/>
+    <summary>A reading summary and pinned source for first-occurrence formulas and separate matching-height consequences; the reported Lean scope is stated on the page.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/pattern-hierarchies</id>
+    <title>Pattern hierarchies and selected-digit words</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://sodelin.github.io/research-working-papers/papers/pattern-hierarchies.html"/>
+    <summary>A reading summary of grouped substitutions and selected-digit words, including the correction about Cloitre's revised prior work.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/rna</id>
+    <title>RNA class inference: conditional components</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/a7e487670766e99ac657b9e7189256b52c768c24/guide/RNA-CLASS-INFERENCE.md"/>
+    <summary>A source-based guide to class-mass and sampling certificates and their unproved executable and statistical interfaces.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/reactions</id>
+    <title>Reaction observations and hidden species</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/a7e487670766e99ac657b9e7189256b52c768c24/guide/REACTION-OBSERVATIONS.md"/>
+    <summary>A guide to specified exact-law observation contracts and hidden-species examples, with a separately identified review question.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/lineage</id>
+    <title>Lineage inference: distinct targets</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/a7e487670766e99ac657b9e7189256b52c768c24/guide/LINEAGE-INFERENCE.md"/>
+    <summary>A reading guide to potency scores, hidden-graph ambiguity, observed paths and restricted refinement complexity.</summary>
+  </entry>
+  <entry>
+    <id>tag:sodelin.github.io,2026-11-03:research-working-papers/v0.24.0/sampling</id>
+    <title>Finite sampling, ancestry and diversity</title>
+    <updated>2026-11-03T22:17:20Z</updated>
+    <link rel="alternate" href="https://github.com/Sodelin/research-working-papers/blob/a7e487670766e99ac657b9e7189256b52c768c24/guide/FINITE-SAMPLING.md"/>
+    <summary>A guide to finite ancestry, dependence, rare-route sampling and calibrated collision measurements under stated models.</summary>
+  </entry>
+</feed>
