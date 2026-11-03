@@ -11,6 +11,11 @@ These are working papers, not journal articles or claims of established priority
 3. [Two observations do not make hidden probabilities deterministic](manuscripts/product-coin/MANUSCRIPT.md). An abstract product-Bernoulli example distinguishing constraints on observations from constraints on latent factors.
 4. [Two coordinates for exchangeable three-lineage forests](manuscripts/cap-three/MANUSCRIPT.md). An abstract forest-law calculation and a four-label illustration under stated projectivity and serial-kernel assumptions.
 5. [How a fixed model's observable law changes with its parameters](manuscripts/g6-fixed-cell/MANUSCRIPT.md). A standard polynomial bound and a scoped application to one fixed graph and cell; this is not the full G6 programme.
+6. [Thue–Morse first occurrences, matching heights and juggling](manuscripts/sequence/Thue-Morse-Hand-Proofs.md). A complete preserved hand edition; the linked formal package covers specific first-occurrence statements, while the later consequences are hand results.
+7. [Pattern hierarchies and selected-digit words](manuscripts/sequence/Pattern-Hierarchies-and-Selected-Digit-Proofs.md). Preserved hand proofs and prior-work comparisons for two distinct word families, including an explicit Cloitre correction. No Lean claim is made for this edition.
+
+The [sequence reading notes](manuscripts/sequence/README.md) identify the
+AI review, source versions and missing original receipts for these editions.
 
 [Source and release notes](PROVENANCE.md) identify the source versions, copied bodies and presentation changes. Historical statements in imported source manifests about a draft being local or not authorized for release refer to their original preparation dates; this repository is a subsequent public release.
 

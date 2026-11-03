@@ -32,3 +32,16 @@ selection based on the theorem guide's local commit
 The linked pages are maintained by VibeMathed; all nine returned HTTP 200 on
 3 November 2026. This selection does not reproduce the site's data set or
 establish review, priority or completeness.
+
+The two complete sequence reading bodies were copied byte-for-byte from the
+scientific-library owner's local commit
+`21222b5515f3bd3f3345d02f172ae95027535954`, under
+`research/programme-hand-library/sources/sequence/`. The source library has no
+verified public remote. `Thue-Morse-Hand-Proofs.md` has SHA-256
+`e81fc46687a4de968f67242421daeb3d9761960b1363dedc55abe4a357bd8e35`;
+`Pattern-Hierarchies-and-Selected-Digit-Proofs.md` has SHA-256
+`f9c3201ca6cbc8cb2ea50b39b509a49e66acdec1b7dbf8793f945a7731cf779e`.
+The source's `READING-EDITION-STATUS.md` gives their historical AI-review and
+recovery limits; the [public reading notes](manuscripts/sequence/README.md)
+carry those limits and the correction regarding Cloitre v2. No checker or
+original review receipt is invented, and no new build or review is claimed.
