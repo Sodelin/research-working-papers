@@ -9,7 +9,7 @@ These are working papers, not journal articles or claims of established priority
 
 ## Papers
 
-1. [Two-site identification in a fixed three-taxon pulse model](manuscripts/msci/MANUSCRIPT.md). A proposed identifiability result for a specified coalescent-with-introgression model. The [short overview](manuscripts/msci/evidence/RESEARCH-OVERVIEW-DRAFT.md) introduces the assumptions and open questions. Reported Lean checking covers the analytic formulas, not the full process-to-observation connection.
+1. [Two-site identification in a fixed three-taxon pulse model](manuscripts/msci/MANUSCRIPT.md). A proposed identifiability result for a specified coalescent-with-introgression model. The [short overview](manuscripts/msci/evidence/RESEARCH-OVERVIEW-DRAFT.md) introduces the assumptions and open questions. Reported Lean checking covers the analytic formulas, not the full process-to-observation connection. The [exact source edition](source-editions/msci-052d3ee/README.md) is also preserved for comparison.
 2. [Distinguishing an impossible event from a rare event](manuscripts/calibration/MANUSCRIPT.md). Sharp testing errors in a simple fixed-rate independent-trial model, with a separately reported formal component. The probability calculation is elementary; no novelty claim is made.
 3. [Two observations do not make hidden probabilities deterministic](manuscripts/product-coin/MANUSCRIPT.md). An abstract product-Bernoulli example distinguishing constraints on observations from constraints on latent factors.
 4. [Two coordinates for exchangeable three-lineage forests](manuscripts/cap-three/MANUSCRIPT.md). An abstract forest-law calculation and a four-label illustration under stated projectivity and serial-kernel assumptions.

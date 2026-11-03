@@ -12,6 +12,11 @@ This public reading selection was assembled on 3 November 2026 from the existing
 
 The MSci portable edition includes 42 evidence notes and one figure. Its source manifest names the earlier manuscript-assembly epoch `f33ec4716ea7e4f8551d640e86494395a42fe086`; the copy was taken from `052d3ee`. Its portable manuscript differs from the owner's 75,969-byte source manuscript (SHA-256 `d51e9852b6aee26f6b9dd7c8e23e8a6d00bd2eafa563c6cd2328cbb19cc3cec8`) in packaging and link adaptations. The original proof and review appendices retain their source attribution and stated status. The full historical dependency closure is not included.
 
+The owner's exact manuscript and front-matter bodies at `052d3ee` are also
+available in [the preserved source edition](source-editions/msci-052d3ee/README.md).
+Their recorded SHA-256 values match the original Git bodies; this is a version
+and attribution record, not an additional paper or a new verification.
+
 At this release, display-math delimiters in the four short manuscripts were adapted for GitHub rendering; the fixed-cell paper's unavailable local-only links were replaced by its available public source-package link and an explicit description of the omitted evidence row. The earlier versions remain in import commit `3218297`. No new proof, formal check, empirical validation or independent review is asserted by this release. Existing source papers and primary literature are cited where used; no new license is asserted for third-party materials.
 
 The nine-entry [research connection guide](guide/CONNECTIONS.md) and its
