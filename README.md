@@ -58,6 +58,10 @@ The [Collatz coding connection](guide/COLLATZ-CODING.md) and [controlled-state
 interfaces](guide/CONTROLLED-STATE.md) explain two scoped contributions, their
 prior context and remaining review or generalization gaps.
 
+The [statistical testing and resources map](guide/STATISTICAL-RESOURCES.md)
+and [grouped phase-window map](guide/GROUPED-PHASE.md) connect retained
+arguments to established literature while identifying the remaining bridges.
+
 [Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
 selected Gibbs-certification and coarse-graining results to the external
 questions and the mathematical or physical bridges still needed.
