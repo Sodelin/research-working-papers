@@ -56,6 +56,11 @@ for slug in args.only or SLUGS:
     abstract_html = '\n'.join(f'<p>{escape(part)}</p>' for part in paragraphs)
     description = escape(paragraphs[0][:220], quote=True)
     digest = sha256(raw).hexdigest()
+    pdf_link = (
+        f'<p><a href="{REPO}/releases/download/v0.25.0/calibration-working-source.pdf">'
+        'Download the portable source PDF</a> (literal Markdown and TeX).</p>'
+        if slug == 'calibration' else ''
+    )
     page = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title_html} | Research working papers</title>
@@ -65,6 +70,7 @@ for slug in args.only or SLUGS:
 </head><body><main><p><a href="{SITE}/">← All working papers</a></p><article>
 <h1>{title_html}</h1><div class="status"><strong>Working research material.</strong> Sodelin organizes and shares this AI-assisted project. Contributions, scientific authorship and rights for eventual publications remain open. Source-specific AI attribution and verification limits are in the manuscript; the work has not received independent human specialist review.</div>
 <h2>{heading}</h2>{abstract_html}
+{pdf_link}
 <p><a href="{source_url}">Read the full working manuscript and its evidence</a></p>
 <p><a href="{REPO}/blob/{revision}/PROVENANCE.md">Source and release provenance</a></p>
 <small>Manuscript source SHA-256: {digest}. {source_description} commit {revision}.</small>
