@@ -51,6 +51,10 @@ to their source records and distinguish historical reports from fresh checks.
 working formulas to established special cases, later work and questions for
 specialist review.
 
+The [Collatz coding connection](guide/COLLATZ-CODING.md) and [controlled-state
+interfaces](guide/CONTROLLED-STATE.md) explain two scoped contributions, their
+prior context and remaining review or generalization gaps.
+
 [Quantum results and open interfaces](guide/QUANTUM-CONNECTIONS.md) maps
 selected Gibbs-certification and coarse-graining results to the external
 questions and the mathematical or physical bridges still needed.

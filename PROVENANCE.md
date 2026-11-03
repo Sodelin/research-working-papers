@@ -111,3 +111,12 @@ The adaptation links two exact public Lean endpoint bodies, marks five local
 references unavailable, dates the old publication statements, and adds only
 anonymous byte-identity observations. It does not establish their imported
 proof closures or validate the biological source model.
+
+The [fixed-code Collatz](guide/COLLATZ-CODING.md) and [controlled-state](guide/CONTROLLED-STATE.md) maps
+are adapted from research-connections source commits
+`ae316fa1449f9d1ad234aca8f3f87f3c2d7b98d6:research/collatz-coding-connection.md`
+(SHA-256 `5e697308fab43b4d76f1126b733901ed2227946d5ce49ad4f97758dd9d1186af`)
+and `521fc72bc19107c8d561d52504362b60a58a57ca:research/controlled-state-connections.md`
+(SHA-256 `f55fdd4eac9e1d5984c299a961fb84bdd9bdb525159a99cb757c4cd3b287fccb`).
+The adaptation clarifies a displayed arithmetic expression and removes
+operational bookkeeping; claims, attribution and review limits are unchanged.
